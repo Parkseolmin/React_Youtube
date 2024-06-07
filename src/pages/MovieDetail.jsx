@@ -4,13 +4,12 @@ import Loading from 'components/contents/Loading';
 import NotFound from 'components/contents/NotFound';
 import { useYoutubeInfiniteQuery } from 'hooks/useQuery';
 import VideoCard from 'components/contents/VideoCard';
-import lazyload from 'vanilla-lazyload';
+import LazyLoad from 'vanilla-lazyload';
 
 export default function MovieDetail() {
   useEffect(() => {
-    lazyloadInstance = new lazyload();
+    new LazyLoad();
   }, []);
-  let lazyloadInstance;
   const { listId } = useParams();
   const {
     data: playlistItems,
@@ -42,7 +41,6 @@ export default function MovieDetail() {
             data-src={`https://www.youtube-nocookie.com/embed/${currentVideo.snippet.resourceId.videoId}?autoplay=1&mute=1`}
             width='80%'
             height='540'
-            src={`https://www.youtube-nocookie.com/embed/${currentVideo.snippet.resourceId.videoId}?autoplay=1&mute=1`}
             title={currentVideo.snippet.title}
             style={{ border: 'none', margin: '0 auto' }}
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
