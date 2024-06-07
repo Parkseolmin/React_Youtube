@@ -1,0 +1,41 @@
+.bgContainer {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  // top: 0;
+  // left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.overlay > p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: lightgrey;
+}
+
+.overlay::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 30%; /* 흐릿한 효과의 높이를 조정할 수 있습니다 */
+  background: linear-gradient(
+    transparent,
+    rgba(0, 0, 0, 10)
+  ); /* 상단은 투명에서 시작하여 하단은 더 어두워지는 효과 */
+  z-index: 2; /* 비디오 위에 표시되도록 z-index 설정 */
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

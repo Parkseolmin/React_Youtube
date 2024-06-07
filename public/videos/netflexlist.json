@@ -1,0 +1,2311 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "KGDD9_V6_quj-GcbbGSMD8nL6LU",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 98,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "4ppWZZ7wMm2ODULaVxmisOcOHSc",
+      "id": "PLL1qZqiuec_ShT_3J_VBOfVsDH-ToH-GJ",
+      "snippet": {
+        "publishedAt": "2024-05-17T13:52:55Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "미스터리 수사단 🕵️‍♂️ Agents of Mystery",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oEFQdobmdSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oEFQdobmdSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oEFQdobmdSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oEFQdobmdSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oEFQdobmdSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "미스터리 수사단 🕵️‍♂️ Agents of Mystery",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xWnBmvnbg6OlYdr4RP6eEFhV20w",
+      "id": "PLL1qZqiuec_SBcAq46S8M9agTosoNVsCy",
+      "snippet": {
+        "publishedAt": "2024-05-02T09:00:53Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "슈퍼리치 이방인 💰 Super Rich in Korea",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dAuydMAfAs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dAuydMAfAs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dAuydMAfAs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dAuydMAfAs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dAuydMAfAs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "슈퍼리치 이방인 💰 Super Rich in Korea",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "FB_VK7D-0tuUID_rjB6ETL4c-m4",
+      "id": "PLL1qZqiuec_Sv0UvAGogzR3sC6-XIKQLd",
+      "snippet": {
+        "publishedAt": "2024-04-25T10:13:37Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "종말의 바보 🌏 Goodbye Earth",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1I5aXXwjGvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1I5aXXwjGvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1I5aXXwjGvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1I5aXXwjGvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1I5aXXwjGvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "종말의 바보 🌏 Goodbye Earth",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "hPcvCwmpw6z1tN8LF8E6g3Vlxno",
+      "id": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+      "snippet": {
+        "publishedAt": "2024-04-17T17:16:45Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "더 에이트 쇼 ⏱ The 8 Show",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "더 에이트 쇼 ⏱ The 8 Show",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 37
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QyXIEHluTqCJbCV1-O-X_gxecHk",
+      "id": "PLL1qZqiuec_S5Z16X71hHtjZg-f3g5u1n",
+      "snippet": {
+        "publishedAt": "2024-04-02T04:43:18Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "기생수: 더 그레이 🦠 Parasyte: The Grey",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gtl8r9EHzDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gtl8r9EHzDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gtl8r9EHzDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gtl8r9EHzDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gtl8r9EHzDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "기생수: 더 그레이 🦠 Parasyte: The Grey",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 24
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "I0J1rqqi3TymRxfivB8Fx3vWSiw",
+      "id": "PLL1qZqiuec_Q__d-CZ6N3b8kJQOw0rTk_",
+      "snippet": {
+        "publishedAt": "2024-03-20T02:27:49Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "삼체 👁️ 3 Body Problem",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fO5g6j-yEPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fO5g6j-yEPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fO5g6j-yEPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fO5g6j-yEPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fO5g6j-yEPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "삼체 👁️ 3 Body Problem",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "MEoHxCS7cTt2pzJngK2ZPAV5XJg",
+      "id": "PLL1qZqiuec_RQR7qyB8oyM_86EZtvJx4C",
+      "snippet": {
+        "publishedAt": "2024-03-11T07:36:35Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "홍보하러 온 건 아닌데🏠",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Py2S6H2n37E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Py2S6H2n37E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Py2S6H2n37E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Py2S6H2n37E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Py2S6H2n37E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "홍보하러 온 건 아닌데🏠",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 37
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "04TSGuC-kAN9IgTbn9aZO2b-tXw",
+      "id": "PLL1qZqiuec_TasGNFW8tn_EUIFTf7NRfQ",
+      "snippet": {
+        "publishedAt": "2024-03-10T03:52:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "닭강정 🐔 Chicken Nugget",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mlFsY9Z0Olk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mlFsY9Z0Olk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mlFsY9Z0Olk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mlFsY9Z0Olk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mlFsY9Z0Olk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "닭강정 🐔 Chicken Nugget",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 23
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nPIZxSeEnt_y0haySwG3yCLlfxA",
+      "id": "PLL1qZqiuec_SJklIsI-4mhZCh5oeDnhJr",
+      "snippet": {
+        "publishedAt": "2024-03-08T21:52:20Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "눈물의 여왕 💧 Queen of Tears",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_hI8dleVIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_hI8dleVIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_hI8dleVIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w_hI8dleVIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w_hI8dleVIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "눈물의 여왕 💧 Queen of Tears",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "h8hND387CnkH571QkN4Hb-pI2d0",
+      "id": "PLL1qZqiuec_SUpbvJKPgSg3ElhWW2bvUk",
+      "snippet": {
+        "publishedAt": "2024-02-28T04:49:18Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "로기완 ✈️❤️‍🩹 My Name Is Loh Kiwan",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7-i5wVRv20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7-i5wVRv20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7-i5wVRv20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J7-i5wVRv20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J7-i5wVRv20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "로기완 ✈️❤️‍🩹 My Name Is Loh Kiwan",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "HsQS-F7GNndSo9UNwnMjey_BRVA",
+      "id": "PLL1qZqiuec_SOLX5b3o_zKhiRM7MEBm5o",
+      "snippet": {
+        "publishedAt": "2024-02-21T13:05:03Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "피지컬: 100 시즌2 - 언더그라운드💪 Physical: 100 Season2 - Underground",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hBxRN_Qc1A0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hBxRN_Qc1A0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hBxRN_Qc1A0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hBxRN_Qc1A0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hBxRN_Qc1A0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "피지컬: 100 시즌2 - 언더그라운드💪 Physical: 100 Season2 - Underground",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 43
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "in-cUvgd-A1gVSwl2QGN-owepi8",
+      "id": "PLL1qZqiuec_QjDIkz3025vrC9gn7R0GC5",
+      "snippet": {
+        "publishedAt": "2024-02-19T08:21:12Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "성+인물: 네덜란드, 독일 편💘",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PWyofAy5vVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PWyofAy5vVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWyofAy5vVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PWyofAy5vVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PWyofAy5vVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "성+인물: 네덜란드, 독일 편💘",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nxA7R8bls2psG8Vi7b64wm2ZbNs",
+      "id": "PLL1qZqiuec_TKMc1ZHYvC2zbJna7x0Vh4",
+      "snippet": {
+        "publishedAt": "2024-02-07T02:02:40Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "살인자ㅇ난감 ⭕️ A Killer Paradox",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EVpx-ujoplM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EVpx-ujoplM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EVpx-ujoplM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EVpx-ujoplM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EVpx-ujoplM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "살인자ㅇ난감 ⭕️ A Killer Paradox",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PoAofGoIT6YNHvK3a4fjx87n5SI",
+      "id": "PLL1qZqiuec_SaVg6mT-sErjbMmtAeRHQp",
+      "snippet": {
+        "publishedAt": "2024-01-23T02:58:42Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "황야 👊 Badland Hunters",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JDsGAbj0vSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JDsGAbj0vSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JDsGAbj0vSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JDsGAbj0vSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JDsGAbj0vSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "황야 👊 Badland Hunters",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "d-rf_glfg4m2oG8-AlSVmutEWt0",
+      "id": "PLL1qZqiuec_RsNZ2NxaKTpcb_ITxkbcVh",
+      "snippet": {
+        "publishedAt": "2024-01-17T09:26:41Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "선산 ⛰ The Bequeathed",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JxgOu0UNhkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JxgOu0UNhkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JxgOu0UNhkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JxgOu0UNhkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JxgOu0UNhkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "선산 ⛰ The Bequeathed",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 9
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LMiD3tmvKxJwJfL5eZbNqODJGPE",
+      "id": "PLL1qZqiuec_TWmrPz1Qa4ikzPj28HefXD",
+      "snippet": {
+        "publishedAt": "2023-12-20T04:05:37Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "경성크리처 🌸 Gyeongseong Creature",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LGFXen0iHy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LGFXen0iHy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LGFXen0iHy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LGFXen0iHy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LGFXen0iHy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "경성크리처 🌸 Gyeongseong Creature",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zO8urnMioVidH3JQVkyLlDDYZzE",
+      "id": "PLL1qZqiuec_TJbbp3xykv5YFohpPhjMpm",
+      "snippet": {
+        "publishedAt": "2023-11-24T11:14:21Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "마이 데몬 😈 My Demon",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alUdLd25Yiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alUdLd25Yiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alUdLd25Yiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/alUdLd25Yiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/alUdLd25Yiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "마이 데몬 😈 My Demon",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jt6gUh_5l0wc1grAmjpWmRWBMDE",
+      "id": "PLL1qZqiuec_RsTcgEUCO1PRAjlzdpK04E",
+      "snippet": {
+        "publishedAt": "2023-11-20T06:07:16Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "스위트홈 🏠👾 Sweet Home",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gFOFHQJyNbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gFOFHQJyNbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gFOFHQJyNbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gFOFHQJyNbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gFOFHQJyNbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "스위트홈 🏠👾 Sweet Home",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 56
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Bu6cvz_xfzTxjiJhsbRVXkNco2A",
+      "id": "PLL1qZqiuec_TPJXlY4ieR7SrJefGrOdYN",
+      "snippet": {
+        "publishedAt": "2023-11-15T07:21:52Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "독전 2 ☠️ Believer 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJjkkvdy6JA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJjkkvdy6JA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJjkkvdy6JA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AJjkkvdy6JA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AJjkkvdy6JA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "독전 2 ☠️ Believer 2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wnG-uKdSWRlxH1yPG_dt5wpXEWM",
+      "id": "PLL1qZqiuec_St5aCHo7iN7sK1A0Sgq8am",
+      "snippet": {
+        "publishedAt": "2023-11-07T08:37:52Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "요즘 넷플 뭐봄 | What's on YOUR Netflix",
+        "description": "전국민 넷플 취향 탐구쇼!\n꽁꽁 숨겨져있던 넷플릭스 띵작 리스트를 공개합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vVQfASo7EDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vVQfASo7EDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vVQfASo7EDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vVQfASo7EDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vVQfASo7EDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "요즘 넷플 뭐봄 | What's on YOUR Netflix",
+          "description": "전국민 넷플 취향 탐구쇼!\n꽁꽁 숨겨져있던 넷플릭스 띵작 리스트를 공개합니다."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 36
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "L6VGnqU1E_vO_IHXIuoR8jP3gIU",
+      "id": "PLL1qZqiuec_Sn_GbseIseS407hPOAN3j7",
+      "snippet": {
+        "publishedAt": "2023-11-02T04:42:28Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "정신병동에도 아침이 와요 ☀️ Daily Dose of Sunshine",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dlWPQMpr9lQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dlWPQMpr9lQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dlWPQMpr9lQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dlWPQMpr9lQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dlWPQMpr9lQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "정신병동에도 아침이 와요 ☀️ Daily Dose of Sunshine",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "CuUkr9wHm60_rNCHVYokCeet07U",
+      "id": "PLL1qZqiuec_R9UwhEplp8aKD6sxNvVD3U",
+      "snippet": {
+        "publishedAt": "2023-10-31T06:08:19Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "무인도의 디바 🌴 Castaway Diva",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kN2JJAe9ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kN2JJAe9ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kN2JJAe9ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7kN2JJAe9ic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7kN2JJAe9ic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "무인도의 디바 🌴 Castaway Diva",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JbEAGYJuKvrNBTw3mQW_RfrH4NM",
+      "id": "PLL1qZqiuec_RViSGt-JffbHgCzQPLOd4S",
+      "snippet": {
+        "publishedAt": "2023-10-30T09:25:42Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "코미디 로얄 🎙️ Comedy Royale",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0xKyUMvyoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0xKyUMvyoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0xKyUMvyoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0xKyUMvyoo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0xKyUMvyoo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "코미디 로얄 🎙️ Comedy Royale",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "dTvWOhZnBQQXDFpgbuSHvmnlG1E",
+      "id": "PLL1qZqiuec_SDnQDQF-vx3mN0adtfnI46",
+      "snippet": {
+        "publishedAt": "2023-10-02T10:32:14Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "발레리나 🩰 Ballerina",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chaRqFaeV-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chaRqFaeV-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chaRqFaeV-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/chaRqFaeV-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/chaRqFaeV-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "발레리나 🩰 Ballerina",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_tkt-8UT9IhL-H1ty7w0APTx5Cg",
+      "id": "PLL1qZqiuec_SfZSR1BEyR4UfFy08ZmLe6",
+      "snippet": {
+        "publishedAt": "2023-10-01T14:09:25Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "이두나! ❤️ Doona!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nr3lDcl_jHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nr3lDcl_jHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nr3lDcl_jHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nr3lDcl_jHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nr3lDcl_jHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "이두나! ❤️ Doona!",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 23
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "I4ZxAzvZ3p7pYb6dZgyqqAUgBZg",
+      "id": "PLL1qZqiuec_TVibTYv2v7OICj_D1pLrCV",
+      "snippet": {
+        "publishedAt": "2023-09-19T04:56:33Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "도적: 칼의 소리 🗡️ Song of the Bandits",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AbTuZI6BV6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AbTuZI6BV6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AbTuZI6BV6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AbTuZI6BV6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AbTuZI6BV6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "도적: 칼의 소리 🗡️ Song of the Bandits",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "w3RkBY1sUtlf_ncaU6PY7jh505o",
+      "id": "PLL1qZqiuec_ThWI1-jv6gePOxgQ5qB5GS",
+      "snippet": {
+        "publishedAt": "2023-09-12T01:02:45Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "데블스 플랜 😈 The Devil's Plan",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F4wO3nMIZ2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F4wO3nMIZ2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F4wO3nMIZ2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F4wO3nMIZ2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F4wO3nMIZ2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "데블스 플랜 😈 The Devil's Plan",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 35
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "bJroV61hK9pQI8BlGf-gKCUH_yM",
+      "id": "PLL1qZqiuec_QN4ELEmwuQDzS8lXGyUl_F",
+      "snippet": {
+        "publishedAt": "2023-08-31T12:11:46Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "이 연애는 불가항력 💞 Destined With You",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BRtZ5hi4gsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BRtZ5hi4gsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BRtZ5hi4gsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BRtZ5hi4gsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BRtZ5hi4gsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "이 연애는 불가항력 💞 Destined With You",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 4
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DgyUjHUz4e52LdWFWd9zVZKKbMc",
+      "id": "PLL1qZqiuec_SzPjeCugbaHWWMdVV9pdSE",
+      "snippet": {
+        "publishedAt": "2023-08-31T06:45:55Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "너의 시간 속으로 📼 A Time Called You",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtD238tJv9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtD238tJv9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtD238tJv9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FtD238tJv9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FtD238tJv9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "너의 시간 속으로 📼 A Time Called You",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LgsfMtXmSghZtFLUuRjO2og6Z2k",
+      "id": "PLL1qZqiuec_SrY8xhkfy3_C9CUgCQ_E4F",
+      "snippet": {
+        "publishedAt": "2023-08-28T09:07:41Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "힙하게 🐰 Behind Your Touch",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6JPQLeKIS8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6JPQLeKIS8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6JPQLeKIS8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6JPQLeKIS8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6JPQLeKIS8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "힙하게 🐰 Behind Your Touch",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "BBWH6Q4l7K46awKPFO0TNN5ee_U",
+      "id": "PLL1qZqiuec_S-YqjMNVm0-aPmoTN9-onF",
+      "snippet": {
+        "publishedAt": "2023-08-28T07:50:17Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "성+인물: 대만편💘",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cClBLfPock/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cClBLfPock/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cClBLfPock/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-cClBLfPock/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-cClBLfPock/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "성+인물: 대만편💘",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Pu2eehzXnyfVR8OAbRnYDL6Q1Ec",
+      "id": "PLL1qZqiuec_QXDqi4m9i17huv2a538uD-",
+      "snippet": {
+        "publishedAt": "2023-08-14T11:53:46Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "마스크걸 💛✨ Mask Girl",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YE9URV6pKRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YE9URV6pKRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YE9URV6pKRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YE9URV6pKRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YE9URV6pKRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "마스크걸 💛✨ Mask Girl",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "YEdZM6oh88AYFj1OpQm2krXIhmE",
+      "id": "PLL1qZqiuec_SwwgLVC0-yp-A8ji4cpxPx",
+      "snippet": {
+        "publishedAt": "2023-08-07T08:18:56Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "좀비버스 🧟‍♂️🧟‍♀️ Zombieverse",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fxrn2_oNt5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fxrn2_oNt5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fxrn2_oNt5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fxrn2_oNt5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fxrn2_oNt5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "좀비버스 🧟‍♂️🧟‍♀️ Zombieverse",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Uon7v26KuDxIe_b46Uwbo9qSwj4",
+      "id": "PLL1qZqiuec_Q5ch0tGQcl5Jlte7yeTvTJ",
+      "snippet": {
+        "publishedAt": "2023-07-10T04:09:38Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "19/20 열아홉스물 🏫 Nineteen To Twenty",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oH69gIo4q_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oH69gIo4q_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oH69gIo4q_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oH69gIo4q_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oH69gIo4q_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "19/20 열아홉스물 🏫 Nineteen To Twenty",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "RUT5v6jvf96cfPZNFd8uMow55TI",
+      "id": "PLL1qZqiuec_TEDH3g3EN2P8niXJMGsdLv",
+      "snippet": {
+        "publishedAt": "2023-06-28T07:28:40Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "셀러브리티 👗🎉 Celebrity",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6x2mopshZqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6x2mopshZqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6x2mopshZqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6x2mopshZqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6x2mopshZqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "셀러브리티 👗🎉 Celebrity",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "qf3MjlO92ELsUzRIjV89m0v6gBw",
+      "id": "PLL1qZqiuec_Q8VkL3DvIWvg5yPYMOWzNd",
+      "snippet": {
+        "publishedAt": "2023-06-22T10:06:58Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "킹더랜드 👑 King the Land",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DCRrUVkQCH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DCRrUVkQCH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DCRrUVkQCH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DCRrUVkQCH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DCRrUVkQCH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "킹더랜드 👑 King the Land",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JwGYcaysOQwolgYclciLLVr3nw4",
+      "id": "PLL1qZqiuec_R26xr21DPbAsipOVGUjO-B",
+      "snippet": {
+        "publishedAt": "2023-06-07T05:15:44Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "사냥개들 👊🏻 Bloodhounds",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXsyiY8ZSwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXsyiY8ZSwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXsyiY8ZSwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zXsyiY8ZSwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zXsyiY8ZSwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "사냥개들 👊🏻 Bloodhounds",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "c9GOd6HZ2-MesYn1EuP4655p_eM",
+      "id": "PLL1qZqiuec_QiOKoPXvpAPs6KCAZH16oN",
+      "snippet": {
+        "publishedAt": "2023-05-30T19:54:09Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "TUDUM 2023: 넷플릭스 글로벌 팬 이벤트 | 브라질 라이브 중계",
+        "description": "넷플릭스의 최대 글로벌 팬 이벤트 TUDUM이 올해는 브라질에서 라이브 대면 행사로 진행됩니다! 넷플릭스 소식, 단독 공개 영상과 퍼스트룩으로 가득 채워질 이 흥미진진한 이벤트에서 여러분이 사랑하는 전 세계 스타와 크리에이터들을 만나보세요. 여러 넷플릭스 YouTube 채널을 통해 45편 이상의 영화와 시리즈, 게임이 소개될 예정이랍니다. 세계 곳곳에서 찾아올 기대 만점 시리즈와 영화의 비하인드 스토리를 즐길 수 있는 자리이니, 절대 놓쳐선 안 되겠죠? 이번 Tudum 이벤트에서는 《기묘한 이야기》 《오징어 게임》 《브리저튼》 《위쳐》 등 인기 시리즈의 새로운 시즌과 《원피스》 《아바타: 아앙의 전설》 《삼체》 등 신작 시리즈를 미리 만나볼 수 있습니다. 그리고 《익스트랙션 2》 《하트 오브 스톤》 등 블록버스터 영화 대작들에 대한 새로운 소식도 발표된다고 하네요. 넷플릭스가 팬들을 위해 준비한 Tudum 이벤트, 많이 기대해 주세요!\n\n#TUDUM\n이벤트 라이브 중계는 6월 18일 오전 5:30에 시작됩니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R3bm6k5egPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R3bm6k5egPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R3bm6k5egPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R3bm6k5egPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R3bm6k5egPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "TUDUM 2023: 넷플릭스 글로벌 팬 이벤트 | 브라질 라이브 중계",
+          "description": "넷플릭스의 최대 글로벌 팬 이벤트 TUDUM이 올해는 브라질에서 라이브 대면 행사로 진행됩니다! 넷플릭스 소식, 단독 공개 영상과 퍼스트룩으로 가득 채워질 이 흥미진진한 이벤트에서 여러분이 사랑하는 전 세계 스타와 크리에이터들을 만나보세요. 여러 넷플릭스 YouTube 채널을 통해 45편 이상의 영화와 시리즈, 게임이 소개될 예정이랍니다. 세계 곳곳에서 찾아올 기대 만점 시리즈와 영화의 비하인드 스토리를 즐길 수 있는 자리이니, 절대 놓쳐선 안 되겠죠? 이번 Tudum 이벤트에서는 《기묘한 이야기》 《오징어 게임》 《브리저튼》 《위쳐》 등 인기 시리즈의 새로운 시즌과 《원피스》 《아바타: 아앙의 전설》 《삼체》 등 신작 시리즈를 미리 만나볼 수 있습니다. 그리고 《익스트랙션 2》 《하트 오브 스톤》 등 블록버스터 영화 대작들에 대한 새로운 소식도 발표된다고 하네요. 넷플릭스가 팬들을 위해 준비한 Tudum 이벤트, 많이 기대해 주세요!\n\n#TUDUM\n이벤트 라이브 중계는 6월 18일 오전 5:30에 시작됩니다"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ddV8wZ5EyGaNjqnRcNB2dT2BBUQ",
+      "id": "PLL1qZqiuec_RmzGtIrSKI5X84H_OvBQ2W",
+      "snippet": {
+        "publishedAt": "2023-05-26T08:28:50Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "사이렌: 불의 섬 🔥 Siren: Survive the Island",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YcgUXTNSK0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YcgUXTNSK0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YcgUXTNSK0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YcgUXTNSK0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YcgUXTNSK0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "사이렌: 불의 섬 🔥 Siren: Survive the Island",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-oWRkr_qtCyNlDkj2FmTyYcilE8",
+      "id": "PLL1qZqiuec_STcDmoCyrpkxrzktT-j-Bt",
+      "snippet": {
+        "publishedAt": "2023-05-09T08:14:11Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "택배기사 💪 Black Knight",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0hUjxSTCNHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0hUjxSTCNHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hUjxSTCNHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0hUjxSTCNHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0hUjxSTCNHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "택배기사 💪 Black Knight",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZHIkmySWsQZ677OwYWSnuaRtCcM",
+      "id": "PLL1qZqiuec_TMzMlLiY1zVenusjUt8Sul",
+      "snippet": {
+        "publishedAt": "2023-04-21T10:45:49Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "성+인물: 일본편💘",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kKz-_cUMYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kKz-_cUMYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kKz-_cUMYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7kKz-_cUMYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7kKz-_cUMYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "성+인물: 일본편💘",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ogI5iueZ2GWXe5eOTuJ1CgVi3Pc",
+      "id": "PLL1qZqiuec_SloNe1t0rLQqkTap4NYUYT",
+      "snippet": {
+        "publishedAt": "2023-04-12T07:09:22Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "퀸메이커 🥇 Queenmaker",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qB3WD7vsb1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qB3WD7vsb1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qB3WD7vsb1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qB3WD7vsb1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qB3WD7vsb1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "퀸메이커 🥇 Queenmaker",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JnuRK1zLDhwgo7xbN8Pd70KpMto",
+      "id": "PLL1qZqiuec_QvYe9vH3BZ5MAw1LwSBehX",
+      "snippet": {
+        "publishedAt": "2023-02-24T09:09:43Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "길복순 🪓🔪 Kill Boksoon",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQk1q2pM_H8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQk1q2pM_H8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQk1q2pM_H8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZQk1q2pM_H8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZQk1q2pM_H8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "길복순 🪓🔪 Kill Boksoon",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "C2XCJ4fpva9xVt7l1IgEPWdZjVk",
+      "id": "PLL1qZqiuec_QaDKQA1io4Iilyr8jq_3CM",
+      "snippet": {
+        "publishedAt": "2023-02-13T23:59:22Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "스마트폰을 떨어뜨렸을 뿐인데 📱 Unlocked",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoKCLmThA7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoKCLmThA7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoKCLmThA7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eoKCLmThA7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eoKCLmThA7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "스마트폰을 떨어뜨렸을 뿐인데 📱 Unlocked",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "fVq241PjLCzFH8tzFa2f-TCet0w",
+      "id": "PLL1qZqiuec_TBg7uscRPzZsH57fQvLIUB",
+      "snippet": {
+        "publishedAt": "2023-02-06T02:10:04Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "연애대전 💕 Love to Hate you",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBodh3V_1h4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBodh3V_1h4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBodh3V_1h4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OBodh3V_1h4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OBodh3V_1h4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "연애대전 💕 Love to Hate you",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "44Mn0fpcBwjnDyUrFoXbHyVkizU",
+      "id": "PLL1qZqiuec_ROr8PLYZtyR5c5zeTKQ3oY",
+      "snippet": {
+        "publishedAt": "2023-01-19T09:46:24Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "정이 🤖 JUNG_E",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9w52OyOC5ZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9w52OyOC5ZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9w52OyOC5ZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9w52OyOC5ZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9w52OyOC5ZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "정이 🤖 JUNG_E",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jMSifbKcxdivzTBBXXdfpbpV5-U",
+      "id": "PLL1qZqiuec_QKoY2PE2hoiOcJtAajaZ5X",
+      "snippet": {
+        "publishedAt": "2023-01-10T10:14:53Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "피지컬:100 💪 Physical:100",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N2yphITSGFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N2yphITSGFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N2yphITSGFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N2yphITSGFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N2yphITSGFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "피지컬:100 💪 Physical:100",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 34
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0ahuVPKFgZHunsX3v4a2Wr-elV4",
+      "id": "PLL1qZqiuec_QphlWhyX055TpazSdH7jID",
+      "snippet": {
+        "publishedAt": "2022-12-29T14:15:46Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "더 글로리 ⚔️👩🏻‍🏫 The Glory",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vJBr2W-xjkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vJBr2W-xjkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vJBr2W-xjkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vJBr2W-xjkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vJBr2W-xjkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "더 글로리 ⚔️👩🏻‍🏫 The Glory",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 32
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "MYSBNgiTSJU25NJUxF5lwc_ppQA",
+      "id": "PLL1qZqiuec_TWGX8cgOfwF7wPTAC4sch3",
+      "snippet": {
+        "publishedAt": "2022-12-18T13:22:36Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "더 패뷸러스 💕👠 The Fabulous",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MOWgMPl8OAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MOWgMPl8OAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MOWgMPl8OAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MOWgMPl8OAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MOWgMPl8OAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "더 패뷸러스 💕👠 The Fabulous",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 11
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jAr_Te8PNZV-Nr6Fi_UUz5eJ9A4",
+      "id": "PLL1qZqiuec_S7hEFw9Di8MYTEaCcrRjQT",
+      "snippet": {
+        "publishedAt": "2022-12-14T04:12:27Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "❤️‍🔥6월 넷플릭스 신작❤️‍🔥",
+        "description": "2024년 6월에 공개되는 넷플릭스 신작 리스트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ODkUMVrG120/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ODkUMVrG120/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ODkUMVrG120/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ODkUMVrG120/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ODkUMVrG120/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "localized": {
+          "title": "❤️‍🔥6월 넷플릭스 신작❤️‍🔥",
+          "description": "2024년 6월에 공개되는 넷플릭스 신작 리스트"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 11
+      }
+    }
+  ]
+}

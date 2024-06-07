@@ -1,0 +1,51 @@
+.errorContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.errorContent {
+  text-align: center;
+  padding: 20px;
+}
+
+.errorCode {
+  font-size: 80px;
+  font-weight: bold;
+  color: #218a5f;
+  margin: 20px 0 10px; /* 위 아래로 여유 있게 조정 */
+}
+
+.errorMessage {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin: 10px 0 20px; /* 메시지와 본문 사이의 간격 증가 */
+}
+
+errorContent > p {
+  color: #555;
+  font-weight: bold;
+  line-height: 1.6;
+  margin-bottom: 20px; /* 문단 사이의 간격을 늘림 */
+  font-size: 1.5rem;
+}
+
+.homeLink {
+  display: inline-block;
+  margin-top: 30px; /* 링크와 문단 사이의 간격을 늘림 */
+  background-color: #218a5f;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.homeLink:hover {
+  background-color: #1a6d4f;
+  transform: translateY(-2px);
+}

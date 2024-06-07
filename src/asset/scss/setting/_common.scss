@@ -1,0 +1,116 @@
+body {
+  background-color: var(--black);
+  color: var(--white);
+}
+
+// 섹션 공통 요소
+section {
+  padding: 10px;
+
+  @media (max-width: 800px) {
+    padding: 8px;
+  }
+  @media (max-width: 400px) {
+    padding: 6px;
+  }
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+}
+
+img {
+  cursor: pointer;
+}
+
+.video__more {
+  text-align: center;
+  button {
+    width: 100%;
+    border: 0;
+    padding: 20px;
+    background-color: var(--black100);
+    color: var(--white);
+    transition: all 0.3s;
+    cursor: pointer;
+    border-radius: 40px;
+    margin: 20px auto;
+
+    &:hover {
+      background-color: var(--black200);
+    }
+    &.relatedBtn {
+      width: 100%;
+      line-height: 20px;
+      border: 0;
+      padding: 10px;
+      background-color: var(--black100);
+      border-radius: 0px;
+      color: var(--white);
+      transition: all 0.3s;
+      cursor: pointer;
+      margin: 10px auto;
+
+      &:hover {
+        background-color: var(--black200);
+      }
+    }
+  }
+}
+
+// 마우스 오버 아이콘
+.play__icon {
+  a {
+    position: relative;
+    display: block;
+    cursor: pointer;
+    width: 100%;
+
+    &::before {
+      content: '';
+      width: 100%;
+      height: 100%;
+      background-color: var(--blackAlpha200);
+      position: absolute;
+      left: 0;
+      top: 0;
+      transition: background-color 0.3s;
+    }
+
+    &:hover::before {
+      background-color: var(--blackAlpha);
+    }
+
+    &::after {
+      content: '';
+      width: 80px;
+      height: 80px;
+      background: var(--blackAlpha400) url(../../img/icon/play.svg) no-repeat
+        center;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 50%;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    &:hover::after {
+      opacity: 1;
+    }
+  }
+}
+
+// Light모드
+html.dark {
+  --black: #ffffff;
+  --white: #1b1b1b;
+  --black500: #bdbdbd;
+  --black200: #222;
+}
+/* 스크롤바 전체 영역 */
+::-webkit-scrollbar {
+  width: 1px; /* 세로축 스크롤바 폭 너비 */
+  height: 1px; /* 가로축 스크롤바 폭 너비 */
+}

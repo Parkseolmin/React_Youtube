@@ -1,0 +1,862 @@
+{
+   "kind": "youtube#searchListResponse",
+   "etag": "YfDKJGBpy2C9mw9NF7ERe55Snhc",
+   "nextPageToken": "CBkQAA",
+   "regionCode": "KR",
+   "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+   },
+   "items": [
+      {
+         "kind": "youtube#searchResult",
+         "etag": "JmlaS_nt8TnJFd2WRI9z07tZhTI",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "DB36XNP-hJM"
+         },
+         "snippet": {
+            "publishedAt": "2024-03-24T03:36:37Z",
+            "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+            "title": "[날씨] 중부 봄기운 물씬, 낮 서울 22도…남해안 제주 비 / 연합뉴스TV (YonhapnewsTV)",
+            "description": "[날씨] 중부 봄기운 물씬, 낮 서울 22도…남해안 제주 비 [앵커] 휴일인 오늘 중부지방은 완연한 봄 날씨를 보이겠습니다. 한낮에 서울 22 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/DB36XNP-hJM/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/DB36XNP-hJM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/DB36XNP-hJM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "연합뉴스TV",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-03-24T03:36:37Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "s8F2pjTn2GceNN3ePjn7iStC8GQ",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "PpxgrMT_Vx0"
+         },
+         "snippet": {
+            "publishedAt": "2024-03-23T11:00:31Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "환승연애 못 나가는 모태솔로의.. 후쿠오카 여행기",
+            "description": "후쿠오카여행#나홀로후쿠오카 나는솔로 연락 기다릴게요.... koyobi@sandbox.co.kr 고요비 인스타 - @koyobimood Music by ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/PpxgrMT_Vx0/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/PpxgrMT_Vx0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/PpxgrMT_Vx0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-03-23T11:00:31Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "49iHzwj5HktJLTMfpc1_6qMp26Q",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "MvAC0YV_Hxs"
+         },
+         "snippet": {
+            "publishedAt": "2024-03-21T12:06:06Z",
+            "channelId": "UCgqMjKxRWAKUvgYqgomighw",
+            "title": "[날씨] 충북 내일~모레 비…주말까지 포근해요 / KBS  2024.03.21.",
+            "description": "꽃샘추위가 물러나고 내일은 기온이 크게 오르겠습니다. 내일 청주 아침 기온 3도로 출발하겠고요. 한낮 기온은 18도까지 오르며 오늘 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/MvAC0YV_Hxs/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/MvAC0YV_Hxs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/MvAC0YV_Hxs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "KBS충북",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-03-21T12:06:06Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "QG04_IoSSEv51GM7MDbKpQNcSYs",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "bj5z4guG1yI"
+         },
+         "snippet": {
+            "publishedAt": "2024-03-17T10:30:16Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 떨어지는 매출 속에서 너의 샴푸향이 느껴진거야.. / 비수기 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 오래 기다리셨습니다 제대로 모시겠습니다. 너무 늦은 것 같아서 죄송함다.. 늦은 벌로 3 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/bj5z4guG1yI/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/bj5z4guG1yI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/bj5z4guG1yI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-03-17T10:30:16Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "gnfR6-d_7GlOoj4s0qCnaOCdInk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "EwvbbS2PODs"
+         },
+         "snippet": {
+            "publishedAt": "2024-03-16T08:51:40Z",
+            "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+            "title": "[날씨] 내일 새벽 곳곳 비 살짝…오후부터 찬바람 / 연합뉴스TV (YonhapnewsTV)",
+            "description": "[날씨] 내일 새벽 곳곳 비 살짝…오후부터 찬바람 오늘 하루 날이 정말 따뜻했습니다. 낮 동안 대구가 22.1도를 기록하며, 4월 중순처럼 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/EwvbbS2PODs/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/EwvbbS2PODs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/EwvbbS2PODs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "연합뉴스TV",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-03-16T08:51:40Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "9mOY9ypTVJgDxfw9LXtJ5YukoGA",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "LOp1La3M1vs"
+         },
+         "snippet": {
+            "publishedAt": "2024-03-04T10:30:11Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 물 들어올 때 노젓는 자영업자의 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 이 영상은 제이숲의 유료광고를 포함하고 있습니다 제이숲 올리브영 3월 세일 정보   ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/LOp1La3M1vs/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/LOp1La3M1vs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/LOp1La3M1vs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-03-04T10:30:11Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "qhcvKbv-yvBOR4CjOYy1-uG19a4",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "luLm9-ZNP5Q"
+         },
+         "snippet": {
+            "publishedAt": "2024-02-27T14:45:02Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 이게 맞아..? 핫플 디저트카페의 민낯",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 오늘도 봐주셔서 감사합니다! 감기 조심하시고 저는 또 올게요! (업로드 오류로 보다가 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/luLm9-ZNP5Q/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/luLm9-ZNP5Q/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/luLm9-ZNP5Q/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-02-27T14:45:02Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "8s_OKkq4ViWt5nWgrgD6jOAAHU0",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "LoICGbdeSiM"
+         },
+         "snippet": {
+            "publishedAt": "2024-02-24T03:53:47Z",
+            "channelId": "UC3-fsv23A6HxsT8GxOJsYIQ",
+            "title": "AI Generated Art 동영상시 &#39;고요비&#39; 안 보면 후회하는 신비로운 미드저니 예술  Midjourney Animation Video 4K 시미지 AImage",
+            "description": "'고요비'는 비가 내리는 날과 눈물이 흐르는 날, 세상이 잠에 빠지는 고요함을 표현하고 있습니다. '요란한 빗방울'과 '요란한 눈물'은 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/LoICGbdeSiM/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/LoICGbdeSiM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/LoICGbdeSiM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "시미지",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-02-24T03:53:47Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "djDYPkbR4iHQ89a4B8-Rc0LuUmE",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "-zXoBeDvLS0"
+         },
+         "snippet": {
+            "publishedAt": "2024-02-16T15:00:00Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 홍대 감성카페 사장으로 살아남는 법....",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 이 영상은 에스트라의 유료광고를 포함하고 있습니다 더 강력해져서 돌아온! (민)감성 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/-zXoBeDvLS0/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/-zXoBeDvLS0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/-zXoBeDvLS0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-02-16T15:00:00Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "8nFmSf1vGl5xullW-jTACjs-Pqc",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "tHdANk5NOmg"
+         },
+         "snippet": {
+            "publishedAt": "2024-02-10T03:45:02Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 너가 &#39;소금빵 맛있어&#39; 했잖아? 붕어빵 이딴거 안팔았어",
+            "description": "카페브이로그#디저트카페브이로그#붕어빵브이로그 아쉽게도 붕어빵은 매일 판매하고 있지 않습니다 여러분 ㅠ 소금빵은 어때요.",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/tHdANk5NOmg/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/tHdANk5NOmg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/tHdANk5NOmg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-02-10T03:45:02Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "E2n1JzdGsx0R_fO_3cLWMsTzeYM",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "EfDy1lwoxU8"
+         },
+         "snippet": {
+            "publishedAt": "2024-01-27T10:00:08Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 백수출신 사장이 3년째 디저트카페를 운영할 수 있었던 이유",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 이 영상은 배민상회의 유료광고를 포함하고 있습니다 늙었다는 건 살아남았다는 거.",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/EfDy1lwoxU8/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/EfDy1lwoxU8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/EfDy1lwoxU8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-01-27T10:00:08Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "PFnW18QN8e3vPIByw0PdCFJ30IU",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "yXZhkFr04Bg"
+         },
+         "snippet": {
+            "publishedAt": "2024-01-22T11:44:26Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "붕어빵 장사 시작하고 매출 15000 기록하는 카페사장이야기",
+            "description": "cafevlog #디저트카페브이로그 #붕어빵브이로그 붕어빵 창업비용 150만원 = 붕어카 40만원 + 붕어기계 110만원 나머지는 별도 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/yXZhkFr04Bg/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/yXZhkFr04Bg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/yXZhkFr04Bg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-01-22T11:44:26Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "D3-Q5aBMN-HneSDl2wJttXQaWck",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "rFyYgdHfseI"
+         },
+         "snippet": {
+            "publishedAt": "2024-01-19T16:25:46Z",
+            "channelId": "UCISF1NioQmY-EU5taVMwVbg",
+            "title": "고요비또요 (연인이여)",
+            "description": "고요비또요(연인이여) 이츠와마유미는 일본 여가수입니다. 1951년생으로 70세가넘는세월이지났어도 그가 30대에 젊은시절 불렀던 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/rFyYgdHfseI/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/rFyYgdHfseI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/rFyYgdHfseI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "빌리언포스",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-01-19T16:25:46Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "o5Wv8C4FV36sKCbk3CgQ2b-sHOA",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "ncQwfwukP7A"
+         },
+         "snippet": {
+            "publishedAt": "2024-01-15T10:00:38Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 꼭 부자가 될거야... 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 이 영상은 클래스101의 유료광고를 포함하고 있습니다 2024 갓생 타이틀 고요비 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/ncQwfwukP7A/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/ncQwfwukP7A/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/ncQwfwukP7A/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2024-01-15T10:00:38Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "XJ7aa-J5wgk3FPkMSJFc9d1RiS8",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "-RtLernV40I"
+         },
+         "snippet": {
+            "publishedAt": "2023-12-31T09:00:00Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 감사했습니다... 마지막 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 마지막영상 근데 이제 올해마지막인.. (이거 꼭 해보고싶었음) 우린 이제 내년에 보자 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/-RtLernV40I/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/-RtLernV40I/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/-RtLernV40I/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-12-31T09:00:00Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "NIlfOUZDQk3gasv1dxX0aHgYAa4",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "0QpIagGM9ME"
+         },
+         "snippet": {
+            "publishedAt": "2023-12-28T02:03:38Z",
+            "channelId": "UC36W8lxCqiGzlrJsJ2fhcFw",
+            "title": "쌍꺼풀 수술 없이 졸린 눈만 교정이 가능하다고요? 비절개 눈매교정에 대해서 알려드립니다",
+            "description": "대한민국 강남에 위치한 OBJET 성형외과 입니다. 자세한 사항은 유튜브 댓글이나 인스타그램 DM 메시지를 통해 문의해주시기 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/0QpIagGM9ME/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/0QpIagGM9ME/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/0QpIagGM9ME/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "โรงพยาบาลออพเจท - Objet Plastic Surgery",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-12-28T02:03:38Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "_iO35NdCljEJ1USfg3S738iQvlM",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "gJAWcwGQ4ss"
+         },
+         "snippet": {
+            "publishedAt": "2023-12-19T07:00:15Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 뭔 놈의 카페가 크리스마스만 준비하다 끝나냐..? 따뜻하다 못해 핫한 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 이 영상은 솔루엠의 유료광고를 포함하고 있습니다 따죽따여 우리가 세상을 구한다!",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/gJAWcwGQ4ss/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/gJAWcwGQ4ss/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/gJAWcwGQ4ss/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-12-19T07:00:15Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "uDlp3WkRs6pnmjpyEYPhMEwR0L0",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "NPI_nDAUapA"
+         },
+         "snippet": {
+            "publishedAt": "2023-12-15T10:45:00Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 100만원으로 꾸민 디저트카페 인테리어 근데 이제 노동을 곁들인..",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 노동트리 완성~! 이렇게 보니까 별거 안한 것 같은데 저는 왜 이렇게 지쳤죠…? 고베샵 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/NPI_nDAUapA/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/NPI_nDAUapA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/NPI_nDAUapA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-12-15T10:45:00Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "E8qWm3Ew23oNvKH2hYSVtSEDRo8",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "2dzaYxx6bzI"
+         },
+         "snippet": {
+            "publishedAt": "2023-12-09T09:30:01Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 아이돌이 쏘아올린 작은 공 ⚫️ 역조공....디저트카페브이로그",
+            "description": "cafevlog#디저트카페브이로그#카페브이로그 이 영상은 노동을 포함하고 있슴다.. 한달전 영상 이제 올리는 나 어떤데.. 그나저나 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/2dzaYxx6bzI/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/2dzaYxx6bzI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/2dzaYxx6bzI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-12-09T09:30:01Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "ruI-HnMY-M7DBiZCbcxgk9wYjUs",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "1gWIZvE_P6U"
+         },
+         "snippet": {
+            "publishedAt": "2023-11-29T10:00:02Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 이 모든건 크리스마스를 위한 빌드업..디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog#풀리오 이 영상은 풀리오의 유료광고를 포함하고 있습니다 이번 영상은 소리지르는게 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/1gWIZvE_P6U/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/1gWIZvE_P6U/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/1gWIZvE_P6U/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-11-29T10:00:02Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "by1qVXd-FotK2cpy2AP9Pxnz3CA",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "AevMo5jklms"
+         },
+         "snippet": {
+            "publishedAt": "2023-11-16T12:11:21Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 그날은 참 이상한 날이었어... 빼빼로데이 준비하는 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 오늘도 봐주셔서 감사해요 그리고 수능 본 우리 구독자님들 너무 고생했어요!!!!! -삼수생 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/AevMo5jklms/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/AevMo5jklms/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/AevMo5jklms/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-11-16T12:11:21Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "_K7xN2B2vTTu03prh0KLlZ4XsoQ",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "RuvsCzVTfRM"
+         },
+         "snippet": {
+            "publishedAt": "2023-11-04T10:00:20Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 각박한 자영업속 디저트카페사장으로 살아남기",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 이 영상은 카카오의 유료광고를 포함하고 있습니다. 내 도도도독..동료가 되어라~ ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/RuvsCzVTfRM/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/RuvsCzVTfRM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/RuvsCzVTfRM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-11-04T10:00:20Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "dUtGnzq7rGIC7EATGYDjBCMk5Rk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "Ru2p6TOM9dg"
+         },
+         "snippet": {
+            "publishedAt": "2023-10-22T10:35:56Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 카페 셀프 인테리어와 중2병 걸린 사장의 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 인생 쉽지않아... koyobi@sandbox.co.kr 고요비 인스타 - @koyobimood Music by ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/Ru2p6TOM9dg/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/Ru2p6TOM9dg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/Ru2p6TOM9dg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-10-22T10:35:56Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "ISL-w2rXW7b5bXm6g8vllTiOSaE",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "lL2gYA-5yQI"
+         },
+         "snippet": {
+            "publishedAt": "2023-10-13T22:30:05Z",
+            "channelId": "UC2FODJF4ueE-zdpyRBOqxpQ",
+            "title": "비흡연자여도 ‘폐암’에 걸릴 수 있다고요 #비흡연자여도폐암 #비흡연자폐암 #비흡연자 #건강한라이프 #건강한습관 #건강한삶 #라이프스타일 #건강한생활 #흡연 #금연 #비흡연",
+            "description": "비흡연자여도 '폐암'에 걸릴 수 있다고요 수원 해인부부한의원에서 제공하는 다이어트정보 채널입니다. 2000만포 처방, 10만명의 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/lL2gYA-5yQI/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/lL2gYA-5yQI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/lL2gYA-5yQI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "다이어트여신",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-10-13T22:30:05Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "y2YQlC18iU8UxYKOkwU5_SyP9bM",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "dMPtbzukQX8"
+         },
+         "snippet": {
+            "publishedAt": "2023-10-04T15:00:27Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "가을타는 자영업자와 가을바람난 디저트카페브이로그 (feat.에스트라)",
+            "description": "에이시카365흔적진정세럼#흔적진정세럼 #에스트라 이 영상은 에스트라의 유료광고를 포함하고 있습니다. 피부까지 가을타는 나.",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/dMPtbzukQX8/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/dMPtbzukQX8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/dMPtbzukQX8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-10-04T15:00:27Z"
+         }
+      }
+   ]
+}

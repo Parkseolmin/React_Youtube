@@ -1,0 +1,951 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "tCl04NDb7iGeI8sfT8oSzkB-Ino",
+  "nextPageToken": "EAAajQFQVDpDQlFpRURKRk1FTXpRelV4TkRjMU9EZERORVVvQVVpQjQ3LW9nYmlHQTFBQldrUWlRMmxLVVZSR1drcE5NRTVDV1RGR1EwNHdaRTVPTTBKRFkxYzBORll4YkZkaE1VNU1ZbXBLVWxwc1ZtbFZla3BHUldkelNXcHhXRzV6WjFsUk5rdG1aRVpSSWc",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bOr8RpCJpsE848V4OM4TN499Pzo",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS41MjJGQTMyMUFFN0JCRTkw",
+      "snippet": {
+        "publishedAt": "2024-05-31T13:36:23Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "ARTMS ‘Virtual Angel' Official MV",
+        "description": "'Virtual Angel' Streaming\nhttps://orcd.co/artms\n\nOfficial Website : https://artms-strategy.com\nOfficial Twitter : https://twitter.com/official_artms\nOfficial Discord : https://discord.gg/official-artms\nOfficial Instagram : https://www.instagram.com/official_artms\nOfficial TikTok : https://www.tiktok.com/@official_artms\n\n#HeeJin #HaSeul #KimLip #JinSoul #Choerry",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqUP26j4XWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqUP26j4XWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqUP26j4XWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EqUP26j4XWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EqUP26j4XWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EqUP26j4XWU"
+        },
+        "videoOwnerChannelTitle": "Official ARTMS",
+        "videoOwnerChannelId": "UChXC6ok0LaZIpf-50SIFf0Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UN5aXyqVpex7hVGitcr_j9Rcz-M",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS41Q0Q3Mzk3RTY5QUM1N0JD",
+      "snippet": {
+        "publishedAt": "2024-05-27T11:22:56Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "aespa 에스파 'Armageddon' MV",
+        "description": "aespa's 1st album \"Armageddon\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/Armageddon\n\n🌟 'Supernova' MV https://youtu.be/phuiiNCxRMg\n🔗 https://aespa.com\n\n[Tracklist]\n01 Supernova\n02 Armageddon\n03 Set The Tone\n04 Mine\n05 Licorice\n06 BAHAMA\n07 Long Chat (#♥)\n08 Prologue\n09 Live My Life\n10 목소리 (Melody)\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #Armageddon #에스파 #æspa #aespaArmageddon \naespa 에스파 'Armageddon' MV ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFYwcndNuOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFYwcndNuOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFYwcndNuOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nFYwcndNuOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nFYwcndNuOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nFYwcndNuOY"
+        },
+        "videoOwnerChannelTitle": "SMTOWN",
+        "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "odGPH0JFXxm1FMH4Fs9lpRXPZ8I",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS42QUQ4RjRGMEJFNzg2NDg5",
+      "snippet": {
+        "publishedAt": "2024-05-24T14:21:00Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "NewJeans (뉴진스) 'How Sweet' Official MV",
+        "description": "NewJeans (뉴진스) 'How Sweet' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Heewon Shin\n\n© 2024 ADOR. All Rights Reserved.\nConnect with NewJeans\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#HowSweet #NewJeans_HowSweet\n#NewJeans_is_Everywhere\n#광고 #CokeStudio #RealMagic\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q3K0TOvTOno"
+        },
+        "videoOwnerChannelTitle": "HYBE LABELS",
+        "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PJMiiSZv47biVazYmRfHnpZuUcs",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS5EREMzOTIxNjNGNTRCNDA1",
+      "snippet": {
+        "publishedAt": "2024-05-16T13:44:36Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "IVE 아이브 'Accendio' MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGLx4V680J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGLx4V680J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGLx4V680J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PGLx4V680J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PGLx4V680J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PGLx4V680J8"
+        },
+        "videoOwnerChannelTitle": "STARSHIP",
+        "videoOwnerChannelId": "UCYDmx2Sfpnaxg488yBpZIGg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tJpSPZ-NuQAJhLsVsn1BHt5DpKA",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS41REMyM0ZBMDE0OEZEMkZG",
+      "snippet": {
+        "publishedAt": "2024-05-16T15:20:31Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "aespa 에스파 'Supernova' MV",
+        "description": "aespa's 1st album \"Armageddon\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/Armageddon\n\n👁 'Armageddon' MV https://youtu.be/nFYwcndNuOY\n🔗 https://aespa.com\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #Supernova #Armageddon\n#에스파 #æspa\n#aespaSupernova #aespaArmageddon \naespa 에스파 'Supernova' MV ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phuiiNCxRMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phuiiNCxRMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phuiiNCxRMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phuiiNCxRMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/phuiiNCxRMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "phuiiNCxRMg"
+        },
+        "videoOwnerChannelTitle": "SMTOWN",
+        "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S1MVnKOBYdtCtFV6GyvrdzCP-fs",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS42RTNBNTM3RUFBNUY1RTE3",
+      "snippet": {
+        "publishedAt": "2024-05-11T13:29:12Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "tripleS(트리플에스) 'Girls Never Die' Official MV",
+        "description": "ASSEMBLE24 is now available on the following platforms!\nhttps://orcd.co/triples_assemble24\n\n----------\n\ntripleS ASSEMBLE24 SPACE\nhttps://elypecs.com/play/yyuehra3vbu34rno\n\n----------\n\n\nCosmo : the Gate\nWhere everything of tripleS begins\n· Collect limited seasonal Objekt.\n· Stan your favorite S and get special Objekts.\n· Join various Gravity and cast your opinion for your beloved S.\n\n· Download Cosmo here!\niOS Apple Store : https://apple.co/3XLFntk\nAndroid : https://bit.ly/3Uhqnk7\n\nOfficial Website : https://www.triplescosmos.com\nOfficial Discord : https://discord.gg/triplescosmos\nOfficial Twitter : https://twitter.com/triplescosmos\nOfficial Instagram : https://www.instagram.com/triplescosmos\nOfficial TikTok : https://www.tiktok.com/@triplescosmos\n\n#tripleS #트리플에스 #トリプルS \n#SeoYeon #HyeRin #JiWoo #ChaeYeon #YooYeon #SooMin #NaKyoung #YuBin #Kaede #DaHyun #Kotone #YeonJi #Nien #SoHyun #Xinyu #Mayu #Lynn #JooBin #HaYeon #ShiOn #ChaeWon #Sullin #SeoAh #JiYeon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2tda_TCjz8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2tda_TCjz8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2tda_TCjz8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2tda_TCjz8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2tda_TCjz8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2tda_TCjz8w"
+        },
+        "videoOwnerChannelTitle": "tripleS official",
+        "videoOwnerChannelId": "UCJnL-TBcsYrF2SLs7tmiC8Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CoEA-XcwvgeG2Ll3T1PpqKDrE4g",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS5CQ0U5RDFDNEFGMUEwREU1",
+      "snippet": {
+        "publishedAt": "2024-04-29T10:11:50Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "IVE 아이브 '해야 (HEYA)' MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \nPRE-SAVE IVE SWITCH : https://www.ive-starship.com/\n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/07EzMbVH3QE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "07EzMbVH3QE"
+        },
+        "videoOwnerChannelTitle": "STARSHIP",
+        "videoOwnerChannelId": "UCYDmx2Sfpnaxg488yBpZIGg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VcShNwm-ei4ZzuoWS85or87W4Fo",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS4wM0RCRkIzNjdDNkM0RDY3",
+      "snippet": {
+        "publishedAt": "2024-04-27T13:24:08Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "NewJeans (뉴진스) 'Bubble Gum' Official MV",
+        "description": "NewJeans (뉴진스) 'Bubble Gum' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Youngeum Lee\n\n© 2024 ADOR. All Rights Reserved.\n\nConnect with NewJeans\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#NewJeans_BubbleGum #NewJeans_HowSweet\n#NewJeans_is_Everywhere\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ft70sAYrFyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ft70sAYrFyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ft70sAYrFyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ft70sAYrFyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ft70sAYrFyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ft70sAYrFyY"
+        },
+        "videoOwnerChannelTitle": "HYBE LABELS",
+        "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8f1TyWioI2x-YS9p60RFxe85Plo",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS4zNTQ5OTNBMEE3NTlBQzcz",
+      "snippet": {
+        "publishedAt": "2024-05-12T01:24:55Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "우기(YUQI) - 'FREAK' Official Music Video",
+        "description": "우기(YUQI) - 'FREAK' Official Music Video\n\n[🎧] [YUQ1]\n▫Melon https://kko.to/8MCQvxGTGi\n▫https://ingrv.es/YUQ1\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\nⓒ All Rights Reserved CUBE Entertainment Inc.\n\n#우기 #YUQI #YUQ1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqJIBItJeyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqJIBItJeyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqJIBItJeyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UqJIBItJeyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UqJIBItJeyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UqJIBItJeyg"
+        },
+        "videoOwnerChannelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+        "videoOwnerChannelId": "UCritGVo7pLJLUS8wEu32vow"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DYnirEmoIKnXIfQxI63I60LyG38",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS40ODFCQzYxMDA3OTlGMjQw",
+      "snippet": {
+        "publishedAt": "2024-05-12T01:26:18Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "[MV] BEWAVE(비웨이브) _ SING ! (Performance Video)",
+        "description": "[MV] BEWAVE(비웨이브) _ SING ! (Performance Video)\n\n\n\nK-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :)\nWelcome to the official YouTube channel of K-POP Wonderland, 1theK\n\n\"1theK Live\" Subscribe 👉 https://www.youtube.com/@1theKLive\n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n#NEWRELEASE#MV#1theK#원더케이\n\n1theK YT : https://www.youtube.com/1theK\n1theK FB  : http://www.facebook.com/1theK\n1theK TW : https://twitter.com/1theK\n1theK TikTok : https://vt.tiktok.com/2mSMBS\n1theK Originals YT : https://www.youtube.com/1theKOriginals\n1theK Live YT : https://www.youtube.com/@1theKLive\n1theK Live Instagram : https://www.instagram.com/1thek_live/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OngjRumVG4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OngjRumVG4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OngjRumVG4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OngjRumVG4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OngjRumVG4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OngjRumVG4I"
+        },
+        "videoOwnerChannelTitle": "1theK (원더케이)",
+        "videoOwnerChannelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iDtSlZthMd0HeMXp_bc1OnSAQlc",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS5FQUQ5QjM4NjBFQzkzRjQy",
+      "snippet": {
+        "publishedAt": "2024-05-12T01:17:15Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "Loossemble (루셈블) - 'Girls' Night' MV",
+        "description": "Loossemble (루셈블) - 'Girls' Night' MV\n\nLoossemble (루셈블) Official\n\nYouTube - youtube.com/@Loossemble_official\nTikTok - https://www.tiktok.com/@loossemble_official\nTwitter - https://www.twitter.com/Loossemble_twt\nInstagram - https://www.instagram.com/loossemble.official/\nFacebook - https://www.facebook.com/Loossemble.official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JgwyxF2vfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JgwyxF2vfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JgwyxF2vfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_JgwyxF2vfE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_JgwyxF2vfE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_JgwyxF2vfE"
+        },
+        "videoOwnerChannelTitle": "Loossemble",
+        "videoOwnerChannelId": "UCbTzy8kj_6Kik_LFD1XyN5g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qp-sU-_C0W3mY4LV4XA2Rw5Eca0",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS5CNTMwQkY4NjQwMEJCMEE3",
+      "snippet": {
+        "publishedAt": "2024-04-20T14:56:51Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "[MV] 1CHU(원츄) _ PUNK HOT",
+        "description": "[MV] 1CHU(원츄) _ PUNK HOT\n\n\n\nK-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :)\nWelcome to the official YouTube channel of K-POP Wonderland, 1theK\n\n\"1theK Live\" Subscribe 👉 https://www.youtube.com/@1theKLive\n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n#NEWRELEASE#MV#1theK#원더케이\n\n1theK YT : https://www.youtube.com/1theK\n1theK FB  : http://www.facebook.com/1theK\n1theK TW : https://twitter.com/1theK\n1theK TikTok : https://vt.tiktok.com/2mSMBS\n1theK Originals YT : https://www.youtube.com/1theKOriginals\n1theK Live YT : https://www.youtube.com/@1theKLive\n1theK Live Instagram : https://www.instagram.com/1thek_live/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eG4hlky_4q0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eG4hlky_4q0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eG4hlky_4q0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eG4hlky_4q0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eG4hlky_4q0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eG4hlky_4q0"
+        },
+        "videoOwnerChannelTitle": "1theK (원더케이)",
+        "videoOwnerChannelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ElFV_RhaHozqZoA-TXdIS1sCOgM",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS4xQjlGODhBRTUzRUU1NzQ5",
+      "snippet": {
+        "publishedAt": "2024-04-20T14:58:38Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "WOOAH 우아 - ‘BLUSH' M/V",
+        "description": "WOOAH 우아 Official Channels :\nInstagram :  http://www.instagram.com/wooah_nv\nFacebook :  http://www.facebook.com/wooahofficial\nTwitter :  http://www.twitter.com/wooah_ssqent\nTiktok :  http://www.tiktok.com/@wooah_ssqent\nWeverse :  https://www.weverse.io/wooah \nWeibo : https://weibo.com/nvwooah\n \n#wooah #우아 #BLUSH \n#나나 #우연 #소라 #루시 #민서\n#NANA #WOOYEON #SORA #LUCY #MINSEO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yh5W41ANcjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yh5W41ANcjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yh5W41ANcjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yh5W41ANcjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yh5W41ANcjo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yh5W41ANcjo"
+        },
+        "videoOwnerChannelTitle": "woo!ah! 우아",
+        "videoOwnerChannelId": "UCNeLbWtlJzTsavMC70zY0dQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8dFylrH3eBRyXuNIWb53GmAhtYc",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS44NkU3NUI0RkIxODhFNEYw",
+      "snippet": {
+        "publishedAt": "2024-04-20T15:00:00Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "특전소녀전선 리더즈 'New Stage' Official MV",
+        "description": "Streaming & Download : https://lnk.to/NewStage\nMinirecord 판매 : https://girlsfrontier.com/contents/660a2c05f9a94638e9dc2635\n\n특전소녀전선 리더즈의 'New Stage'가 4월 5일 오후 6시 국내 및 글로벌 음원사이트를 통해 발매되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpzAm3QFB2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpzAm3QFB2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpzAm3QFB2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KpzAm3QFB2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KpzAm3QFB2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KpzAm3QFB2A"
+        },
+        "videoOwnerChannelTitle": "특전소녀전선",
+        "videoOwnerChannelId": "UCug79xFPrNvOgHAmxxbpvTw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uUyFpayJeRE2DcLBuWda-zqtXGg",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS4wMzcxQjk5QUEwMUZDMTI4",
+      "snippet": {
+        "publishedAt": "2024-04-20T15:01:03Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "아일리원 (ILY:1) - IMMM Performance Video",
+        "description": "아일리원 (ILY:1) - IMMM Performance Video\n\n‘I My Me Mine’는 자신의 내면을 찾아 새로운 나의 모습을 보여주고 셀럽이 되고 싶어하는 소녀들의 마음을 표현한 곡이다. \n특히 후렴의 중독성 있는 후크송 멜로디와 디스코풍 리듬에 강렬한 베이스가 강조되며 기존 아일리원의 음악스타일과 전혀 다른 모습을 볼 수 있는 곡이다. \n\n이번 신보는 신규 발매 예정인 미니앨범의 선공개곡으로 ‘나 자신이 진정으로 원하는 것’ 을 향한 아일리원의 본격적인 첫 발걸음이자 새로운 터닝 포인트가 될 것이다.\n\n\n[Credit]\n\nLyrics by P.K(NU_BOUNCE), 솝(Soph), BIGTONE \nComposed by P.K(NU_BOUNCE), 2K(NU_BOUNCE), Perrie, Mint, 솝(Soph), 9june9\nArranged by 2K(NU_BOUNCE), P.K(NU_BOUNCE) \n\n#아일리원 #ILY1 #I_MY_ME_MINE #ILY1_IMMM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XVvfTkFylfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XVvfTkFylfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XVvfTkFylfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XVvfTkFylfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XVvfTkFylfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XVvfTkFylfw"
+        },
+        "videoOwnerChannelTitle": "Stone Music Entertainment",
+        "videoOwnerChannelId": "UC_pwIXKXNm5KGhdEVzmY60A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aOg7LN_jovn0BnNzKtky-fi2LZM",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS42MjlCOTJDMDJCQzc5NEZC",
+      "snippet": {
+        "publishedAt": "2024-04-06T10:33:24Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "KISS OF LIFE (키스오브라이프) 'Midas Touch' Official Music Video",
+        "description": "KISS OF LIFE (키스오브라이프) 'Midas Touch' Official Music Video\n#KISSOFLIFE #키스오브라이프 #Midas_Touch\n-\n'Midas Touch'\nComposed by Strawberrybananaclub, Ondine, Samson\nLyrics by 미아(153/Joombas), Ondine, Samson, Strawberrybananaclub, 조윤경\nArranged by Strawberrybananaclub\n-\nKISS OF LIFE (키스오브라이프) 1st Single Album [Midas Touch] is OUT NOW!\nㅤ\n🎧 Melon : https://buly.kr/8ToF1fQ\n🎧 Bugs : https://buly.kr/HHa84TP\n🎧 Genie : https://buly.kr/3u0XWSo\n🎧 VIBE : https://buly.kr/90YVy8W\n🎧 FLO : https://buly.kr/GZv69Dm\n🎧 Spotify : https://buly.kr/5JKbN13\n🎧 Apple Music : https://buly.kr/EolWL9q\n-\n[KISS OF LIFE Official Channel]\nYouTube : https://www.youtube.com/channel/UCvEEeBssb4XxIfWWIB8IjMw\nTwitter : https://twitter.com/KISSOFLIFE_S2\nInstagram : https://www.instagram.com/kissoflife_s2\nFacebook : https://www.facebook.com/KISSOFLIFEof...\nTikTok : https://www.tiktok.com/@kissoflife_of...\nOfficial WebSite : https://kissoflife-official.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKVYm8mIUdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKVYm8mIUdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKVYm8mIUdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oKVYm8mIUdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oKVYm8mIUdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oKVYm8mIUdo"
+        },
+        "videoOwnerChannelTitle": "KISS OF LIFE",
+        "videoOwnerChannelId": "UCvEEeBssb4XxIfWWIB8IjMw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A4E1a7VLSHs7rPOqR4g7yIX-LZw",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS4yMTRDN0U5ODA3NUUwQzU5",
+      "snippet": {
+        "publishedAt": "2024-04-05T22:55:48Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "QWER '고민중독' Official MV",
+        "description": "QWER '고민중독' Official MV\nⓒ 2024 Tamago production. All Rights Reserved.\n\n#QWER #고민중독 #MANITO\n\n[QWER Official SNS]\nOFFICIAL YOUTUBE▷ https://www.youtube.com/@QWER_Band_official\nOFFICIAL INSTAGRAM▷  https://www.instagram.com/qwerband_official\nOFFICIAL WEVERSE▷ https://weverse.io/qwer\nOFFICIAL X▷ https://X.com/official_QWER\nOFFICIAL TIKTOK▷ https://www.tiktok.com/@qwerband_official\nOFFICIAL FANCAFE▷ https://cafe.naver.com/eggkim",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ImuWa3SJulY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ImuWa3SJulY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ImuWa3SJulY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ImuWa3SJulY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ImuWa3SJulY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ImuWa3SJulY"
+        },
+        "videoOwnerChannelTitle": "QWER",
+        "videoOwnerChannelId": "UCgD0APk2x9uBlLM0UsmhQjw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ke4uS9vAJ8eb1ZzsGfNrlMT769U",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS5BNkJDQkQ5RTBBQkJBM0I2",
+      "snippet": {
+        "publishedAt": "2024-04-02T13:16:22Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "BABYMONSTER - ‘SHEESH’ M/V",
+        "description": "BABYMONSTER — SHEESH\n\nDa la lun dun\nDa la lun dun\nDa la lun dun\n\nBABY I’mma MONSTER\n\nMano a mano\nI see you in slow mo’\nYou know you’re in trouble\nOoh hoo hoo hoo\n\n발버둥 쳐봐\n어차피 손바닥\n위에서 못 나가\nYou know that\n\n눈을 뜬 순간\n피어나\nAll eyes on me\n불을 질러라\n\nDo or die\nOn my life\nYeah you ain’t seen nothing yet\n\nGot them all going\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\n\nB.A.B.Y.M.O.N\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\nGot them all going\n\nYo hold on 쉿\n걍 들이부어라 네 달팽이관에\n이건 네 귀에 줄 축복\n음악에 맞춰 걍 춤 춰\n\n히비리 합 합 boom boom pow\n분위기 타올라 너네들 눈 돌아\n띵하니 적잖이 충격일 거야\n\nCrown this queen\n홈런은 쳤고 내 다음은 위\n어중이떠중이 중간 아님\n날 보고 닫혔던 입들 say\nSheesh Sheesh Sheesh\n\nYou know what it is\nI be running this\nPull up in a ghost\nPeek a peek a boo hoo\nVroom vroom\n너네 심장에 박동이 pump pump pop\nPedal to the metal\nClick clack click\nPut’em up to the sky\nHigh high high high\n\n눈을 뜬 순간\n피어나\nAll eyes on me\n불을 질러라\n\nDo or die\nOn my life\nYeah you ain’t seen nothing yet\n\nGot them all going\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\n\nB.A.B.Y.M.O.N\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\nGot them all going\n\n마음껏 웃어봐\n이젠 내 차례니까\n\n천천히 불태워 네가 잠든 사이\n\nTime’s up\n올라가 올라가 더\n\n꼭대기 꼭대기로\n하늘 위 하늘 위로\n\nFly away\n온 세상을 뒤집어\nCome on let’s ride\n\nBABY I’mma MONSTER\n\nB A B Y M O N\nTell a friend tell a friend tell a friend\nB A B Y M O N\nTell a friend tell a friend tell a friend\n\nLet's go\nJump jump and let it go\nWatch out we on a roll\nRum pump pump pump it up then\n\nJump jump and let it go\nWatch out we on a roll\nRum pump pump pump it up then\n\n#BABYMONSTER #베이비몬스터 #1stMINIALBUM #BABYMONS7ER #SHEESH #MV #OUTNOW #YG\n\nAvailable @ https://BABYMONSTER.lnk.to/BABYMONS7ER \n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@BABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2wA_b6YHjqQ"
+        },
+        "videoOwnerChannelTitle": "BABYMONSTER",
+        "videoOwnerChannelId": "UCqwUnggBBct-AY2lAdI88jQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zguBVKv-nB_7R4lrYxRvFCxWlQo",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS5GNDRERTQzQUM2NDY2QTE2",
+      "snippet": {
+        "publishedAt": "2024-04-20T14:58:05Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "ARTMS ‘Pre1 : Birth' Official MV",
+        "description": "ARTMS ‘Pre1 : Birth' MV\n\n'Birth' Streaming platform / 'Dall' Pre-order\nhttps://orcd.co/artms\n\nOfficial Website : https://artms-strategy.com\nOfficial Twitter : https://twitter.com/official_artms\nOfficial Discord : https://discord.gg/official-artms\nOfficial Instagram : https://www.instagram.com/official_artms\nOfficial TikTok : https://www.tiktok.com/@official_artms\n\n#HeeJin #HaSeul #KimLip #JinSoul #Choerry",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DsCd9tUdUS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DsCd9tUdUS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DsCd9tUdUS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DsCd9tUdUS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DsCd9tUdUS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DsCd9tUdUS8"
+        },
+        "videoOwnerChannelTitle": "Official ARTMS",
+        "videoOwnerChannelId": "UChXC6ok0LaZIpf-50SIFf0Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TdmzE6WXro8At-4bVt_WKir-bnQ",
+      "id": "UExWSTNDQWNRQjdHTTdwQnFuOFdZVmtTS24yUWZVYlMyRS40QzgyMDY3MUE0MjI5M0JG",
+      "snippet": {
+        "publishedAt": "2024-04-12T22:50:57Z",
+        "channelId": "UCJ2EXdWVfU7M25o1-ShzIdg",
+        "title": "UNIS(유니스) 'SUPERWOMAN' Official M/V",
+        "description": "UNIS(유니스) 'SUPERWOMAN' Official M/V\n#UNIS #유니스 #SUPERWOMAN #WE_UNIS \n\n🩷UNIS Official SNS🩷\nYouTube https://youtube.com/@UNIS_Offcl\nX (Twitter) https://twitter.com/UNIS_offcl\nInstagram  https://instagram.com/unis_offcl/\nFacebook https://www.facebook.com/official.UNIS\nTikTok https://www.tiktok.com/@unis_offcl\n\n#FnFEntertainment #에프앤에프엔터테인먼트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eNdOWsNPmf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eNdOWsNPmf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eNdOWsNPmf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eNdOWsNPmf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eNdOWsNPmf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "맨홀뚜껑",
+        "playlistId": "PLVI3CAcQB7GM7pBqn8WYVkSKn2QfUbS2E",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eNdOWsNPmf8"
+        },
+        "videoOwnerChannelTitle": "UNIS",
+        "videoOwnerChannelId": "UCspnElmzSLPhrZJDG9v7JWw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 747,
+    "resultsPerPage": 20
+  }
+}

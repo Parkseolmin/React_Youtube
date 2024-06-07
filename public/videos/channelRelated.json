@@ -1,0 +1,862 @@
+{
+   "kind": "youtube#searchListResponse",
+   "etag": "BHfrjcAz0aPLlM4rrqjWtYkMROI",
+   "nextPageToken": "CBkQAA",
+   "regionCode": "KR",
+   "pageInfo": {
+      "totalResults": 102,
+      "resultsPerPage": 25
+   },
+   "items": [
+      {
+         "kind": "youtube#searchResult",
+         "etag": "PouE7qdbiIxulZ3E7ReO986sI_U",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "ATYObnsHYDA"
+         },
+         "snippet": {
+            "publishedAt": "2023-09-10T08:30:02Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 일어나...돈벌러가야지... 디저트카페 브이로그",
+            "description": "카페브이로그#디저트카페브이로그 오늘도 봐주셔서 감사합니다! koyobi@sandbox.co.kr 고요비 인스타 - @koyobimood Music ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/ATYObnsHYDA/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/ATYObnsHYDA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/ATYObnsHYDA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-09-10T08:30:02Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "Koe6kH7dd_oJW3fDjLl2YLPCiPI",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "nKIu5t9aK3Y"
+         },
+         "snippet": {
+            "publishedAt": "2023-07-22T02:39:00Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "사장이라 자를 수도 없고... #카페브이로그#cafevlog",
+            "description": "",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/nKIu5t9aK3Y/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/nKIu5t9aK3Y/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/nKIu5t9aK3Y/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-07-22T02:39:00Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "sAvXP9w5CWVd5e8HV2p5TaoTLwk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "wtnl3zTHvKw"
+         },
+         "snippet": {
+            "publishedAt": "2023-07-21T05:27:45Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "사장이라 다행이다...#카페브이로그#디저트카페브이로그#cafevlog#shorts",
+            "description": "",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/wtnl3zTHvKw/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/wtnl3zTHvKw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/wtnl3zTHvKw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-07-21T05:27:45Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "rRx6MZXv53uEZkisJcDDIimwKzM",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "0Iz7J7mglf0"
+         },
+         "snippet": {
+            "publishedAt": "2021-01-17T08:45:24Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 나 초보사장쓰 크리스마스도 처음인디",
+            "description": "오늘도 봐주셔서 감사합니다 고요비 인스타 - @koyobimood 고요베이크샵 인스타 - @koyobake koyobimood@gmail.com ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/0Iz7J7mglf0/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/0Iz7J7mglf0/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/0Iz7J7mglf0/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-17T08:45:24Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "5djYOw_i6Cvej5K3QSwZ3X-OqWk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "94cSTJsPk0Q"
+         },
+         "snippet": {
+            "publishedAt": "2020-11-29T11:01:18Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 초보사장님에게 가장 해로운 벌레는 대충이다.. 난 지치지 않는다...",
+            "description": "오늘도 봐주셔서 감사해요 고요비 인스타 - @koyobimood 고요베이크샵 인스타 - @koyobake koyobimood@gmail.com Music ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/94cSTJsPk0Q/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/94cSTJsPk0Q/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/94cSTJsPk0Q/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-11-29T11:01:18Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "QuRnA_oBhJ7sba0x5mOxPNQm5xw",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "nErvJTDnZ2w"
+         },
+         "snippet": {
+            "publishedAt": "2021-10-04T08:00:10Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 1년차 디저트카페사장의 먹고살기위한 노동브이로그 근데 먹기만 하는데요?",
+            "description": "힘들어하지마 내일은 더 힘들거야... koyobi@sandbox.co.kr 고요비 인스타 - @koyobimood 고요베이크샵 인스타 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/nErvJTDnZ2w/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/nErvJTDnZ2w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/nErvJTDnZ2w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-10-04T08:00:10Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "UVe8t4hiyhBHTZys1nP6j1vLj2k",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "3eGfe6ORmKE"
+         },
+         "snippet": {
+            "publishedAt": "2021-11-12T04:15:38Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 초보사장의 우당탕탕 두번째 할로윈 / 디저트카페브이로그",
+            "description": "할로윈 최종.psd 오늘도 봐주셔서 감사해요 날씨가 추워요~~~! 따뜻하게 입ㄱㅣ 약속 koyobi@sandbox.co.kr 고요비 인스타 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/3eGfe6ORmKE/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/3eGfe6ORmKE/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/3eGfe6ORmKE/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-11-12T04:15:38Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "a6jctqL32EmljcmbmiXbywhYf5A",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "aMSie5r1jkg"
+         },
+         "snippet": {
+            "publishedAt": "2020-09-07T03:10:49Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 초보사장의 위기 (태풍) , 알고리즘..기다리고 있었습니다. 제대로 모시겠습니다.",
+            "description": "오늘도 영상 봐주셔서 감사합니다 고정댓글 참고해주세요~! ❤️고요베이크샵 (koyobakeshop) 고요비 인스타 - @koyobimood ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/aMSie5r1jkg/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/aMSie5r1jkg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/aMSie5r1jkg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-09-07T03:10:49Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "Vqb2FdI3Ke4sgkQV42UvMw7chi0",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "2722Oa_DVh4"
+         },
+         "snippet": {
+            "publishedAt": "2022-05-24T12:20:48Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 아직도 정신 못차린 디저트카페브이로그 / 사장님 정신차리세요.. 아맞다 내가 사장이지",
+            "description": "카페브이로그#디저트카페브이로그#먹방브이로그 제가 좀 늦었죠... 다음 영상은 빠르게 돌아올게요!! 오늘도 봐주셔서 감사해요 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/2722Oa_DVh4/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/2722Oa_DVh4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/2722Oa_DVh4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-24T12:20:48Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "G2p4633tCYEeTWFxBJSlMptlZAQ",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "ZTONguQsFbA"
+         },
+         "snippet": {
+            "publishedAt": "2022-03-04T14:20:12Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 사장이라 자를 수도 없고.. 디저트카페사장브이로그 / 눈과 코피..그리고 휘낭시에",
+            "description": "cafevlog#디저트카페브이로그#자영업브이로그 코판거 아님 아무튼 아님 - - koyobi@sandbox.co.kr 고요비 인스타 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/ZTONguQsFbA/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/ZTONguQsFbA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/ZTONguQsFbA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-04T14:20:12Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "_oeOH_icZya-W902cOCXnK3BAL0",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "TKZhtml6S_4"
+         },
+         "snippet": {
+            "publishedAt": "2021-11-24T14:48:03Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 힐링과 로망..감성디저트카페라고 구라치는 브이로그",
+            "description": "정신차려 이 각박한 자영업속에서... 오늘도 봐주셔서 감사해요 여러분 또 올게요 추운데 따뜻하게 입고다니세요 Tarn PK - Daylight ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/TKZhtml6S_4/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/TKZhtml6S_4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/TKZhtml6S_4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-11-24T14:48:03Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "ZGMYLWH4BIxvoyy8dBRknLMO1Dw",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "MZB54bxpaHw"
+         },
+         "snippet": {
+            "publishedAt": "2021-10-17T14:45:01Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 디저트카페사장의 자영업윗미 / 대신 일해줘... 우린 깐부잖아...",
+            "description": "다들 따뜻하게 입고 감기 조심하세요 곧 또 올게요 안녕~ koyobi@sandbox.co.kr 고요비 인스타 - @koyobimood 고요베이크샵 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/MZB54bxpaHw/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/MZB54bxpaHw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/MZB54bxpaHw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-10-17T14:45:01Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "oVGzDemegFuczzv-vvHRgniaV9c",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "8i-d6brpaEg"
+         },
+         "snippet": {
+            "publishedAt": "2023-11-18T15:48:10Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "카페사장도 말벌아저씨됨 #디저트카페브이로그 #카페브이로그 #cafevlog",
+            "description": "",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/8i-d6brpaEg/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/8i-d6brpaEg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/8i-d6brpaEg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-11-18T15:48:10Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "O9EddJmwBPm9ADRNAfQQB-mC7r8",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "czdfagkw7Gs"
+         },
+         "snippet": {
+            "publishedAt": "2020-12-17T11:01:53Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 힘들때 웃는 자가 일류다.. 일류사장의 카페 브이로그",
+            "description": "오늘도 봐주셔서 감사합니다 고요비 인스타 - @koyobimood 고요베이크샵 인스타 - @koyobake koyobimood@gmail.com ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/czdfagkw7Gs/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/czdfagkw7Gs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/czdfagkw7Gs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-17T11:01:53Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "MUGIh56w_pB0Uula0BhoX77hnxY",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "t_-2kobTvNs"
+         },
+         "snippet": {
+            "publishedAt": "2022-05-09T11:30:20Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 디저트 다 디저쓰.. 사장이 더 먹는 디저트카페브이로그 👀 / 카페브이로그가 아니라 먹방브이로그네.. 오히려 좋아",
+            "description": "카페브이로그#vlog#먹방브이로그 이제 진짜 카페브이로그라고 못 쓰겠네.... 메인은 먹방브이로그니까.. koyobi@sandbox.co.kr ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/t_-2kobTvNs/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/t_-2kobTvNs/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/t_-2kobTvNs/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-09T11:30:20Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "5C8TIQwZlaa5G4uv9mdlqAoRm8w",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "S3zRSkIIjxc"
+         },
+         "snippet": {
+            "publishedAt": "2022-04-22T14:00:20Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 갓생을 꿈꾸는 20대 디저트카페사장 브이로그. 근데 뭔놈의 카페브이로그가 먹기만 하다 끝나냐",
+            "description": "먹방브이로그#카페브이로그#디저트카페브이로그 왜 울어..? 양파가 매워서 우는거야.. 내가 양파냐..? koyobi@sandbox.co.kr ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/S3zRSkIIjxc/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/S3zRSkIIjxc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/S3zRSkIIjxc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-22T14:00:20Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "4fmE7-tXPDRN_TnwyT9ZLcXnKDI",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "LCDyDI_feKo"
+         },
+         "snippet": {
+            "publishedAt": "2021-11-26T11:00:12Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 감성카페브이로그 그거 어떻게 하는건데.. 워라벨 그게 뭔데...",
+            "description": "이 영상은 포레오의 유료광고를 포함하고 있습니다. 포레오에서 11월 19일부터 12월 5일까지 블랙 프라이데이 프로모션 진행 중이 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/LCDyDI_feKo/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/LCDyDI_feKo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/LCDyDI_feKo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-11-26T11:00:12Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "uV_zMtYfOKrnnGNQPu9zt6tw2H4",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "gfLGvIJ3DrA"
+         },
+         "snippet": {
+            "publishedAt": "2022-01-05T10:00:16Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 크리스마스 경력직 디저트카페사장브이로그 / 엉망진창 크리스마스 준비하기",
+            "description": "메리..크리스마스….? - 메리고요비마스 일러스트그려주신 구독자님 땡큐! 고맙습니다 koyobi@sandbox.co.kr 고요비 인스타 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/gfLGvIJ3DrA/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/gfLGvIJ3DrA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/gfLGvIJ3DrA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-01-05T10:00:16Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "4Ne5JTArRs7Get94nXeGLW92JHo",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "dfvnDCDxYaU"
+         },
+         "snippet": {
+            "publishedAt": "2023-06-21T16:08:34Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 카페창업 로망☺️❤️(다 깨주는) 디저트 카페브이로그 ㅋ",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 너무 늦게 와서 죄송해요ㅠㅠ 울 구독자님들 오늘도 파이팅이닷 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/dfvnDCDxYaU/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/dfvnDCDxYaU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/dfvnDCDxYaU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-21T16:08:34Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "TwKbhpSKOGNhT_7P0mzPX_ajNAk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "mtL5MHSsO8w"
+         },
+         "snippet": {
+            "publishedAt": "2023-10-01T07:52:37Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 자낳괴(자영업이 낳은 괴물) 디저트카페 브이로그",
+            "description": "카페브이로그#디저트카페브이로그 행복한 추석연휴~ 우리 구독자님들 푹쉬어.. 일은 내가 할게... koyobi@sandbox.co.kr 고요비 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/mtL5MHSsO8w/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/mtL5MHSsO8w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/mtL5MHSsO8w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-10-01T07:52:37Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "Y1qNsE2XrR0wLd0yxEH1TqTAvJA",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "eZaFO4KXlPM"
+         },
+         "snippet": {
+            "publishedAt": "2023-03-17T12:00:26Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 10배 커진 카페! 노동도 10배! 디저트카페브이로그",
+            "description": "cafevlog#카페브이로그#디저트카페브이로그 따흐흑 이제 온 저를 용서하세요 ...... 다들 뒤에 쿠키영상까지 보셨나요? 사랑한다는 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/eZaFO4KXlPM/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/eZaFO4KXlPM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/eZaFO4KXlPM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-17T12:00:26Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "JhWCpl-NwQWu5xPayhG39_ENJNk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "B0QGuk-ThpI"
+         },
+         "snippet": {
+            "publishedAt": "2023-04-16T03:13:32Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 힘들때 보면.. 더 힘들어지는 디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 오늘도 봐주셔서 감사합니다~ 저번 카페 영상에서 저 진짜 피곤해보였나요..? 여러분들 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/B0QGuk-ThpI/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/B0QGuk-ThpI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/B0QGuk-ThpI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-16T03:13:32Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "GwHuZSbQziGG9J4P5SgrM0z-LGk",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "tGr5bsoHSyw"
+         },
+         "snippet": {
+            "publishedAt": "2023-05-28T02:54:53Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 주7일 난 끝까지 살아남을거야...디저트카페브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 울지마 바보야... 난 정말 괜찮아....~ koyobi@sandbox.co.kr 고요비 인스타 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/tGr5bsoHSyw/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/tGr5bsoHSyw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/tGr5bsoHSyw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-28T02:54:53Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "58glfQU1dHEXurWuaejkAnUEFfI",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "3DVoUuZduM4"
+         },
+         "snippet": {
+            "publishedAt": "2023-08-03T13:38:10Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[CAFE VLOG] 번아웃 나가주실게요🙏 지쳐버린 자영업자의 디저트카페 브이로그",
+            "description": "카페브이로그#디저트카페브이로그#cafevlog 울지마 바보야 나 정말 괜찮아... koyobi@sandbox.co.kr 고요비 인스타 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/3DVoUuZduM4/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/3DVoUuZduM4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/3DVoUuZduM4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-08-03T13:38:10Z"
+         }
+      },
+      {
+         "kind": "youtube#searchResult",
+         "etag": "DVx99RleLBWdP1jUXYE3YtYk9PA",
+         "id": {
+            "kind": "youtube#video",
+            "videoId": "DSBcSUZI3DQ"
+         },
+         "snippet": {
+            "publishedAt": "2022-10-23T03:45:00Z",
+            "channelId": "UCASXEOh4LJxWdk2hZnsfNYw",
+            "title": "[cafe vlog] 멀고도 험한 카페창업의 길... 혼자 만들고 다 먹는 디저트카페브이로그 🥐 메뉴개발 베이킹 모음집 🍰 Q&amp;A 질문받아요!",
+            "description": "cafevlog#카페브이로그#디저트카페브이로그 내가 만든 쿠키~~~~~~   안녕하세요! 저는 지금도 계속 신메뉴만들기에 빠져버렸 ...",
+            "thumbnails": {
+               "default": {
+                  "url": "https://i.ytimg.com/vi/DSBcSUZI3DQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+               },
+               "medium": {
+                  "url": "https://i.ytimg.com/vi/DSBcSUZI3DQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+               },
+               "high": {
+                  "url": "https://i.ytimg.com/vi/DSBcSUZI3DQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+               }
+            },
+            "channelTitle": "고요비koyobi",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-23T03:45:00Z"
+         }
+      }
+   ]
+}

@@ -1,0 +1,930 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "Oh5emr196nomtMsdKvONx0-CKBM",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "VDIwgpLohS6rA1vBKaaffbJerDk",
+      "id": "PLX8ViMHMcK36ozl8EGMoowee2dsKzNJu6",
+      "snippet": {
+        "publishedAt": "2022-11-22T14:21:15Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Kpop MAMA 2024 - Korean MAMA Awards 2024 Song (Famous Kpop Songs Playlist 2024-2025)",
+        "description": "Kpop MAMA 2024 - Korean MAMA Awards 2024 Song (Famous Kpop Songs Playlist 2024-2025)\n \nWe are happy that you are here and you are listening to the best kpop songs. We hope that you will enjoy these popular Korean songs. Save it if you want to listen again. Thank you!\n \nYou can also find us with:\nfamous kpop songs playlist 2024\nkpop mama\nkpop songs playlist\ntop kpop playlist 2024\nbest kpop songs\nkorean mama awards 2024\nfamous kpop songs\nkorean music awards 2024\nmama awards\nkpop mama 2024\nbest kpop songs 2024\nkpop songs playlist 2024\nkorean mama awards 2024 song\nkorean music awards\ntop kpop playlist\nkorean mama awards\nfamous kpop songs 2024\n\nKpop MAMA January 2024, February 2024, March 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2023\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Kpop MAMA 2024 - Korean MAMA Awards 2024 Song (Famous Kpop Songs Playlist 2024-2025)",
+          "description": "Kpop MAMA 2024 - Korean MAMA Awards 2024 Song (Famous Kpop Songs Playlist 2024-2025)\n \nWe are happy that you are here and you are listening to the best kpop songs. We hope that you will enjoy these popular Korean songs. Save it if you want to listen again. Thank you!\n \nYou can also find us with:\nfamous kpop songs playlist 2024\nkpop mama\nkpop songs playlist\ntop kpop playlist 2024\nbest kpop songs\nkorean mama awards 2024\nfamous kpop songs\nkorean music awards 2024\nmama awards\nkpop mama 2024\nbest kpop songs 2024\nkpop songs playlist 2024\nkorean mama awards 2024 song\nkorean music awards\ntop kpop playlist\nkorean mama awards\nfamous kpop songs 2024\n\nKpop MAMA January 2024, February 2024, March 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2023\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "FTLRpfOUwRx7mxeIkF-I07WHj7M",
+      "id": "PLX8ViMHMcK369hnWCiD7l8_j2pFL1Inpf",
+      "snippet": {
+        "publishedAt": "2021-03-09T12:40:32Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "أغاني كوريه جديده 2024 ♫ احدث الاغاني الكورية 2024-2025",
+        "description": "أغاني كوريه جديده 2024 ♫ احدث الاغاني الكورية 2024-2025\n\nLast Year's Title: أغاني كوريه جديده 2023 ♫ احدث الاغاني الكورية 2023-2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "أغاني كوريه جديده 2024 ♫ احدث الاغاني الكورية 2024-2025",
+          "description": "أغاني كوريه جديده 2024 ♫ احدث الاغاني الكورية 2024-2025\n\nLast Year's Title: أغاني كوريه جديده 2023 ♫ احدث الاغاني الكورية 2023-2024"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "hdot4Fih-0_Rm_Gqih76jd0j2wo",
+      "id": "PLX8ViMHMcK37IRaLkRDhXq1uYBL4D_ouY",
+      "snippet": {
+        "publishedAt": "2020-12-10T13:35:59Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "크리스마스 음악 모음  -  최고의크리스마스 영어 노래",
+        "description": "크리스마스 음악 모음  -  최고의크리스마스 영어 노래",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXQViqx6GMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXQViqx6GMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXQViqx6GMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yXQViqx6GMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yXQViqx6GMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "크리스마스 음악 모음  -  최고의크리스마스 영어 노래",
+          "description": "크리스마스 음악 모음  -  최고의크리스마스 영어 노래"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xAstMDmkS9uDLmjFRtvN3Tlh8ts",
+      "id": "PLX8ViMHMcK35lqBDpwC21f_0ek5ygPHG6",
+      "snippet": {
+        "publishedAt": "2020-09-04T12:56:50Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "트로피컬 하우스 EDM 2024 ♫ 베스트 EDM & 열대 집 노래 2024-2025 (최고의 전자 재생목록)",
+        "description": "트로피컬 하우스 EDM 2024 ♫ 베스트 EDM & 열대 집 노래 2024-2025 (최고의 전자 재생목록)\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\n트로피컬 EDM 음악 2024 ♫ 영어 열대 전자 음악 모음 2024 (외국 EDM 노래 재생목록) - https://play.redlist.com/8084\n\nIn the next year, you will be able to find this playlist with the next title: 트로피컬 하우스 EDM 2025 ♫ 베스트 EDM & 열대 집 노래 2025-2026 (최고의 전자 재생목록)\n\nLast Year's Title: 트로피컬 하우스 EDM 2023 ♫ 베스트 EDM & 열대 집 노래 2023-2024 (최고의 전자 재생목록)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fQWNeIiFf_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fQWNeIiFf_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fQWNeIiFf_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fQWNeIiFf_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fQWNeIiFf_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "트로피컬 하우스 EDM 2024 ♫ 베스트 EDM & 열대 집 노래 2024-2025 (최고의 전자 재생목록)",
+          "description": "트로피컬 하우스 EDM 2024 ♫ 베스트 EDM & 열대 집 노래 2024-2025 (최고의 전자 재생목록)\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\n트로피컬 EDM 음악 2024 ♫ 영어 열대 전자 음악 모음 2024 (외국 EDM 노래 재생목록) - https://play.redlist.com/8084\n\nIn the next year, you will be able to find this playlist with the next title: 트로피컬 하우스 EDM 2025 ♫ 베스트 EDM & 열대 집 노래 2025-2026 (최고의 전자 재생목록)\n\nLast Year's Title: 트로피컬 하우스 EDM 2023 ♫ 베스트 EDM & 열대 집 노래 2023-2024 (최고의 전자 재생목록)"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PwNBaXVuvKLGmHnRggaqtWxfFFE",
+      "id": "PLX8ViMHMcK34RmwJ0_YlPfz4OYPdTO3Pa",
+      "snippet": {
+        "publishedAt": "2020-08-05T11:46:42Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "EDM Kpop 2024",
+        "description": "EDM Kpop 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. Top 100 Kpop Songs 2024 - Kpop Music 2024 Playlist - https://play.redlist.com/1028\n\nIn the next year, you will be able to find this playlist with the next title: EDM Kpop 2025\n\nLast Year's Title: EDM Kpop 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6f3RzjXPQwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "EDM Kpop 2024",
+          "description": "EDM Kpop 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. Top 100 Kpop Songs 2024 - Kpop Music 2024 Playlist - https://play.redlist.com/1028\n\nIn the next year, you will be able to find this playlist with the next title: EDM Kpop 2025\n\nLast Year's Title: EDM Kpop 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0eOcC753pqRzg33JRclGdbeYY10",
+      "id": "PLX8ViMHMcK37HXY-9ivhdCAbiZtWCoOnN",
+      "snippet": {
+        "publishedAt": "2020-07-17T08:57:10Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "최고의 외국 음악 2024 ♫ 영어노래 2024",
+        "description": "최고의 외국 음악 2024 ♫ 영어노래 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 2024 차트 핫100 (음악 외국: 외국노래) - https://play.redlist.com/4767\n\nIn the next year, you will be able to find this playlist with the next title: 최고의 외국 음악 2025 ♫ 영어노래 2025\n\nLast Year's Title: 최고의 외국 음악 2023 ♫ 영어노래 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KNtJGQkC-WI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KNtJGQkC-WI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KNtJGQkC-WI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KNtJGQkC-WI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "최고의 외국 음악 2024 ♫ 영어노래 2024",
+          "description": "최고의 외국 음악 2024 ♫ 영어노래 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 2024 차트 핫100 (음악 외국: 외국노래) - https://play.redlist.com/4767\n\nIn the next year, you will be able to find this playlist with the next title: 최고의 외국 음악 2025 ♫ 영어노래 2025\n\nLast Year's Title: 최고의 외국 음악 2023 ♫ 영어노래 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "BpuJQLJoyelqVN2QqqmqUXLmr2s",
+      "id": "PLX8ViMHMcK34cw2xAoD8RoEFfg6pwuTUd",
+      "snippet": {
+        "publishedAt": "2020-07-17T08:56:49Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "최신 영어 노래2024 ♫ 새로운 영어 음악 2024",
+        "description": "최신 영어 노래2024 ♫ 새로운 영어 음악 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 2024 차트 핫100 (음악 외국: 외국노래) - https://play.redlist.com/4767\n\n In the next year, you will be able to find this playlist with the next title: 최신 영어 노래2025 ♫ 새로운 영어 음악 2025\n\nLast Year's Title: 최신 영어 노래2023 ♫ 새로운 영어 음악 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83Lv790h79k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83Lv790h79k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83Lv790h79k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/83Lv790h79k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/83Lv790h79k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "최신 영어 노래2024 ♫ 새로운 영어 음악 2024",
+          "description": "최신 영어 노래2024 ♫ 새로운 영어 음악 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 2024 차트 핫100 (음악 외국: 외국노래) - https://play.redlist.com/4767\n\n In the next year, you will be able to find this playlist with the next title: 최신 영어 노래2025 ♫ 새로운 영어 음악 2025\n\nLast Year's Title: 최신 영어 노래2023 ♫ 새로운 영어 음악 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LQz0GW5alvOMpH9oBGeOUFCG3gg",
+      "id": "PLX8ViMHMcK36hsgZ9coCvxRsrXJf_9KG8",
+      "snippet": {
+        "publishedAt": "2020-07-03T10:20:57Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Tik Tok Korean Songs 2024 - Most Popular Korean Music Tik Tok 2024 (Kpop TikTok Playlist)",
+        "description": "Tik Tok Korean Songs 2024 - Most Popular Korean Music Tik Tok 2024 (Kpop TikTok Playlist)\n\nNo matter how your day is, you can always listen to good music:\n\n1. TikTok Korean Songs 2024-2025 ♫ Top TikTok Trending Korean Songs 2024-2025 (Viral Korean TikTok Music) - https://goplaylists.com/50722\n\nWe would like to keep you with us many years from now on! So, in the next year, you could find our playlist like this: Tik Tok Korean Songs 2025 - Most Popular Korean Music Tik Tok 2025 (Kpop TikTok Playlist)\n\nLast Year's Title: Tik Tok Korean Songs 2023 - Most Popular Korean Music Tik Tok 2023 (Kpop TikTok Playlist)\n\nYou can also find us with:\ntiktok korean song 2024\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mHNCM-YALSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mHNCM-YALSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mHNCM-YALSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mHNCM-YALSA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mHNCM-YALSA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Tik Tok Korean Songs 2024 - Most Popular Korean Music Tik Tok 2024 (Kpop TikTok Playlist)",
+          "description": "Tik Tok Korean Songs 2024 - Most Popular Korean Music Tik Tok 2024 (Kpop TikTok Playlist)\n\nNo matter how your day is, you can always listen to good music:\n\n1. TikTok Korean Songs 2024-2025 ♫ Top TikTok Trending Korean Songs 2024-2025 (Viral Korean TikTok Music) - https://goplaylists.com/50722\n\nWe would like to keep you with us many years from now on! So, in the next year, you could find our playlist like this: Tik Tok Korean Songs 2025 - Most Popular Korean Music Tik Tok 2025 (Kpop TikTok Playlist)\n\nLast Year's Title: Tik Tok Korean Songs 2023 - Most Popular Korean Music Tik Tok 2023 (Kpop TikTok Playlist)\n\nYou can also find us with:\ntiktok korean song 2024\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "NtS2gd5WIILvcvEZI4Rmn3-yb88",
+      "id": "PLX8ViMHMcK34RNc2llVNXug4p2lsAeDXk",
+      "snippet": {
+        "publishedAt": "2020-06-24T09:15:56Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Best New Kpop Songs 2024 ♫ Kpop Music Videos 2024",
+        "description": "Best New Kpop Songs 2024 ♫ Kpop Music Videos 2024\n\nLast Year's Title: Best New Kpop Songs 2023 ♫ Kpop Music Videos 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EIz09kLzN9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EIz09kLzN9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EIz09kLzN9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EIz09kLzN9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EIz09kLzN9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Best New Kpop Songs 2024 ♫ Kpop Music Videos 2024",
+          "description": "Best New Kpop Songs 2024 ♫ Kpop Music Videos 2024\n\nLast Year's Title: Best New Kpop Songs 2023 ♫ Kpop Music Videos 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "aa7dM_X255eglpM0N4MsoACL-RA",
+      "id": "PLX8ViMHMcK34u5QQBWKMW8f7aXlMPd9At",
+      "snippet": {
+        "publishedAt": "2020-06-19T16:14:21Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "틱톡 노래 2024 ♫ 틱톡 인기 노래 모음2024 (베스트틱톡 음악 모음)",
+        "description": "틱톡 노래 2024 ♫ 틱톡 인기 노래 모음2024 (베스트틱톡 음악 모음)\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. 틱톡에서 한번쯤 들어본 노래 2024 - 인기 있는 틱톡 유명한 노래 2024 (플레이리스트 틱톡 음악 2024-2025) - https://goplaylists.com/86247\n2. 2024 차트 핫100 (음악 외국: 외국노래) - https://play.redlist.com/4767\n\n Find our playlist with these keywords: 틱톡 노래 2024, 틱톡 음악, 틱톡 인기곡 2024, 틱톡 히트곡, 틱톡 뮤직 2024, 년 틱톡 모음, 베스트틱톡 노래, 틱톡 노래 모음, 2024 인기 틱톡, 틱톡 트렌드 노래, 2024 틱톡 차트, 틱톡 음악 리스트, 2024 틱톡 플레이리스트, 틱톡 최신곡 2024, 틱톡 히트 음악, 틱톡 댄스 노래, 2024 틱톡 멜로디, 틱톡 인기 음악 모음, 틱톡 팝송 2024, 틱톡 노래 추천\n\n2024년 틱톡에서 대세가 된 음악을 찾고 계시다면 여기서 멈춰보세요. 올해 틱톡에서 가장 많은 사랑을 받은 노래들을 엄선하여 모아봤어요. 발라드부터 댄스곡까지 다양한 장르의 틱톡 인기곡들로 귀를 즐겁게 해 드릴게요. 음악의 트렌드를 알고 싶다면 이 플레이리스트를 통해 2023년의 틱톡 트렌드를 느껴보세요. 음악과 함께하는 행복한 순간을 기대해도 좋아요 🎶.\n\n In the next year, the playlist is going to be titled: 틱톡 노래 2025 ♫ 틱톡 인기 노래 모음2025 (베스트틱톡 음악 모음)\n Last year, the playlist was titled: 틱톡 노래 2023 ♫ 틱톡 인기 노래 모음2023 (베스트틱톡 음악 모음)\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9DmdAwUbxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9DmdAwUbxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9DmdAwUbxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n9DmdAwUbxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n9DmdAwUbxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "틱톡 노래 2024 ♫ 틱톡 인기 노래 모음2024 (베스트틱톡 음악 모음)",
+          "description": "틱톡 노래 2024 ♫ 틱톡 인기 노래 모음2024 (베스트틱톡 음악 모음)\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. 틱톡에서 한번쯤 들어본 노래 2024 - 인기 있는 틱톡 유명한 노래 2024 (플레이리스트 틱톡 음악 2024-2025) - https://goplaylists.com/86247\n2. 2024 차트 핫100 (음악 외국: 외국노래) - https://play.redlist.com/4767\n\n Find our playlist with these keywords: 틱톡 노래 2024, 틱톡 음악, 틱톡 인기곡 2024, 틱톡 히트곡, 틱톡 뮤직 2024, 년 틱톡 모음, 베스트틱톡 노래, 틱톡 노래 모음, 2024 인기 틱톡, 틱톡 트렌드 노래, 2024 틱톡 차트, 틱톡 음악 리스트, 2024 틱톡 플레이리스트, 틱톡 최신곡 2024, 틱톡 히트 음악, 틱톡 댄스 노래, 2024 틱톡 멜로디, 틱톡 인기 음악 모음, 틱톡 팝송 2024, 틱톡 노래 추천\n\n2024년 틱톡에서 대세가 된 음악을 찾고 계시다면 여기서 멈춰보세요. 올해 틱톡에서 가장 많은 사랑을 받은 노래들을 엄선하여 모아봤어요. 발라드부터 댄스곡까지 다양한 장르의 틱톡 인기곡들로 귀를 즐겁게 해 드릴게요. 음악의 트렌드를 알고 싶다면 이 플레이리스트를 통해 2023년의 틱톡 트렌드를 느껴보세요. 음악과 함께하는 행복한 순간을 기대해도 좋아요 🎶.\n\n In the next year, the playlist is going to be titled: 틱톡 노래 2025 ♫ 틱톡 인기 노래 모음2025 (베스트틱톡 음악 모음)\n Last year, the playlist was titled: 틱톡 노래 2023 ♫ 틱톡 인기 노래 모음2023 (베스트틱톡 음악 모음)\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "dRMPVaZB0f3PlwJdkLZYnjKR-d0",
+      "id": "PLX8ViMHMcK36Riu2jjB_brpsaRBM3Wz6Z",
+      "snippet": {
+        "publishedAt": "2020-05-11T08:05:01Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "한국 최고의 히트곡 ♫ 역대 가장 인기있는 한국 음악",
+        "description": "한국 최고의 히트곡 ♫ 역대 가장 인기있는 한국 음악\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 가장 인기있는 한국 노래 2024 ♫ 최고의 한국 음악 2024 - http://play.red-music.com/8963\n\nIn the next year, you will be able to find this playlist with the next title: 한국 최고의 히트곡 ♫ 역대 가장 인기있는 한국 음악\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9bZkp7q19f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9bZkp7q19f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9bZkp7q19f0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "한국 최고의 히트곡 ♫ 역대 가장 인기있는 한국 음악",
+          "description": "한국 최고의 히트곡 ♫ 역대 가장 인기있는 한국 음악\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 가장 인기있는 한국 노래 2024 ♫ 최고의 한국 음악 2024 - http://play.red-music.com/8963\n\nIn the next year, you will be able to find this playlist with the next title: 한국 최고의 히트곡 ♫ 역대 가장 인기있는 한국 음악\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 200
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "BdU3-EtUDsvUQ0x1rn4Iz8h51Mg",
+      "id": "PLX8ViMHMcK34daQwIlOItIvn8Ic2NsPNA",
+      "snippet": {
+        "publishedAt": "2020-05-11T08:04:47Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "가장 인기있는 한국 노래 2024 ♫ 최고의 한국 음악 2024",
+        "description": "가장 인기있는 한국 노래 2024 ♫ 최고의 한국 음악 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 2024 년 최고의 한국 노래 - http://play.red-music.com/5123\n\nIn the next year, you will be able to find this playlist with the next title: 가장 인기있는 한국 노래 2025 ♫ 최고의 한국 음악 2025\n\nLast Year's Title: 가장 인기있는 한국 노래 2023 ♫ 최고의 한국 음악 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "가장 인기있는 한국 노래 2024 ♫ 최고의 한국 음악 2024",
+          "description": "가장 인기있는 한국 노래 2024 ♫ 최고의 한국 음악 2024\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. 2024 년 최고의 한국 노래 - http://play.red-music.com/5123\n\nIn the next year, you will be able to find this playlist with the next title: 가장 인기있는 한국 노래 2025 ♫ 최고의 한국 음악 2025\n\nLast Year's Title: 가장 인기있는 한국 노래 2023 ♫ 최고의 한국 음악 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "P8LKuL6uvOrfAotw_qwAxD7Epfo",
+      "id": "PLX8ViMHMcK35Ymxzz_fArOTWFQrnvAJY8",
+      "snippet": {
+        "publishedAt": "2020-03-27T12:24:11Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Best Kpop Girl Group Songs of All Time - Most Popular Kpop Girl Group Music Playlist (Updated in 2024)",
+        "description": "Best Kpop Girl Group Songs of All Time - Most Popular Kpop Girl Group Music Playlist (Updated in 2024)\n\nLast Year's Title: Best Kpop Girl Group Songs of All Time - Most Popular Kpop Girl Group Music Playlist (Updated in 2023)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IHNzOHi8sJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Best Kpop Girl Group Songs of All Time - Most Popular Kpop Girl Group Music Playlist (Updated in 2024)",
+          "description": "Best Kpop Girl Group Songs of All Time - Most Popular Kpop Girl Group Music Playlist (Updated in 2024)\n\nLast Year's Title: Best Kpop Girl Group Songs of All Time - Most Popular Kpop Girl Group Music Playlist (Updated in 2023)"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-hhlEWwynYBHjmaGu37iyuDjCH0",
+      "id": "PLX8ViMHMcK35rBV0pE3M2gncqA9Hci859",
+      "snippet": {
+        "publishedAt": "2020-02-14T15:34:31Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Kpop Songs in June 2024",
+        "description": "Kpop Songs in June 2024\n\nLast Year's Title: Kpop Songs in June 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7UecFm_bSTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7UecFm_bSTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7UecFm_bSTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7UecFm_bSTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7UecFm_bSTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Kpop Songs in June 2024",
+          "description": "Kpop Songs in June 2024\n\nLast Year's Title: Kpop Songs in June 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "R3MxygSRYA_fo7QdZvUinZvJUgc",
+      "id": "PLX8ViMHMcK35i4pq8Uj__VWL2eAwLKQ2A",
+      "snippet": {
+        "publishedAt": "2019-07-18T07:15:23Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Top 30 New Kpop Songs June 2024 - Playlist Latest Kpop Music 2024",
+        "description": "Top 30 New Kpop Songs June 2024 - Playlist Latest Kpop Music 2024\n\nLast Year's Title: Top 30 New Kpop Songs June 2023 - Playlist Latest Kpop Music 2023\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FxB6_qaqHlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Top 30 New Kpop Songs June 2024 - Playlist Latest Kpop Music 2024",
+          "description": "Top 30 New Kpop Songs June 2024 - Playlist Latest Kpop Music 2024\n\nLast Year's Title: Top 30 New Kpop Songs June 2023 - Playlist Latest Kpop Music 2023\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Wf73hkEvnTl5_VfW5aM4Dnm_eYY",
+      "id": "PLX8ViMHMcK37ytpXky-iXhSb-7M9aU4pI",
+      "snippet": {
+        "publishedAt": "2019-07-08T16:06:09Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Most Popular Kpop Songs 2024",
+        "description": "Most Popular Kpop Songs 2024\n\nLast Year's Title: Most Popular Kpop Songs 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Most Popular Kpop Songs 2024",
+          "description": "Most Popular Kpop Songs 2024\n\nLast Year's Title: Most Popular Kpop Songs 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_YmFj3s_wjxkfonXdKujJV_6Rnw",
+      "id": "PLX8ViMHMcK37p7YAidp0JuQ9SvJrVcZee",
+      "snippet": {
+        "publishedAt": "2019-05-29T10:29:03Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Most Popular Kpop Songs of 2024 - Top Korean Music 2024",
+        "description": "Most Popular Kpop Songs of 2024 - Top Korean Music 2024\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\n1. Top 50 Most Popular KPop Songs 2024 - Playlist Best Kpop Hits 2024 (Kpop Music Of The Year) - https://play.redlist.com/4245\n\nIn the next year, you will be able to find this playlist with the next title: Most Popular Kpop Songs of 2025 - Top Korean Music 2025\n\nLast Year's Title: Most Popular Kpop Songs of 2023 - Top Korean Music 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SQ1yPMTIwCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SQ1yPMTIwCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SQ1yPMTIwCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SQ1yPMTIwCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SQ1yPMTIwCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Most Popular Kpop Songs of 2024 - Top Korean Music 2024",
+          "description": "Most Popular Kpop Songs of 2024 - Top Korean Music 2024\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\n1. Top 50 Most Popular KPop Songs 2024 - Playlist Best Kpop Hits 2024 (Kpop Music Of The Year) - https://play.redlist.com/4245\n\nIn the next year, you will be able to find this playlist with the next title: Most Popular Kpop Songs of 2025 - Top Korean Music 2025\n\nLast Year's Title: Most Popular Kpop Songs of 2023 - Top Korean Music 2023"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ghQfOGkJ0ghCOinaeN99db5u6AI",
+      "id": "PLX8ViMHMcK34tXBbAkkI8txBnmUvcLCvI",
+      "snippet": {
+        "publishedAt": "2019-04-04T11:43:48Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs Playlist (Updated 2024)",
+        "description": "Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs\n\nLast Year's Title: Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs Playlist (Updated 2023)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs Playlist (Updated 2024)",
+          "description": "Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs\n\nLast Year's Title: Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs Playlist (Updated 2023)"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OXzouqSfEQxhOyH2IdsSoRizpAA",
+      "id": "PLX8ViMHMcK357vUhGhJVrUE1V2KNvAg4Q",
+      "snippet": {
+        "publishedAt": "2018-12-04T13:25:29Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "KPop Songs to Show Your Non KPop Friends",
+        "description": "KPop Songs to Show Your Non KPop Friends\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs - http://play.red-music.com/1826",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/olDWm2veCrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "KPop Songs to Show Your Non KPop Friends",
+          "description": "KPop Songs to Show Your Non KPop Friends\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs - http://play.red-music.com/1826"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZzSeGHvo6NEzE7iz7FAwGNr9elo",
+      "id": "PLX8ViMHMcK35J8r3Ixk66Y6R5ENxkGKto",
+      "snippet": {
+        "publishedAt": "2018-06-19T13:03:56Z",
+        "channelId": "UC_Pkv1iQ7e4n2iQpdNssPug",
+        "title": "KPop Sing Along Challenge",
+        "description": "KPop Sing Along Challenge\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs Playlist (Updated 2024) - https://play.redlist.com/1826",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QU9c0053UAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QU9c0053UAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QU9c0053UAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QU9c0053UAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Korea",
+        "localized": {
+          "title": "KPop Sing Along Challenge",
+          "description": "KPop Sing Along Challenge\n\nWe recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you will like:\n\n1. Best Kpop Music Videos of all Time - Most Popular Korean Pop Songs Playlist (Updated 2024) - https://play.redlist.com/1826"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    }
+  ]
+}

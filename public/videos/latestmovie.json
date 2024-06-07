@@ -1,0 +1,951 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "bPbomznvQg4S34cIP7pSMpv83s0",
+  "nextPageToken": "EAAajgFQVDpDQlFpRURNeFF6UXdPVVk1TWpBeFFqRTVSRUVvQVVqZDZQLTY4Ny1HQTFBQldrVWlRMmxLVVZSR1FuUlVSM2hSWTBkR2FsZEVhR3hTUmxJeVZHeG5ORTVJV1RSV2JFRXpZMjFGZEZKVlRscGtNMFpaUldkM1NYaFBkak56WjFsUmVVMWlNM1IzU1NJ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tMhwFmixod2Pxx6iszv98iUccB0",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5EREQyMEQ5MzIwMDNGOUM1",
+      "snippet": {
+        "publishedAt": "2024-06-03T16:56:36Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『베놈: 라스트 댄스』 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n\"베놈: 라스트 댄스\"( Venom: The Last Dance)는 2024년 개봉 예정인 미국의 슈퍼히어로 영화 《베놈》, 《베놈 2: 렛 데어 비 카니지》의 속편으로 베놈 시리즈의 최종장이다. 1, 2편의 각본가인 켈리 마셀의 감독 데뷔작이며, 그가 이번 작품의 각본도 담당했다.\n\n감독 : 켈리 마르셀\n출연 : 톰 하디, 주노 템플, 추이텔 에지오포, 미셸 윌리엄스, 페기 루\n#베놈 #톰하디 베놈3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iI6w4JfLd0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iI6w4JfLd0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iI6w4JfLd0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iI6w4JfLd0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iI6w4JfLd0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iI6w4JfLd0g"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t26mq3tzqfoMHkZjD_MdMVPKUu8",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC41NDZEMjZGRkVBMkIxQThE",
+      "snippet": {
+        "publishedAt": "2024-06-02T09:30:37Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『콰이어트 플레이스: 첫째 날』 피처렛 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n그날, 우리 세상이 조용해진 이유가 밝혀진다\n\n감독 : 마이클 사노스키\n출연 : 루피타 뇽, 조셉 퀸, 지몬 훈수, 알렉스 울프\n#콰이어트플레이스3 #첫째날 #콰이어트플레이스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/20VEEUdoQAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/20VEEUdoQAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/20VEEUdoQAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/20VEEUdoQAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/20VEEUdoQAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "20VEEUdoQAo"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WJH0FLq369XH54uF6lfu6oaXrf8",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4xMjA2MDU4QzgxRUI5NDQ5",
+      "snippet": {
+        "publishedAt": "2024-05-18T02:50:27Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『나쁜 녀석들: 라이드 오어 다이』 최종 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n윌 스미스와 마틴 로렌스 콤비의 버디 무비 '나쁜 녀석들' 시리즈의 4번째 작품이다.\n\n감독 : 아딜 엘아르비, 빌랄 팔라\n출연 : 윌 스미스, 마틴 로렌스, 바네사 허진스, 이안 그루퍼드\n#나쁜녀석들 #라이드오어다이 #윌스미스 #마틴로렌스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wKv5HEDOjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wKv5HEDOjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wKv5HEDOjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wKv5HEDOjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wKv5HEDOjE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_wKv5HEDOjE"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_-i--CvpuowS0L9L0l-A-ceIUjA",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5GQjE4NTgzNjg4QTA2RkZB",
+      "snippet": {
+        "publishedAt": "2024-05-17T12:59:12Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『네버 렛 고』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n세상의 종말 이후 악마가 세상을 장악하고 외딴 곳에 사는 한 어머니와 두 아들을 유일하게 보호하는 것은 그들의 집과 연결된 밧줄 뿐이다. 밧줄로 서로를 묶어서 항상 연결 상태를 유지해야 하는 그들 하지만 어느 날 아들 중 한 명이 악이 진짜 존재하는지 의문을 품자, 그들을 하나로 묶어주던 끈이 끊어지고 생존을 위한 끔찍한 싸움이 시작된다.\n\n감독 : 알렉산드르 아야\n출연 : 할리 베리, 퍼시 다그스 4세, 앤서니 B. 젠킨스\n#네버렛고 #할리베리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fRZsBDqEvSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fRZsBDqEvSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fRZsBDqEvSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fRZsBDqEvSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fRZsBDqEvSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fRZsBDqEvSw"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZHjWp1D3TmScF74gVP2i3Zo325g",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4zQkMyMTUxODFGRTQ0RTVC",
+      "snippet": {
+        "publishedAt": "2024-05-16T09:34:59Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "max 드라마 『듄: 프로퍼시』 티저 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n『듄: 프로퍼시(Dune: Prophecy)』는 2024년 가을부터 방영 예정인 max의 오리지널 드라마이다. 듄 세계관의 여성 집단 베네 게세리트의 기원을 다룬 작품이며, 시간 배경은 1965년 원작 소설보다 1만 년전 이야기이다. \n#듄프로퍼시 #베네게세리트 #듄",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4c-CsGge2vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4c-CsGge2vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4c-CsGge2vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4c-CsGge2vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4c-CsGge2vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4c-CsGge2vk"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RITZ77u9cXL5r9XD3A9MB4_1Uik",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5CM0JCMTVBNkNBNThCOEZG",
+      "snippet": {
+        "publishedAt": "2024-05-15T02:15:37Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "max 드라마 《하우스 오브 드래곤》시즌 2 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n《왕좌의 게임》의 프리퀄이자 얼음과 불의 노래 시리즈의 외전 소설 《불과 피》를 원작으로 하는 드라마로 본편 시점에서 172년 전 웨스테로스에서 일어난 타르가르옌 가문 사상 최대의 왕위 쟁탈전을 배경으로, 라에니라 공주를 지지하는 흑색파와 아에곤 2세를 지지하는 녹색파 사이에서 발생한 내전 '용들의 춤'을 다루고 있다.\n#하우스오브드래곤 #시즌2 #불과피",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0J0jB2kVPxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0J0jB2kVPxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0J0jB2kVPxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0J0jB2kVPxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0J0jB2kVPxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0J0jB2kVPxI"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DV6qluaECY108ZZPbDcxDF1B8e8",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4zMUU2NkVEOUQ2RTg3RDM5",
+      "snippet": {
+        "publishedAt": "2024-05-09T14:11:43Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『콰이어트 플레이스: 첫째 날』 2차 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n그날, 우리 세상이 조용해진 이유가 밝혀진다\n\n감독 : 마이클 사노스키\n출연 : 루피타 뇽, 조셉 퀸, 지몬 훈수, 알렉스 울프\n#콰이어트플레이스3 #첫째날 #콰이어트플레이스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yRJfMEBbBY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yRJfMEBbBY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yRJfMEBbBY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yRJfMEBbBY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yRJfMEBbBY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yRJfMEBbBY8"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X7CQshKVElahoyowmyNP6ZaPfVs",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5BRDU2RkY0MUEzQjVBMDg4",
+      "snippet": {
+        "publishedAt": "2024-05-09T09:43:48Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『트위스터스』 2차 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n영화  『트위스터스』는 1996년 개봉한 『트위스터』를 현대적으로 새롭게 리메이크한 작품으로 『미나리』를 통해 아카데미 시상식에서 엄청난 주목을 받았던 정이삭 감독이 연출을 맡아 기대감을 높여주고 있다. \n\n감독 : 정이삭\n출연 : 데이지 에드거존스, 글렌 파월, 앤서니 라모스\n#트위스터스 #정이삭 #트위스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z9-vavLY_lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z9-vavLY_lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z9-vavLY_lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z9-vavLY_lg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z9-vavLY_lg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z9-vavLY_lg"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_zj-OhobEyVjmJzVf2goBRazS_s",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5BMjk2QjQwOEE4OTdFMEJG",
+      "snippet": {
+        "publishedAt": "2024-05-08T22:02:26Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『베테랑2』 칸영화제 예고편 - 미드나잇 스크리닝 부문",
+        "description": "『베테랑2』 칸영화제 예고편 - 미드나잇 스크리닝 부문\n미드나잇 스크리닝은 액션, 스릴러, 느와르, 판타지, 호러와 같은 장르 영화 중 작품성과 대중성을 겸비한 소수의 작품을 상영하는 부문이다.\n2015년 영화 베테랑의 후속편으로 연쇄살인범에 대한 이야기를 다루고 있다.\n감독 : 류승완\n출연 : 황정민, 정해인, 오달수, 오대환, 장윤주\n#베테랑2 #THE EXECUTIONER #황정민 #정해인 #오달수",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VX-IGS4I65k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VX-IGS4I65k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VX-IGS4I65k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VX-IGS4I65k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VX-IGS4I65k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VX-IGS4I65k"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a58R7PP0aGPBo40zSepbs7VXfzA",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC44OTg1NjJEQjE3MDE1NDk2",
+      "snippet": {
+        "publishedAt": "2024-05-04T20:37:14Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "프라임 비디오 《더 보이즈》 시즌 4 메인 예고편 | 한글자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n아마존 프라임 비디오의 드라마 시리즈인 《더 보이즈》는 슈퍼히어로 집단인 '세븐'과 그들을 후원해주는 '보우트' 사의 비밀과 추악한 진실을 파헤쳐나가는 '더 보이즈' 조직에 대한 이야기이다.\n\n#더보이즈 #TheBoys",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ho9cUF5bG-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ho9cUF5bG-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ho9cUF5bG-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ho9cUF5bG-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ho9cUF5bG-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ho9cUF5bG-E"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HRhueDS_3WSVB0HZyckMNPHZP7o",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC40QzlBOUIzQjA2MTg3RDYz",
+      "snippet": {
+        "publishedAt": "2024-05-04T20:34:56Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "디즈니+ 드라마 『애콜라이트』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n디즈니+에서 공개 예정인 8부작 스타워즈 실사 드라마로 고 공화국 시대(High Republic Era) 말기, 더 구체적으로는 '스타워즈: 보이지 않는 위험'으로부터 100년 전 이야기로 그려지며 은하계의 어두운 비밀과 다크사이드 포스의 대두를 그려내는 미스터리 서바이벌 호러 장르이다.\n\n감독 : 알렉스 자크르제프스키, 코고나다\n출연 : 이정재, 아만들라 스텐버그, 조디 터너스미스\n#애콜라이트 #스타워즈 #이정재",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A2Qn8mAIYjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A2Qn8mAIYjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2Qn8mAIYjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A2Qn8mAIYjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A2Qn8mAIYjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A2Qn8mAIYjQ"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WR7aH45asj09mR6mBWmekfpkfv8",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5FNTlGQUZCQTc4RjM3REMx",
+      "snippet": {
+        "publishedAt": "2024-04-30T23:16:10Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『혹성탈출: 새로운 시대』 최종 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n《혹성탈출: 새로운 시대(Kingdom of the Planet of the Apes)》는 혹성탈출 시리즈 《혹성탈출: 종의 전쟁》이후 7년 만의 후속작이다.\n시저의 통치 이후 수십 세대가 지나고 유인원들이 지배적인 종족이 되어 조화롭게 살아가고 인간은 숨어서 살아가는 존재로 전락했다. 폭압적인 새 유인원 지도자가 제국을 건설하는 가운데, 한 젊은 유인원이 과거의 모든 것에 의문을 품게 되고 유인원들과 인간의 미래를 결정지을지도 모를 고뇌의 여정을 시작한다.\n\n감독 : 웨스 볼\n출연 : 오웬 티그, 프레야 앨런, 피터 메이컨, 에카 다빌, 케빈 듀랜드, 트래비스 제프리, 윌리엄 H. 메이시\n#혹성탈출 #새로운시대 #혹성탈출새로운시대 #KingdomOfThePlanetOfTheApes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sqCRP9LimsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sqCRP9LimsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sqCRP9LimsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sqCRP9LimsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sqCRP9LimsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sqCRP9LimsM"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CZKHEuTkz7DX5sQtpNzSeXH88PE",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5DRTEyMDJEREM4NDg4NTk4",
+      "snippet": {
+        "publishedAt": "2024-04-23T17:32:10Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『아틀라스』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n뛰어난 데이터 분석가이지만 인공지능을 극도로 불신하는 아틀라스 셰퍼드는 로봇 변절자를 체포하는 임무에 참여하게 되었다가 임무가 틀어지며 인공지능에 의지할 수밖에 없는 난관에 봉착하게 되는데...\n\n감독 : 브래드 페이턴\n출연진 : 제니퍼 로페즈, 시무 류, 스털링 K. 브라운, 에이브러햄 포풀라\n#아틀라스 #제니퍼로페즈 #넷플릭스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PhxGAptWO5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PhxGAptWO5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PhxGAptWO5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PhxGAptWO5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PhxGAptWO5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PhxGAptWO5M"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9WHhL3AlPKe9UBA6xg2BjkCAa_w",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4yMjZDNERERTg3NUY0ODk3",
+      "snippet": {
+        "publishedAt": "2024-04-22T21:38:23Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『더 워처스』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n '더 워처스'는 'M. 나이트 샤말란'의 딸 '이샤나 나이트 사말란'의 첫 장편 연출작이다.\n아일랜드 서부의 광활한 숲에서 길을 잃은 주인공이 낯선 세 사람과 함께 알 수 없는 장소에 갇혀 매일 밤 미스터리한 생명체에게 관찰을 당하는데...\n\n원작 :  A.M. 샤인의 소설 'The Watchers'\n감독 : 이샤나 나이트 샤말란\n출연 : 다코타 패닝, 조지나 캠벨, 올웬 파우에레, 앨리스테어 브라머\n#다코타패닝 #더워처스 #이샤나나이트샤말란",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_cic61hpZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_cic61hpZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_cic61hpZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_cic61hpZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_cic61hpZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n_cic61hpZk"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5GvxS1SXM5Qa_8Sv66H2NZuWGsM",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC42OTI2RTI0NTQyNTNBQzBB",
+      "snippet": {
+        "publishedAt": "2024-04-22T15:24:58Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『데드풀과 울버린』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n숀 레비 감독의 데드풀 실사영화 시리즈 세번째 영화이다.\n감독 : 숀 레비\n출연 : 라이언 레이놀즈, 휴 잭맨, 레슬리 어검스, 엠마 코린\n#데드풀 #울버린 #데드풀과울버린",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tCgL1XkTZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tCgL1XkTZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tCgL1XkTZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3tCgL1XkTZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3tCgL1XkTZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3tCgL1XkTZo"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BtzCs_o2qfN3I_SO2I5-M6F5aDU",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5GRTk4M0ZCN0FDMDIyNTc4",
+      "snippet": {
+        "publishedAt": "2024-04-20T00:01:16Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "나이트 샤말란 감독 『트랩』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n'트랩'은 . M. 나이트 샤말란이 감독과 각본을 맡은 2024년 개봉 예정인 미국의 스릴러 영화이다.\n\n감독 : M. 나이트 샤말란\n출연 : 죠쉬 하트넷, 아리엘 도노휴, 헤일리 밀스, 마니 맥파일\n#트랩 #조쉬하트넷 #나이트샤말란",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UpUoUCM-LZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UpUoUCM-LZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UpUoUCM-LZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UpUoUCM-LZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UpUoUCM-LZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UpUoUCM-LZM"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4EaywZx5VwOJU4oQ2eANnvoVMX8",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC5FQ0IzMzJEMEFCMEY1OEIy",
+      "snippet": {
+        "publishedAt": "2024-04-19T23:48:38Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "애플 TV+ 드라마 『다크 매터』 메인 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n최고의 공상과학 소설 중 하나로 찬사를 받은 블레이크 크라우치의 동명 소설을 원작으로 한 애플TV의 드라마 시리즈로  9부작으로 제작되었으며 조엘 에저튼이 자신의 존재에 대한 분열된 현실과 마주한 물리학자 제이슨 데센 역을 맡았다.\n#다크매터 #애플TV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bJLdF9q7oi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bJLdF9q7oi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bJLdF9q7oi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bJLdF9q7oi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bJLdF9q7oi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bJLdF9q7oi4"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xtZ4ctqYgM2KffWxl1qCo28FXsc",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4yNzcwMDU3MUU2OTQzRDFE",
+      "snippet": {
+        "publishedAt": "2024-04-10T11:53:38Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『조커: 폴리 아 되』 티저 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n호아킨 피닉스 주연의 '조커' 후속작으로 레이디 가가가 할리 퀸 역을 맡았다.\n감독 : 토드 필립스\n출연 : 호아킨 피닉스, 레이디 가가, 브렌든 글리슨, 캐서린 키너\n#조커 #폴리아되 #호아킨피닉스 #레이디가가",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5yzHVFjJHdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5yzHVFjJHdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5yzHVFjJHdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5yzHVFjJHdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5yzHVFjJHdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5yzHVFjJHdU"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1OEB6Zz8mp5wWRHhoUNJNvMZsrg",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4zQUM1MkJDNzVFMjgyRkUy",
+      "snippet": {
+        "publishedAt": "2024-04-09T10:16:52Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『혹성탈출: 새로운 시대』 라카 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n《혹성탈출: 새로운 시대(Kingdom of the Planet of the Apes)》는 혹성탈출 시리즈 《혹성탈출: 종의 전쟁》이후 7년 만의 후속작이다.\n시저의 통치 이후 수십 세대가 지나고 유인원들이 지배적인 종족이 되어 조화롭게 살아가고 인간은 숨어서 살아가는 존재로 전락했다. 폭압적인 새 유인원 지도자가 제국을 건설하는 가운데, 한 젊은 유인원이 과거의 모든 것에 의문을 품게 되고 유인원들과 인간의 미래를 결정지을지도 모를 고뇌의 여정을 시작한다.\n\n감독 : 웨스 볼\n출연 : 오웬 티그, 프레야 앨런, 피터 메이컨, 에카 다빌, 케빈 듀랜드, 트래비스 제프리, 윌리엄 H. 메이시\n#혹성탈출 #새로운시대 #혹성탈출새로운시대 #KingdomOfThePlanetOfTheApes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6dEGeTV1BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6dEGeTV1BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6dEGeTV1BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e6dEGeTV1BA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e6dEGeTV1BA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e6dEGeTV1BA"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xx3_csu0IpR-YAJPY0gK5sgvfzg",
+      "id": "UExQbUxsUHBhY1g4ZURUdk5YODR2OFZQN3JhLUVDWXdxWC4xNThDNUQxQ0UyQUQyODNG",
+      "snippet": {
+        "publishedAt": "2024-04-09T10:11:13Z",
+        "channelId": "UC1FquILdjU9hQCgxU2MFKgQ",
+        "title": "『보이 킬스 월드』 레드밴드 예고편 | 한글 자막",
+        "description": "※ 공식 자막이 아닙니다. 오역과 의역이 많이 있어요.\n풍부한 상상력을 지닌 청각장애 벙어리 소년 '보이'. 가족이 살해당한 뒤, 정글로 탈출한 보이는 신비한 t샤먼에게 훈련을 받아 자신의 유치한 상상을 억누르고 살인병기로 거듭난다.\n\n원작 : 모리츠 모어의 단편 영화 '보이 킬스 월드'\n감독 : 모리츠 모어\n출연 : 빌 스카스가드, 제시카 포테, 팜케 얀센, 야얀 루히안, 미셸 도커리, 살토 코플리\n#보이킬스월드 #샘레이미 #빌스카스가드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7bFNjq8QjE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7bFNjq8QjE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7bFNjq8QjE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7bFNjq8QjE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7bFNjq8QjE0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영화예고편",
+        "playlistId": "PLPmLlPpacX8eDTvNX84v8VP7ra-ECYwqX",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7bFNjq8QjE0"
+        },
+        "videoOwnerChannelTitle": "영화예고편",
+        "videoOwnerChannelId": "UC1FquILdjU9hQCgxU2MFKgQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 786,
+    "resultsPerPage": 20
+  }
+}

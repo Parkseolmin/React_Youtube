@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QtFKGsr-CNAIK8Ga1vxRuWa9RQI",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t9JyDSQ0kPH7F3mVTzV2VNzkmkQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IGn2iDLCtvI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-10T05:35:11Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "현지 팬들 &quot;SON, 범죄의 희생자&quot;… PFA 올해의 팀도 탈락 #SPORTSTIME",
+        "description": "손흥민 #토트넘 #프리미어리그 손흥민이 PFA 올해의 선수 후보에 이어 올해의 팀에도 오르지 못했습니다. 이에 현지 언론들은 다시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IGn2iDLCtvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IGn2iDLCtvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IGn2iDLCtvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포타임",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-10T05:35:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Svd1Fci6-84JffzABXzj6Y8IjLg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rh35Zq-vTW8"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-27T09:49:14Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 시원하고 청량한 여름 재즈 한모금 🥤ㅣ Summer &amp; Jazz",
+        "description": "All sound sources are composed, arranged, and played by myself.  ‍❤️‍  ‍   If you want to hear better new music, please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rh35Zq-vTW8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rh35Zq-vTW8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rh35Zq-vTW8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "기분Jazz네 | Mood is Jazz",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-05-27T09:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sA1idLPft_otqPVy5Yjo9kaM6j0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lDcWeklf6DI"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-14T06:16:00Z",
+        "channelId": "UCaKod3X1Tn4c7Ci0iUKcvzQ",
+        "title": "[🔴LIVE] 🏃‍♂️런닝맨 몰아보기🏃‍♂️ | 📺스브스 런닝맨 실시간 스트리밍📢",
+        "description": "런닝맨 ✨24시간 무한 스트리밍✨ 달리고 달리고 또 달리고 끊임없이 달려..  ‍♂️  ‍♂️  ‍♂️ ⏰ 스트리밍 일정 : 11월 27일 00시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lDcWeklf6DI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lDcWeklf6DI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lDcWeklf6DI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "런닝맨 - 스브스 공식 채널",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-05-14T06:16:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Za-jtyQ4hXXulBoguFOhQpU7RY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IEFQnR7V_NA"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-28T02:02:04Z",
+        "channelId": "UCvRIeQeTZDHRcqVZRu0XBug",
+        "title": "[🔴LIVE] 런닝맨 그때 그시절 스트리밍 ~218회 | 옛날 런닝맨 무한 반복 스트리밍🏃‍♂️🏃‍♂️🏃‍♂️📢",
+        "description": "옛날런닝맨 #런닝맨 여러분은 런닝맨 1회를 기억하고 있나요? ‍♂️  ‍♂️  ‍♂️ 옛날 그때 그시절 초기 회차!! 런닝맨 무한 반복 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IEFQnR7V_NA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IEFQnR7V_NA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IEFQnR7V_NA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빽능 - SBS 옛날 예능",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-02-28T02:02:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cQ2Jesgx199Rdvhgvqm1De7Hlow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JwMyEmWYy78"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T08:45:15Z",
+        "channelId": "UCNYE6N9YZmsUyReBLzE9x9Q",
+        "title": "요즘 애들은 모르는 &#39;과일 사라다’의 비밀",
+        "description": "쇼츠 #short.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JwMyEmWYy78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JwMyEmWYy78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JwMyEmWYy78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이상한 과자가게  weird sweets shop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T08:45:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u7UAXoJbdDiL8jfB_mr-2Tj1ZfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bf4BX0eAvw4"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-03T03:09:15Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "‘MLB 트레이드 최대어’ 소토, SD행… 김하성과 한솥밥 #SPORTSTIME",
+        "description": "트레이드 #소토 #김하성 #샌디에이고 샌디에이고 파드리스 '매드맨' AJ 프렐러 단장이 파격 트레이드를 성사시키며 단숨에 월드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bf4BX0eAvw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bf4BX0eAvw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bf4BX0eAvw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포타임",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-03T03:09:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nFKNLE7l55T-gDJmVsea10E2SWk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qKqY7e2oF1A"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T09:00:48Z",
+        "channelId": "UC8pqfCpRwtOeVG3lfvlkb9w",
+        "title": "이대호가 포수에도 재능이 있는 이유ㅋㅋㅋ #shrots #최강야구",
+        "description": "shorts #최강야구 #김성근 #이대호 #이대은 #니퍼트 #유희관.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qKqY7e2oF1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qKqY7e2oF1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qKqY7e2oF1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1분예능모음zip",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T09:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "joon9_0nMydvL07hIcwsR5L4uPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BR89_vvgoQY"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T09:35:32Z",
+        "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+        "title": "추미애, 대통령 향해…&quot;탄핵만답이다&quot; #JTBC #Shorts",
+        "description": "추미애 더불어민주당 의원이 소셜미디어에서 육행시 챌린지를 제안했습니다. 이틀 전(3일) 포항 영일만 앞바다 석유, 가스 매장 가능성 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BR89_vvgoQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BR89_vvgoQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BR89_vvgoQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T09:35:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mRzEnc6yl9_w4tBSdlI0unnhCbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "veTl1O6-v7E"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-16T07:41:11Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "&#39;어디든 맡겨만 줘&#39;…김하성, 멀티히트로 5번타자 임무 완벽 성공 #SPORTSTIME",
+        "description": "김하성 #중심타자 #멀티히트 시즌 네번째 5번 타자로 나선 김하성이 멀티히트로 팀 승리를 이끌었습니다. 김하성은 앞선 경기에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/veTl1O6-v7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/veTl1O6-v7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/veTl1O6-v7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포타임",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-16T07:41:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXfURVAMk8sQycaV6f7lrVxsjjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vWOamu5guM4"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T11:56:53Z",
+        "channelId": "UCs4oAFxhxxVhtW-_ApKtkLQ",
+        "title": "인생 마지막 기회",
+        "description": "아......어디가냐... #멕시코 #타코 #칸쿤 #요리 #집밥 #야식.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vWOamu5guM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vWOamu5guM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vWOamu5guM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "하뉴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T11:56:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "faFnEas3zmsxCZAz9qqE_TFI_Lo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wYUXSvkC5N4"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-21T05:32:03Z",
+        "channelId": "UCRLM0MWS7m8vXzQ_5z2e7fA",
+        "title": "서울 속 작은 시골 마을, 조선시대의 아름다운 정원 석파정에서 코끼리 바위에 소원을 빌어 보았다 [트래블 다이어리⎜Travel Diary: Soul; Seoul ep.7]",
+        "description": "빠르게 돌아가는 도시 서울 속에 숨은 보물 같은 시골 마을 부암동 그 속에서 조선시대를 만나다 매주 토요일, 일요일 카리나 그리고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYUXSvkC5N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYUXSvkC5N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYUXSvkC5N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "히스토리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-21T05:32:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KCxl6jnRBDKxGtOv-3kMYt-ts94",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QcwAy7227hY"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T12:19:37Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "삼성 폰 수리 맡겼더니 &quot;사진 봤다&quot;…소름 돋는 &#39;1시간 9분&#39; / SBS 8뉴스",
+        "description": "〈앵커〉 모르는 사람이 내 휴대전화를 뒤져본다면 기분이 어떨까요. 휴대전화가 고장 나서 수리를 맡겼는데 수리센터 직원이 사진을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QcwAy7227hY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QcwAy7227hY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QcwAy7227hY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T12:19:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yX1Sgq3VkOV7idxDXU1mIgEV1c8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CjbArfplEi4"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T09:00:15Z",
+        "channelId": "UCao4qHQPcLZSRbRdsrrFRYw",
+        "title": "돈 버는 이케아 개꿀팁",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CjbArfplEi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CjbArfplEi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CjbArfplEi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "짤컷",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T09:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z0shEmwpFvZlAQei-XDLuwiNcn4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_B-MVBhBtD4"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-06T03:01:46Z",
+        "channelId": "UCd4FmcWIVdWAy0-Q8OJBloQ",
+        "title": "창파나이트 만들어서 파 키우기",
+        "description": "창파나이트로 파 키워서 라면에 넣어먹기 ○ 3D펜 사나고 샵 https://smartstore.naver.com/sanago ○ 2021 NEW 사나고 펜 구매하러 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_B-MVBhBtD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_B-MVBhBtD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_B-MVBhBtD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "사나고 Sanago",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-06T03:01:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q20PpN9fDkyAJTAN5KDh0e0Ig7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eItRwQVjTgc"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T10:05:40Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[뉴스 &#39;꾹&#39;] &#39;가해자 근무&#39; 국밥집 와르르 간판 아래 사과문 봤더니.. (2024.06.05/MBC뉴스)",
+        "description": "밀양가해자 #경북청도군 #백종원 c MBC & iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eItRwQVjTgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eItRwQVjTgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eItRwQVjTgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T10:05:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0C5d7_bBYxKuqreLiaB_AFqEhDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qs1SYLZimdY"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T10:45:17Z",
+        "channelId": "UCI2T1_bAtgnKKzfhw3Qib9w",
+        "title": "[빵빵이의 일상] 사랑의 박대리",
+        "description": "기획/대본: 이주용, 장예빈 애니메이션: 이주용, 허영현, 하현준, 김민석, 황보현정, 윤준식 배경/3D: 추헌주, 강민주.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qs1SYLZimdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qs1SYLZimdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qs1SYLZimdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빵빵이의 일상",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T10:45:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-D9mkphG6W4vkK4J9y6gArhvKgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C3IVxMLdToY"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T11:07:33Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "&quot;많은 의문에 답하려고‥&quot; 기자회견 예고한 &#39;영일만&#39; 분석가 (2024.06.05/뉴스데스크/MBC)",
+        "description": "동해의 석유와 가스 매장 가능성을 분석했던 업체 전문가가 오늘 우리나라에 왔습니다. 우리 정부 발표 이후 제기됐던 의문점에 대해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C3IVxMLdToY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C3IVxMLdToY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3IVxMLdToY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T11:07:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fLwlO0wcVtSC3WAGZR4xk6QnRt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "osK9F6Gh2zE"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T08:00:29Z",
+        "channelId": "UCRWxH4fGhuNsh0klWnDbt0w",
+        "title": "초음파 검사하는 고양이 #shorts #shortvideo #고양이 #시트콤",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/osK9F6Gh2zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/osK9F6Gh2zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/osK9F6Gh2zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "언더월드 UNDER WORLD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T08:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sLB-StA1fMvJSJ7xA6fmH3y1Siw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pm6Q8VKIoL8"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T11:30:23Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "솔직히 이 옵션넣은건 후회합니다. M4 아이패드 프로 13 2주 사용기!",
+        "description": "지난 M4 아이패드 프로 언빡싱 영상 업로드 후 드디어 제가 구입한 13인치 아이패드가 도착했습니다. 이번엔 패드가 많이 바뀌기도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pm6Q8VKIoL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pm6Q8VKIoL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pm6Q8VKIoL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ITSub잇섭",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T11:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wVBmtowuVEAl5b6NEZPGjDESheQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0_pkD3nVpDA"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-04T12:09:00Z",
+        "channelId": "UC8pqfCpRwtOeVG3lfvlkb9w",
+        "title": "공을 성의 없게 던지면 바로 티가 나는 선수ㅋㅋㅋ #shrots #최강야구",
+        "description": "shorts #최강야구 #김성근 #이대호 #이대은 #니퍼트 #유희관.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_pkD3nVpDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_pkD3nVpDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_pkD3nVpDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1분예능모음zip",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-04T12:09:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jyi7kmEIHxKKGHk0WI942X8ou50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vePY3UURrks"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T10:30:19Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[단독] 여성 고객이 전화기 수리 맡겼더니…못 믿을 삼성전자 서비스센터 / KBS  2024.06.05.",
+        "description": "수리를 위해 휴대전화를 하루 맡겼는데, 내 사진첩을 누군가 한 시간 넘게 들여다 봤다면, 여러분은 어떻게 하시겠습니까? 이런 황당한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vePY3UURrks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vePY3UURrks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vePY3UURrks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T10:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jz-Tt7o81FLLs4pmzlIfEzXqAWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1wuLdk9WBnE"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-06T00:00:02Z",
+        "channelId": "UCL9yg7JqW42etUHYWSXpu5g",
+        "title": "조선 시대(2)",
+        "description": "shorts #로블록스 #상황극 #추천 (음원 출처 : 판시)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1wuLdk9WBnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1wuLdk9WBnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wuLdk9WBnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "삐따기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-06T00:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZIrLByVSirnfDhwasY6bU4zF4b0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FoUta0ULoVg"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T11:34:44Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "주민 무차별 공격하는 까마귀‥&quot;대책 마련 어려워&quot; (2024.06.05/뉴스데스크/MBC)",
+        "description": "최근 길가던 사람들이 영문도 모른 채 갑자기 공격 당하는 일이 벌어졌는데, 사람이 아니라, 까마귀의 공격이었습니다. 까마귀들이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FoUta0ULoVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FoUta0ULoVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FoUta0ULoVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T11:34:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rlLeK8k5HbjL3yjS1a5VoWTPIOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kF0liqYOfRQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-23T05:37:44Z",
+        "channelId": "UCunsfa6SSFxVGG74nEsGP-Q",
+        "title": "무려 커쇼의 커브를 넘겼다! 미친 활약 킹하성 1~5호 홈런 모음+타격훈련 ㅣ 조기자의 MLB현장",
+        "description": "킹하성 #김하성 #샌디에이고 #홈런 #MLB #SD #스포일러 #조미예 MLB는 언제나 SPOTV NOW ☞ www.spotvnow.co.kr.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kF0liqYOfRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kF0liqYOfRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kF0liqYOfRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포일러 MLB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-23T05:37:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LnL6y5Aqu5J5W7C4wMVtwu0OHFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bYJGwGJkDIM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T11:08:08Z",
+        "channelId": "UCRPddg8HDYOhSv3tcEmbAXQ",
+        "title": "바둑 대회에서 바나나 20만원어치 먹은 여자",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bYJGwGJkDIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bYJGwGJkDIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bYJGwGJkDIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "유머zip",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T11:08:08Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1749 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "lgI1ukoIUr5RmhFFwPq4hq43hCU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vosXsnUqvlNswap4w-upkz-6eKU",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2024-05-28T10:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "장기자랑에 그 누구보다 진심이었던 배우들😂 | The 8 Show (더 에이트 쇼) | 현장 비하인드 | 넷플릭스",
+        "description": "웃참챌이 되어버린 무아지경의 촬영장😂 웃음 때문에 NG가 끊이지 않았던 《The 8 Show (더 에이트 쇼)》의 촬영 현장 비하인드를 공개합니다✨🎬\n\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2wN5hhyemY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_2wN5hhyemY"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "edw2mCYLtKB94Bo-sJAWI4zwAyM",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2024-05-25T09:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "류준열, 천우희, 박정민의 티격태격❤️ 비하인드 대방출 코멘터리 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "류준열, 천우희, 박정민 그리고 한재림 감독이 함께하는 《The 8 Show (더 에이트 쇼)》의 비하인드 코멘터리📹✨\r\n\r\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\r\n\r\n#The8Show #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1KZHY1IDC30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1KZHY1IDC30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1KZHY1IDC30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1KZHY1IDC30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1KZHY1IDC30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1KZHY1IDC30"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wUf9-fcMfeZ36_BSvrDf350s0Y4",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2024-05-23T09:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "류준열, 천우희, 박정민의 공격과 평화가 공존하는 넷플릭스 토론회🎙️ | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "류준열, 천우희, 박정민의 공격이 난무하는 엉망진창(?) 넷플릭스 토론회🎙️\n\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b16DIuYqEFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b16DIuYqEFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b16DIuYqEFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b16DIuYqEFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b16DIuYqEFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b16DIuYqEFc"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mCqGxwRGAtt-urpZNMjPleoRFB0",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2024-05-23T08:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "탈출할 수 있을 줄 알았는데 늘어난 시간, 우리 중에 범인이 있다? | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "마지막 밤이 될 줄 알았던 사람들. 그런데 다음 날 광장 시간을 확인하니 시간은 늘어나 있다. \n\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6gLUKZijh7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6gLUKZijh7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6gLUKZijh7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6gLUKZijh7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6gLUKZijh7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6gLUKZijh7M"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oozQELlpUcMcBR1hELJxFFaoStk",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2024-05-22T03:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "시간을 벌지 못하면 밥도 먹지 말라 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "갑작스럽게 돌변해 윗층 사람들과 나타난 7층. 아래층 사람들에게 새로운 진행 방식을 제안한다.\r\n\r\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\r\n\r\n#The8Show #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T-yBb6g5xX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T-yBb6g5xX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T-yBb6g5xX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T-yBb6g5xX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T-yBb6g5xX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T-yBb6g5xX0"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nHDymnJ5on70pkIFMT_zCWS7Rk8",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2024-05-21T09:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "박정민은 진짜 유명한 코코더 장인임 | The 8 Show 홍보하러 온 건 아닌데 | 넷플릭스",
+        "description": "준열아 정민아! 너희 둘... 못 본 사이에 장기가 늘었더라?\n막춤에 코로 리코더까지... 주최자가 너무 재밌어서 서비스 계속 넣어주던데?\n어어 병건아 질 수 없다고? 얼른 네 마라탕후루 챌린지도 보여줘!\n\n#The8Show #더에이트쇼 #넷플릭스\n\n홍보하러 온 건 아니지만.. 《The 8 Show(더 에이트 쇼)》, 《오펜하이머》, 《헤어질 결심》, 《대부》, 《더 킹》, 《외계+인》, 《사냥의 시간》, 《타짜: 원 아이드 잭》, 《사바하》, 《베이비 레인디어》, 《브레이킹 배드》, 《베터 콜 사울》, 《지옥》 모두 넷플릭스에서 만나실 수 있습니다.\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fAyoXW_-WqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fAyoXW_-WqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fAyoXW_-WqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fAyoXW_-WqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fAyoXW_-WqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fAyoXW_-WqM"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "th4aF0v0sNyjtP_kB7Ke55zp71w",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2024-05-19T05:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "8층 천우희: 난 너희랑 달라^^ | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "화장실 방을 정하는 모두의 투표에서 8층이 당첨된다. 이 결과에 대해 8층은 자신의 방식으로 답한다.\n\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MfRlEE5tbPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MfRlEE5tbPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MfRlEE5tbPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MfRlEE5tbPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MfRlEE5tbPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MfRlEE5tbPY"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eKzA5gPdo3ee_AWBHbfBmqB3Yj4",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2024-05-18T03:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "꼭대기 층은 하루에 5억, 낮은 곳일수록 불리한 쇼? | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "8층의 방에 올라간 아래층 사람들. 모두 8층 방의 크기와 분당 올라가는 상금을 보고 놀란다. \r\n\r\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\r\n\r\n#The8Show #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719583\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IRE77HrkeaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IRE77HrkeaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IRE77HrkeaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IRE77HrkeaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IRE77HrkeaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IRE77HrkeaQ"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v8j_3btIc6TIrIuZuveXgqjqe_M",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-05-15T09:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "2분짜리 예고편 나노 단위로 뜯어 10분 떠드는 류준열, 천우희, 박정민 | 예고편 리액션 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "류준열, 천우희, 박정민과 함께하는 예고편 리액션🎬\r\n희로애락이 느껴지는 종합 선물 세트 《The 8 Show (더 에이트 쇼)》 5월 17일에 찾아옵니다. 오직 넷플릭스에서.\r\n\r\n#The8Show #더에이트쇼 #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/syKqZfku7PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/syKqZfku7PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/syKqZfku7PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/syKqZfku7PU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/syKqZfku7PU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "syKqZfku7PU"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pleUVL8AwbAIHbAUN5elL5Nvzow",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2024-05-18T08:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "얘들아 정민이가 코로 리코더 분대 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "무리한 계단 오르기로 쓰러진 4층. 공동의 시간으로 약을 구매해야 하는 상황에서 6층이 막아서고, 2층은 그런 6층과 격한 몸싸움을 벌인다. \n\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrilGrYdSjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrilGrYdSjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrilGrYdSjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yrilGrYdSjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yrilGrYdSjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yrilGrYdSjQ"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zKNrYkknTY6xEZhbtyMBgZ04s28",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2024-05-20T10:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "???: 3번이랑 7번 딥키스하세요 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "도시락 사건 이후 광장에 모인 사람들. 시간을 늘리기 위한 방법을 논의하던 중 8층은 왕게임을 제안한다. \r\n\r\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\r\n\r\n#The8Show #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vpsArugiJRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vpsArugiJRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vpsArugiJRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vpsArugiJRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vpsArugiJRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vpsArugiJRo"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hbsZiSJB2ieSBRaN33mwW4DYyG4",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-05-17T07:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "The 8 Show (더 에이트 쇼) | 절찬 스트리밍 중 | 넷플릭스",
+        "description": "8명의 사람, 8개의 층, 8인의 희비극.\r\n\r\n8명의 인물이 비밀스런 공간에 갇혀 ‘시간이 쌓이면 돈을 버는’ 달콤하지만 위험한 쇼에 참가하면서 벌어지는 이야기 《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\r\n\r\n#The8Show #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ySapXMUGrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ySapXMUGrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ySapXMUGrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3ySapXMUGrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3ySapXMUGrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3ySapXMUGrI"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vaLLhUzjccmWNRIkbt7FdIf7dig",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2024-05-16T03:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "[선공개] 가만히 있어도 시급으로 180만 원을 주는 쇼 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "시간이 흐를수록 상금이 쌓이는 수상한 쇼에 참가하게 된 진수. 3층을 선택하고 방에 입장하여 룰을 확인하고, 곧이어 쇼가 시작된다. \n\n《The 8 Show (더 에이트 쇼)》 5월 17일 공개. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mn8ONeqI0Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mn8ONeqI0Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mn8ONeqI0Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mn8ONeqI0Cc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mn8ONeqI0Cc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mn8ONeqI0Cc"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBovTSpAQZAJ44Gab0jJLInuRro",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-04-23T00:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "The 8 Show (더 에이트 쇼) | 공식 티저 예고편 | 넷플릭스",
+        "description": "8명의 인물이 8층으로 나뉜 비밀스런 공간에 갇혀 ‘시간이 쌓이면 돈을 버는’ 달콤하지만 위험한 쇼에 참가하면서 벌어지는 이야기를 그린 넷플릭스 시리즈\r\n\r\n넷플릭스 시리즈 《The 8 Show》\r\n5월 17일, 오직 넷플릭스에서\r\n\r\n#넷플릭스 #The8Show #더에이트쇼\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7ooiBsqyGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7ooiBsqyGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7ooiBsqyGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y7ooiBsqyGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y7ooiBsqyGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y7ooiBsqyGk"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ykCRwBUikJa_yjIuZ9dgeLa2fDc",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-05-09T05:53:18Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "The 8 Show (더 에이트 쇼) | 공식 예고편 | 넷플릭스",
+        "description": "8명의 인물이 8층으로 나뉜 비밀스런 공간에 갇혀 ‘시간이 쌓이면 돈을 버는’ 달콤하지만 위험한 쇼에 참가하면서 벌어지는 이야기를 그린 넷플릭스 시리즈\r\n\r\n넷플릭스 시리즈 《The 8 Show》\r\n5월 17일, 오직 넷플릭스에서\r\n\r\n#넷플릭스 #The8Show #더에이트쇼\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CWfWMxDqbN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CWfWMxDqbN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CWfWMxDqbN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CWfWMxDqbN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CWfWMxDqbN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CWfWMxDqbN0"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YyEhhNBimrKygxERIGSkTw8GoNU",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-05-14T09:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "6번째 친구 미리보기 | 준열이랑 정민이가 탕탕후루후루 | 홍보하러 온 건 아닌데",
+        "description": "#홍보하러온건아닌데 여섯 번째 친구\r\n《The 8 Show(더 에이트 쇼)》 류준열, 박정민 편, 5월 21일 小공개\r\n\r\n#침착맨 #이창호 #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BUGVkzW15KQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BUGVkzW15KQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BUGVkzW15KQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BUGVkzW15KQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BUGVkzW15KQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BUGVkzW15KQ"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gcWfv9sqDHGBMXfNJSz84EsCPD0",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-05-09T08:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "시간이 흐르면 돈이 쌓이는 비밀스런 공간으로 초대합니다 | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "방구석 1열로 모십니다. 혹하지만 가혹한 쇼 《The 8 Show (더 에이트 쇼)》, 5월 17일 오직 넷플릭스에서. \r\n\r\n#더에이트쇼 #The8Show\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfnzPpMHX4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfnzPpMHX4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfnzPpMHX4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xfnzPpMHX4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xfnzPpMHX4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xfnzPpMHX4E"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Adge-J51AR5tQlbfDdZ3NfFbwug",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-04-18T03:00:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "1시간 타이머 (BGM, 알람 有)",
+        "description": "당신의 시간을 삽니다\r\n\r\n《The 8 Show》 5월 17일 공개. 오직 넷플릭스에서.\r\n\r\n#The8Show #넷플릭스\r\n\r\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\r\n\r\n넷플릭스 채널 구독: https://vo.la/j7zAG\r\n\r\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HvOqo44Qks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HvOqo44Qks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HvOqo44Qks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3HvOqo44Qks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3HvOqo44Qks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3HvOqo44Qks"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OIkOvpciLH2WLt2AVF_JPLQ639k",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-05-09T05:52:26Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "The 8 Show (더 에이트 쇼) | 공개일 발표 | 넷플릭스",
+        "description": "8명의 인물이 8층으로 나뉜 비밀스런 공간에 갇혀 ‘시간이 쌓이면 돈을 버는’ 달콤하지만 위험한 쇼에 참가하면서 벌어지는 이야기를 그린 넷플릭스 시리즈\n\n넷플릭스 시리즈 《The 8 Show》\n5월 17일, 오직 넷플릭스에서\n\n#넷플릭스 #The8Show #더에이트쇼\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/blyQ6xXEf4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/blyQ6xXEf4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/blyQ6xXEf4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/blyQ6xXEf4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/blyQ6xXEf4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "blyQ6xXEf4g"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jtAckVKFIuRW6Fgyy76emV3AFKM",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-05-17T10:08:17Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "The 8 Show (더 에이트 쇼) | 1층부터 8층까지, 캐릭터 소개 | 넷플릭스",
+        "description": "8인의 참가자, 8개의 층, 8편의 희비극이 펼쳐진다!\n흥미롭고 다채로운 1층부터 8층까지의 캐릭터 백과 📖\n\n《The 8 Show》 (더 에이트 쇼) 5월 17일 공개\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMgm_m1b__o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMgm_m1b__o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMgm_m1b__o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WMgm_m1b__o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WMgm_m1b__o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WMgm_m1b__o"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cvul-bx_qcWdW6mrz1ULZNVufsM",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2024-05-17T12:01:08Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "미쳐버린 물가, 신문 한 부에 10만 원? | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6z_q19r5rpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6z_q19r5rpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6z_q19r5rpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6z_q19r5rpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6z_q19r5rpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6z_q19r5rpU"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8GB0V3K6eVpxue4aShXS8mNC0-A",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-05-18T02:00:22Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "박정민 코코더 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQ6eMdpzJ8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQ6eMdpzJ8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQ6eMdpzJ8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IQ6eMdpzJ8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IQ6eMdpzJ8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IQ6eMdpzJ8M"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wpwkZo5h99B0JMXnaLnCbMNWBxw",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2024-05-19T02:00:53Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "류준열 도시락 먹방 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJj_6YdOQGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJj_6YdOQGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJj_6YdOQGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NJj_6YdOQGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NJj_6YdOQGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NJj_6YdOQGU"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uhwBN7pdMSE8zaaO9Iul6JWWGV8",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2024-05-19T09:01:06Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "더 에이트 쇼 티셔츠 류천박 에디션👚🖌️ | The 8 Show (더 에이트 쇼) | 넷플릭스",
+        "description": "류준열, 천우희, 박정민의 내 맘대로 그려보쇼🖌️🎨\n이 중 당신의 스타일은?\n\n《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#The8Show #더에이트쇼 #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nv3z-5SJKkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nv3z-5SJKkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nv3z-5SJKkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nv3z-5SJKkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nv3z-5SJKkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nv3z-5SJKkk"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n1BP1r2lmHVLtqrs6xdaQUXOybU",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2024-05-20T09:00:27Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "아무도 그에게 춤을 강요한 적이 없다 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m5FQtIM8V4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m5FQtIM8V4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m5FQtIM8V4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m5FQtIM8V4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m5FQtIM8V4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m5FQtIM8V4A"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P0toFixUpMrtUILjy7YuSf25mIA",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-05-21T05:00:04Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "해맑은 맑눈광 천우희 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgWHksfK5a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgWHksfK5a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgWHksfK5a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgWHksfK5a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EgWHksfK5a8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgWHksfK5a8"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M8PCMJfyOVfOHoV9lpYjpcrXMB8",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-05-21T06:00:21Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "야 우냐? 아 우는 게 아니네.. | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vU9JyaC7O1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vU9JyaC7O1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vU9JyaC7O1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vU9JyaC7O1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vU9JyaC7O1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vU9JyaC7O1M"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZojvWspcAB7xPK27446jxPlNG4Q",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2024-05-22T09:36:17Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "정민이 알고리즘을 장악한 병건이의 탕후루 챌린지 | The 8 Show 홍보하러 온 건 아닌데",
+        "description": "류준열, 박정민 《The 8 Show(더 에이트 쇼)》 홍보하러 온 건 아닌데..\n아무튼 절찬 스트리밍 중. 《The 8 Show(더 에이트 쇼)》, 지금 오직 넷플릭스에서.\n\n#The8Show #더에이트쇼 #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/umEflNmu15M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/umEflNmu15M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/umEflNmu15M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/umEflNmu15M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/umEflNmu15M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "umEflNmu15M"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WvYJTyeUHjX-pQ9Ege72JC9wHTI",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2024-05-24T09:00:37Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "넷플릭스 놈들에게 짜증이 난 정민이 | The 8 Show 홍보하러 온 건 아닌데",
+        "description": "류준열, 박정민 《The 8 Show(더 에이트 쇼)》 홍보하러 온 건 아닌데..\n아무튼 절찬 스트리밍 중. 《The 8 Show(더 에이트 쇼)》, 지금 오직 넷플릭스에서. \n\n#The8Show #더에이트쇼 #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8MPLJkh5lA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8MPLJkh5lA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8MPLJkh5lA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t8MPLJkh5lA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t8MPLJkh5lA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t8MPLJkh5lA"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dOStmzp0hji92CXk3cQ2Y2-IBMg",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2024-05-25T02:45:14Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "빠른87 정민이의 족보 정리 | The 8 Show 홍보하러 온 건 아닌데",
+        "description": "류준열, 박정민 《The 8 Show(더 에이트 쇼)》 홍보하러 온 건 아닌데..\n아무튼 절찬 스트리밍 중. 《The 8 Show(더 에이트 쇼)》, 지금 오직 넷플릭스에서. \n\n#The8Show #더에이트쇼 #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jl9_X-TQtEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jl9_X-TQtEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jl9_X-TQtEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jl9_X-TQtEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jl9_X-TQtEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jl9_X-TQtEY"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1tvznZ22KeWT8bOWlDP9iMj7XfE",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2024-05-25T07:00:06Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "박정민 VS 박정민 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/buLYGb4Fhqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/buLYGb4Fhqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/buLYGb4Fhqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/buLYGb4Fhqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/buLYGb4Fhqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "buLYGb4Fhqo"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7tWuP_ZVELOipAncfq7pUo74phQ",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2024-05-25T09:08:42Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "The 8 Show (더 에이트 쇼) 당신이 몰랐던 8가지 사실",
+        "description": "《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9takI34H6h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9takI34H6h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9takI34H6h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9takI34H6h0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9takI34H6h0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9takI34H6h0"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QYOKA4E_ZyeMBc5mwjYMNFMhFgc",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2024-05-26T02:57:00Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "[미방분] 준열이의 머리숱이 부러운 병건이 | The 8 Show 홍보하러 온 건 아닌데",
+        "description": "류준열, 박정민 《The 8 Show(더 에이트 쇼)》 홍보하러 온 건 아닌데..\n아무튼 절찬 스트리밍 중. 《The 8 Show(더 에이트 쇼)》, 지금 오직 넷플릭스에서. \n\n#The8Show #더에이트쇼 #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/URfA2pY0PgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/URfA2pY0PgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/URfA2pY0PgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/URfA2pY0PgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/URfA2pY0PgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "URfA2pY0PgM"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0wkhZm4Gp7hJ9i4vr_EJsBKHyLA",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2024-05-26T09:02:29Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "꽁꽁 얼어붙은 넷컷 위로 류준열, 천우희, 박정민이 걸어 다닙니다 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9_y1s79oGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9_y1s79oGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9_y1s79oGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P9_y1s79oGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P9_y1s79oGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P9_y1s79oGA"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VtRz3NOU2uw3TD1cghZMv01rZZ8",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2024-05-27T05:00:02Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "박정민 씨 그렇게 안 봤는데 정말 무서운 사람이네 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》, 절찬 스트리밍 중. 오직 넷플릭스에서. \n\n#더에이트쇼 #The8Show\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hlvZrXfyvS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hlvZrXfyvS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hlvZrXfyvS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hlvZrXfyvS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hlvZrXfyvS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hlvZrXfyvS8"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eWmk4lI-PuX3pp4JFYbe_WX3p44",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2024-05-28T09:00:19Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "여기 화끈하게 간이변기 하나 주십시다 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-llU7iSfFzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-llU7iSfFzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-llU7iSfFzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-llU7iSfFzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-llU7iSfFzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-llU7iSfFzU"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "76XDf0ZPg9Tdg5sz-yEXoSxCtQY",
+      "id": "UExMMXFacWl1ZWNfU2RZZjVZemtiVHdRTmVwdXhMNlI0Uy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2024-05-29T04:00:41Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "빠른 퇴근을 위한 직장인의 자세 | The 8 Show (더 에이트 쇼)",
+        "description": "《The 8 Show (더 에이트 쇼)》 절찬 스트리밍 중. 오직 넷플릭스에서.\n\n#The8Show #넷플릭스\n\n넷플릭스에서 시청하세요: https://www.netflix.com/title/81719584\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\n\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XY61uYvsTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XY61uYvsTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XY61uYvsTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8XY61uYvsTs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8XY61uYvsTs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "playlistId": "PLL1qZqiuec_SdYf5YzkbTwQNepuxL6R4S",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8XY61uYvsTs"
+        },
+        "videoOwnerChannelTitle": "Netflix Korea 넷플릭스 코리아",
+        "videoOwnerChannelId": "UCiEEF51uRAeZeCo8CJFhGWw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 37,
+    "resultsPerPage": 50
+  }
+}

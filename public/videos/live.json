@@ -1,0 +1,249 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0PqwbvWL-Ah6F17khpm_VzNHxbQ",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 7
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFTSM_d3D-E2IZ6h1TtAub61blo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KBpqlmNl8iU"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-01T22:34:03Z",
+        "channelId": "UC7e0ym-mN3Hv2UtJalCxj-g",
+        "title": "실시간 지진관측",
+        "description": "Track provided by Lofi Girl Listen: bit.ly/lofigirI-playlists https://yt.nyj36.xyz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KBpqlmNl8iU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KBpqlmNl8iU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KBpqlmNl8iU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NYJ36",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-01T22:34:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gS4Xk7-lUdX4U5jXxRmk6ABNNVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ySzcaRmGLo4"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-31T07:38:30Z",
+        "channelId": "UC8ICadaEiWPfoqNk1T0GCrA",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 아침에 듣기 좋은 상쾌한 팝송 | 이거 들으면 무조건 바람 쐬러 가고 싶을걸",
+        "description": "Playlist 아침에 듣기 좋은 상쾌한 팝송 | 이거 들으면 무조건 바람 쐬러 가고 싶을걸 #플레이리스트 #playlist #pop #음악 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySzcaRmGLo4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySzcaRmGLo4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySzcaRmGLo4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "항상 기분 | mood",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-05-31T07:38:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-yhVdaqUfexwpGWckzapO4n2LI4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XmYBF4_UhEg"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-01T08:01:41Z",
+        "channelId": "UC8G3q6X-aL-pCNgX18MrqHw",
+        "title": "지금라이프(REXTON 더블랙) 서울시 강남구 20240602Sunday 렉스턴 뉴 아레나! 실키드라이빙.♡",
+        "description": "렉스턴을 타고 최고의 정숙성을 느껴본다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XmYBF4_UhEg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XmYBF4_UhEg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XmYBF4_UhEg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지금라이프(REXTON)AUTONOW",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-06-01T08:01:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zeYpDZEiMkJndcrNbAMNLPftHkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HPEKoCpc0vM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-02T08:46:43Z",
+        "channelId": "UC3UycFY7SIGNrlpCxvPAptA",
+        "title": "20240602 레퀴엠 2024 공연 (대관)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HPEKoCpc0vM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HPEKoCpc0vM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HPEKoCpc0vM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GEEK티비 [긱:TV]",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-06-02T08:46:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RRtBM5IzCym2w5rhMvbTivzAK2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1RZh21P43vU"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-02T08:16:47Z",
+        "channelId": "UCTPmot8pw4OxnSYbwSfBh8w",
+        "title": "Seoul Korea Live Csm",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1RZh21P43vU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1RZh21P43vU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1RZh21P43vU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지오스타(GEOSTAR)",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-06-02T08:16:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g0FbTxjSaK53usfJQC09ev5ClrU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YInDT2qSuqg"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-12T03:42:48Z",
+        "channelId": "UC8ICadaEiWPfoqNk1T0GCrA",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 마음을 상쾌하게 해줄 청량한 팝송 플레이리스트",
+        "description": "신선한 팝송을 찾고 계십니까? 기분을 바꿔주는 신선한 팝 플레이리스트! 안녕하세요, 여러분! 저희 음악 채널에 방문해주셔서 감사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YInDT2qSuqg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YInDT2qSuqg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YInDT2qSuqg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "항상 기분 | mood",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-04-12T03:42:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cEQMwGbEBL-OrLGshhHdV9muj5g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4SzjHQGGc5w"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-22T03:26:15Z",
+        "channelId": "UC8ICadaEiWPfoqNk1T0GCrA",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 평온한 날들을 위한 감성적인 올드 팝송 리스트 | 역대 최고의 팝 음악",
+        "description": "플레이리스트 #Playlist #pop #플레이리스트 #music #cafemusic #song #음악 #summer Playlist 평온한 날들을 위한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4SzjHQGGc5w/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4SzjHQGGc5w/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4SzjHQGGc5w/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "항상 기분 | mood",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-05-22T03:26:15Z"
+      }
+    }
+  ]
+}

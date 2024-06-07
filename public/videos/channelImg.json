@@ -1,0 +1,59 @@
+{
+   "kind": "youtube#channelListResponse",
+   "etag": "eiqKSaQ_2IqEwQBhzhQ3Aw-JuoQ",
+   "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+   },
+   "items": [
+      {
+         "kind": "youtube#channel",
+         "etag": "xsJLLnQ06iJXV_rfQsPtHjoudiM",
+         "id": "UCASXEOh4LJxWdk2hZnsfNYw",
+         "snippet": {
+            "title": "고요비koyobi",
+            "description": "고요베이크샵을 운영하고 있습니다\n@koyobimood\n@koyobake\n💌Koyobi@sandbox.co.kr",
+            "customUrl": "@koyobi",
+            "publishedAt": "2013-11-09T14:02:11Z",
+            "thumbnails": {
+               "default": {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_kMWUTfoQXAyIjWM2pDk0KRoGXXMjaZF1rKjtvX=s88-c-k-c0x00ffffff-no-rj",
+                  "width": 88,
+                  "height": 88
+               },
+               "medium": {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_kMWUTfoQXAyIjWM2pDk0KRoGXXMjaZF1rKjtvX=s240-c-k-c0x00ffffff-no-rj",
+                  "width": 240,
+                  "height": 240
+               },
+               "high": {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_kMWUTfoQXAyIjWM2pDk0KRoGXXMjaZF1rKjtvX=s800-c-k-c0x00ffffff-no-rj",
+                  "width": 800,
+                  "height": 800
+               }
+            },
+            "localized": {
+               "title": "고요비koyobi",
+               "description": "고요베이크샵을 운영하고 있습니다\n@koyobimood\n@koyobake\n💌Koyobi@sandbox.co.kr"
+            },
+            "country": "KR"
+         },
+         "statistics": {
+            "viewCount": "21298702",
+            "subscriberCount": "157000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "106"
+         },
+         "brandingSettings": {
+            "channel": {
+               "title": "고요비koyobi",
+               "description": "고요베이크샵을 운영하고 있습니다\n@koyobimood\n@koyobake\n💌Koyobi@sandbox.co.kr",
+               "country": "KR"
+            },
+            "image": {
+               "bannerExternalUrl": "https://yt3.googleusercontent.com/Q7sm1fP506JLWqV2vowIU652B-Hc0t7mEvzHUC_En9yRbsN4frIhbm8Fxpd0QqRJmfvnv6sW"
+            }
+         }
+      }
+   ]
+}
