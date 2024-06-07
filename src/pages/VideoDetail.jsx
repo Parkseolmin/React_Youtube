@@ -3,8 +3,6 @@ import Comments from 'components/contents/Comments';
 import { useLocation, useParams } from 'react-router-dom';
 import RelatedVideos from './RelatedVideos';
 import { formatAgo } from './../util/date';
-import lazyload from 'vanilla-lazyload';
-import { useEffect } from 'react';
 
 export default function VideoDetail() {
   const { videoId } = useParams();
@@ -18,7 +16,7 @@ export default function VideoDetail() {
     <section className='flex flex-col lg:flex-row'>
       <article className='basis-4/6'>
         <iframe
-          className='lazy rounded-lg'
+          className='rounded-lg'
           style={{ border: 'none' }}
           title={title}
           id='player'
@@ -27,6 +25,7 @@ export default function VideoDetail() {
           height='640'
           src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
           allow='autoplay; encrypted-media'
+          loading='lazy'
         ></iframe>
         <div className='p-8'>
           <h2 className='text-xl font-bold'>{title}</h2>
