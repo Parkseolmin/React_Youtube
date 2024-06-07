@@ -3,6 +3,8 @@ import Comments from 'components/contents/Comments';
 import { useLocation, useParams } from 'react-router-dom';
 import RelatedVideos from './RelatedVideos';
 import { formatAgo } from './../util/date';
+import lazyload from 'vanilla-lazyload';
+import { useEffect } from 'react';
 
 export default function VideoDetail() {
   const { videoId } = useParams();
@@ -16,7 +18,7 @@ export default function VideoDetail() {
     <section className='flex flex-col lg:flex-row'>
       <article className='basis-4/6'>
         <iframe
-          className='rounded-lg'
+          className='lazy rounded-lg'
           style={{ border: 'none' }}
           title={title}
           id='player'
