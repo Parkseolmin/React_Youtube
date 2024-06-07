@@ -22,16 +22,16 @@ export default function VideoDetail() {
       <article className='basis-4/6'>
         <iframe
           className='lazy rounded-lg'
+          data-src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
           style={{ border: 'none' }}
           title={title}
           id='player'
           type='text/html'
           width='100%'
           height='640'
-          data-src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
           src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
-          allow='autoplay; encrypted-media'
-          loading='lazy'
+          allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+          allowFullScreen
         ></iframe>
         <div className='p-8'>
           <h2 className='text-xl font-bold'>{title}</h2>
