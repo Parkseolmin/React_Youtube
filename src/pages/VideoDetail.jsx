@@ -23,13 +23,11 @@ export default function VideoDetail() {
         <iframe
           className='lazy rounded-lg'
           data-src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
-          style={{ border: 'none' }}
-          title={title}
-          id='player'
-          type='text/html'
           width='100%'
           height='640'
           src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
+          title={title}
+          style={{ border: 'none' }}
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
           allowFullScreen
         ></iframe>
