@@ -22,10 +22,10 @@ export default function VideoDetail() {
       <article className='basis-4/6'>
         <iframe
           className='lazy rounded-lg'
-          data-src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
+          data-src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1`}
           width='100%'
           height='640'
-          src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
+          src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1`}
           title={title}
           style={{ border: 'none' }}
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
