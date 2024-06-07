@@ -3,8 +3,13 @@ import Comments from 'components/contents/Comments';
 import { useLocation, useParams } from 'react-router-dom';
 import RelatedVideos from './RelatedVideos';
 import { formatAgo } from './../util/date';
+import { useEffect } from 'react';
+import lazyload from 'vanilla-lazyload';
 
 export default function VideoDetail() {
+  useEffect(() => {
+    new lazyload();
+  }, []);
   const { videoId } = useParams();
   const {
     state: { video },
@@ -16,13 +21,14 @@ export default function VideoDetail() {
     <section className='flex flex-col lg:flex-row'>
       <article className='basis-4/6'>
         <iframe
-          className='rounded-lg'
+          className='lazy rounded-lg'
           style={{ border: 'none' }}
           title={title}
           id='player'
           type='text/html'
           width='100%'
           height='640'
+          data-src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
           src={`http://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
           allow='autoplay; encrypted-media'
           loading='lazy'
