@@ -4,11 +4,11 @@ import Loading from 'components/contents/Loading';
 import NotFound from 'components/contents/NotFound';
 import { useYoutubeInfiniteQuery } from 'hooks/useQuery';
 import VideoCard from 'components/contents/VideoCard';
-import LazyLoad from 'vanilla-lazyload';
+import lazyload from 'vanilla-lazyload';
 
 export default function MovieDetail() {
   useEffect(() => {
-    new LazyLoad();
+    new lazyload();
   }, []);
   const { listId } = useParams();
   const {
