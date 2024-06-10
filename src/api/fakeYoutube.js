@@ -8,95 +8,184 @@ export class FakeYoutube {
   }
 
   async #searchByKeyword(keyword, nextToken = '') {
-    return axios.get(`/videos/search.json`).then((res) => ({
-      items: res.data.items.map((item) => ({ ...item, id: item.id.videoId })),
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get(`/videos/search.json`);
+      return {
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.id.videoId,
+        })),
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in #searchByKeyword:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 
   async mostPopular() {
-    return axios.get(`/videos/popular.json`).then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get(`/videos/popular.json`);
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in mostPopular:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 
   async channelImageURL() {
-    return axios
-      .get('/videos/channelImg.json')
-      .then((res) => res.data.items[0]);
+    try {
+      const response = await axios.get('/videos/channelImg.json');
+      return response.data.items[0];
+    } catch (error) {
+      console.error('Error in channelImageURL:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 
   async liveVideos() {
-    return axios.get('/videos/live.json').then((res) => ({
-      items: res.data.items.map((item) => ({ ...item, id: item.id.videoId })),
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/live.json');
+      return {
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.id.videoId,
+        })),
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in liveVideos:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 
   async relatedVideos() {
-    return axios.get('/videos/channelRelated.json').then((res) => ({
-      items: res.data.items.map((item) => ({ ...item, id: item.id.videoId })),
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/channelRelated.json');
+      return {
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.id.videoId,
+        })),
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in relatedVideos:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 
   async commentsAPI(nextPageToken = '') {
-    let url = '/videos/comments.json';
-    if (nextPageToken) {
-      url += `?pageToken=${nextPageToken}`;
+    try {
+      let url = '/videos/comments.json';
+      if (nextPageToken) {
+        url += `?pageToken=${nextPageToken}`;
+      }
+      const response = await axios.get(url);
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in commentsAPI:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
     }
-    return axios.get(url).then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
   }
 
   async shorts() {
-    return axios.get('/videos/shorts.json').then((res) => ({
-      items: res.data.items.map((item) => ({ ...item, id: item.id.videoId })),
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/shorts.json');
+      return {
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.id.videoId,
+        })),
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in shorts:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 
-  // PlayList.page
   async playlistitem() {
-    return axios.get('/videos/playlist.json').then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/playlist.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in playlistitem:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
-  // Movie.page
+
   async latestmovie() {
-    return axios.get('/videos/latestmovie.json').then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/latestmovie.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in latestmovie:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
-  // netflex
+
   async movielist() {
-    return axios.get('/videos/netflexlist.json').then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/netflexlist.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in movielist:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
+
   async movieitem() {
-    return axios.get('/videos/netflexitem.json').then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/netflexitem.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in movieitem:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
-  // music
+
   async musiclist() {
-    return axios.get('/videos/musiclist.json').then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/musiclist.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in musiclist:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
+
   async musicitem() {
-    return axios.get('/videos/musicitem.json').then((res) => ({
-      items: res.data.items,
-      nextPageToken: res.data.nextPageToken,
-    }));
+    try {
+      const response = await axios.get('/videos/musicitem.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in musicitem:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
   }
 }

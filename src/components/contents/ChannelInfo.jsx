@@ -1,4 +1,3 @@
-import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from 'context/YoutubeApiContext';
 import Loading from './Loading';
 import NotFound from './NotFound';
@@ -6,7 +5,7 @@ import { Link } from 'react-router-dom';
 import { useYoutubeQuery } from 'hooks/useQuery';
 
 export default function ChannelInfo({ channelId, name }) {
-  const { youtube } = useYoutubeApi();
+  // const { youtube } = useYoutubeApi();
   // const {
   //   data: channelInfo,
   //   isLoading,
@@ -32,7 +31,6 @@ export default function ChannelInfo({ channelId, name }) {
   if (error || !channelInfo) {
     return <NotFound />;
   }
-  console.log('channelId>>', channelId);
   return (
     <div className='flex my-4 mb-8 items-center'>
       {channelInfo && (

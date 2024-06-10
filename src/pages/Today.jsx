@@ -26,7 +26,6 @@ export default function Today() {
     staleTime: 1000 * 60 * 5,
   });
 
-  console.log(popular);
   return (
     <section>
       <div className='p-5 font-black text-lg text-red-700'>🔥POP</div>

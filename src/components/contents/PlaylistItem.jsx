@@ -42,7 +42,6 @@ export default function PlaylistItem() {
     return <NotFound />;
   }
 
-  console.log('playlist', playlist);
   return (
     <section id='playlist'>
       <p className='text-xl sm:text-lg text-white mb-3'>⚡TOP MUSIC</p>

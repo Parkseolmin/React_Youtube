@@ -27,6 +27,7 @@ export default function Search() {
     staleTime: 1000 * 60 * 5,
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
   });
+
   return (
     <>
       <div className='p-5 font-bold'>
