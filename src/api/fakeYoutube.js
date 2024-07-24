@@ -188,4 +188,17 @@ export class FakeYoutube {
       throw error; // 에러를 상위로 다시 던져 처리
     }
   }
+
+  async fetchSubscriptions() {
+    try {
+      const response = await axios.get('/videos/subscription.json');
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('Error in musicitem:', error);
+      throw error; // 에러를 상위로 다시 던져 처리
+    }
+  }
 }

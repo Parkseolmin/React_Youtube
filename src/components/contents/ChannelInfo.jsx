@@ -1,4 +1,3 @@
-import { useYoutubeApi } from 'context/YoutubeApiContext';
 import Loading from './Loading';
 import NotFound from './NotFound';
 import { Link } from 'react-router-dom';

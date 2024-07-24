@@ -4,11 +4,8 @@ import 'swiper/css/navigation';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Autoplay } from 'swiper/modules';
-import { useYoutubeApi } from 'context/YoutubeApiContext';
-import { useQuery } from '@tanstack/react-query';
 import Loading from './Loading';
 import NotFound from './NotFound';
-import TodayCard from './TodayCard';
 import { useYoutubeQuery } from 'hooks/useQuery';
 import ListItemCard from './ListItemCard';
 

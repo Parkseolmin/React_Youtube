@@ -1,3 +1,4 @@
+import GoogleBtn from 'components/contents/GoogleBtn';
 import HeaderLogo from 'components/contents/HeaderLogo';
 import { keywords, login, menus, snsLink } from 'data/header';
 import { useState } from 'react';
@@ -13,14 +14,20 @@ export default function Header() {
     <header id='header' role='banner' className={isMenuActive ? 'active' : ''}>
       <HeaderLogo toggleMenu={toggleMenu} />
 
-      <nav className='header__menu'>
-        <ul className='menu'>
+      <nav className='header__menu' role='navigation' aria-label='Main menu'>
+        <ul className='menu' role='menubar'>
           {menus.map((menu, index) => (
             <li
+              role='none'
               key={index}
               className={location.pathname === menu.src ? 'active' : ''}
+              tabIndex={index + 1}
             >
-              <Link to={menu.src} onClick={() => setIsMenuActive(false)}>
+              <Link
+                role='menuitem'
+                to={menu.src}
+                onClick={() => setIsMenuActive(false)}
+              >
                 {menu.icon}
                 {menu.title}
               </Link>
@@ -28,24 +35,22 @@ export default function Header() {
           ))}
         </ul>
 
-        <ul className='menu login'>
-          {login.map((l, index) => (
-            <li key={index}>
-              <Link to={'/'} onClick={() => setIsMenuActive(false)}>
-                {l.icon}
-                {l.title}
-              </Link>
-            </li>
-          ))}
-        </ul>
+        {/* 구글 로그인 */}
+        <GoogleBtn />
 
-        <ul className='keyword'>
+        <ul className='keyword' aria-label='Keywords' role='menubar'>
           {keywords.map((keyword, index) => (
             <li
+              role='none'
               key={index}
               className={location.pathname === keyword.src ? 'active' : ''}
+              tabIndex={menus.length + login.length + index + 1}
             >
-              <Link to={keyword.src} onClick={() => setIsMenuActive(false)}>
+              <Link
+                role='menuitem'
+                to={keyword.src}
+                onClick={() => setIsMenuActive(false)}
+              >
                 {keyword.title}
               </Link>
             </li>
@@ -53,10 +58,15 @@ export default function Header() {
         </ul>
       </nav>
 
-      <div className='header__sns'>
+      <nav className='header__sns' aria-label='Social media links'>
         <ul>
           {snsLink.map((sns, index) => (
-            <li key={index}>
+            <li
+              key={index}
+              tabIndex={
+                menus.length + login.length + keywords.length + index + 1
+              }
+            >
               <a
                 href={sns.url}
                 target='_blank'
@@ -68,7 +78,7 @@ export default function Header() {
             </li>
           ))}
         </ul>
-      </div>
+      </nav>
     </header>
   );
 }

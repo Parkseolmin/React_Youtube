@@ -1,0 +1,271 @@
+{
+  "kind": "youtube#SubscriptionListResponse",
+  "etag": "OIGjBk5Rhu0ZQvLS_KkSAj1IZaY",
+  "nextPageToken": "CAoQAA",
+  "pageInfo": {
+    "totalResults": 974,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "kind": "youtube#subscription",
+      "etag": "1kodwhKnS4Np6w1NbaNHir4_Kas",
+      "id": "xVs4T1wttPO9esGg7u3MZxGrmU-MLkCuOKSQccu0T-k",
+      "snippet": {
+        "publishedAt": "2024-07-09T22:38:55.658934Z",
+        "title": "로동복어",
+        "description": "오늘도 쒼나는 하루!",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCsHXnEd4VtCcKC0SN6ajBGA"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lRdMV04LxB3eUOQTIrPp7I_-EypU69YHWq7nCSos5V_t0=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lRdMV04LxB3eUOQTIrPp7I_-EypU69YHWq7nCSos5V_t0=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lRdMV04LxB3eUOQTIrPp7I_-EypU69YHWq7nCSos5V_t0=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "ntRRP56UlBm7TwYm_akQsyKaYxA",
+      "id": "xVs4T1wttPN0FByq7y-x9wXLUVRPqp8D58Xx6gJeUrs",
+      "snippet": {
+        "publishedAt": "2021-10-07T16:10:14.812002Z",
+        "title": "보다 BODA",
+        "description": "누구나, 쉽게, 재밌게 볼 수 있는 영상\n\n유튜브 채널 운영에 어려움을 겪고 있는 기업, 브랜드를 위해 BODA 팀이 \n유튜브 컨텐츠 제작대행 사업을 진행합니다:)\n\n뉴미디어 콘텐츠 기획부터 효율적인 제작 운영까지 BODA 제작팀과 함께하세요.\n\n광고 및 비즈니스 문의 : boooda.kr@gmail.com",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "Y-H4Je8Y_uBzes2i8sfle3yeceU",
+      "id": "xVs4T1wttPN0FByq7y-x9-KCx8QmmJBaOPrrr0aedBA",
+      "snippet": {
+        "publishedAt": "2023-07-13T05:35:33.23971Z",
+        "title": "유민지 호신마마",
+        "description": "점사 예약 및 문의\n010-4396-4200\n(문자로 문의주세요. 전화 잘 못받습니다)\n\n인스타그램 @ mj_mj_90",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCyjyfEkAg3gNJ-rKVN-P_KA"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/eePhcxgj1eTOq8phy4XRcPx-wu060e3aHP8yvLHHQrT0eIkUhzZJnPeBEhfMIzvvm6Q64MEF7DE=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/eePhcxgj1eTOq8phy4XRcPx-wu060e3aHP8yvLHHQrT0eIkUhzZJnPeBEhfMIzvvm6Q64MEF7DE=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/eePhcxgj1eTOq8phy4XRcPx-wu060e3aHP8yvLHHQrT0eIkUhzZJnPeBEhfMIzvvm6Q64MEF7DE=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "pfNs8LlaWDk6HSuDFEHTdNxH-wc",
+      "id": "xVs4T1wttPN0FByq7y-x94EE1oFjA01bigrrX7lqKQI",
+      "snippet": {
+        "publishedAt": "2024-02-20T12:57:55.786573Z",
+        "title": "해피카펠라-비트코인 LIVE",
+        "description": "비트코인,암호화폐 차트분석, 매매전략을 위주로 활동하고 있습니다! \n#비트코인 #비트코인실시간 #비트코인하는법 #cryptocurrency #altcoins #bitcoin #bitcoinnews #차트분석",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCRuNjeWgdNsWXtlFskRfwmg"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/CYwdaRG6BWSBtBiA14VvKCzFpGWomewvgc7Lux6D_cIydRhY6cipYUHeMyBrG70BtHdMZ47lnA=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CYwdaRG6BWSBtBiA14VvKCzFpGWomewvgc7Lux6D_cIydRhY6cipYUHeMyBrG70BtHdMZ47lnA=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/CYwdaRG6BWSBtBiA14VvKCzFpGWomewvgc7Lux6D_cIydRhY6cipYUHeMyBrG70BtHdMZ47lnA=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "5SiHXshexyLITfI5f5EwrbB9Nho",
+      "id": "xVs4T1wttPMMMuZxPReL2zrppsbip99gNyUTQbnL1MA",
+      "snippet": {
+        "publishedAt": "2024-07-03T09:58:27.904674Z",
+        "title": "180초",
+        "description": "광고&출연 bmmedia@bmmedia.co.kr",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCv-HJGOUupbVHCEBRdcLuVA"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Hrizx5Bl0BnajxwYKX8jila-GFji7n7CT7RPdzfnzspVWdRaBnltAIdvnDepupK54w-tO3_hDg=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Hrizx5Bl0BnajxwYKX8jila-GFji7n7CT7RPdzfnzspVWdRaBnltAIdvnDepupK54w-tO3_hDg=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Hrizx5Bl0BnajxwYKX8jila-GFji7n7CT7RPdzfnzspVWdRaBnltAIdvnDepupK54w-tO3_hDg=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "cW9CLtEaaTNGYQ7s0v0Rd9g3HjM",
+      "id": "xVs4T1wttPMPr32KVLi04c-Vxc9iKs0Ux8-dBUjz1wg",
+      "snippet": {
+        "publishedAt": "2024-05-17T23:38:11.873703Z",
+        "title": "kimwontv김원",
+        "description": "KimwonTV\n\nToday's video is the bodom murder mystery, one of Korea's biggest unsolved murders.\n\nA media phenomenon, KimwonTV deals with UFOs, strange occurrences, life after death, and other unexplained (and often inexplicable) phenomena.",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCRSEOIfPNgUYY8xkEzxqfVg"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mtOMOMf6PRW9QPTdJIUBnKc82zpqmEq1PvPDr2VKm-Z-A=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mtOMOMf6PRW9QPTdJIUBnKc82zpqmEq1PvPDr2VKm-Z-A=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mtOMOMf6PRW9QPTdJIUBnKc82zpqmEq1PvPDr2VKm-Z-A=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "ceNimii0bO-6xN-tRwKeWtPJPfg",
+      "id": "xVs4T1wttPMPr32KVLi04cD-FzNrg6jxEZ-8v_VC980",
+      "snippet": {
+        "publishedAt": "2019-12-10T23:26:33.301094Z",
+        "title": "노마드 코더 Nomad Coders",
+        "description": "한국인 린과 콜롬비아인 니꼴라스의 프로젝트 \"노마드 코더\" 입니다.\n2015년 떠나, 현재까지 원하는 곳에서 일하며, 살고 있습니다.\n📌 니콜라스와 무료로 코딩 공부하기 : https://nomadcoders.co",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCUpJs89fSBXNolQGOYKn0YQ"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kZGbEvWmB_2CZMcZVcCpjFsiQNVQZEehF8jinP6zlFJ7s=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kZGbEvWmB_2CZMcZVcCpjFsiQNVQZEehF8jinP6zlFJ7s=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kZGbEvWmB_2CZMcZVcCpjFsiQNVQZEehF8jinP6zlFJ7s=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "pxrZ30myAe0wGLhZChrP1qRg_Io",
+      "id": "xVs4T1wttPN0FByq7y-x9xXD47vppWXThyk7Y206vvI",
+      "snippet": {
+        "publishedAt": "2020-08-05T02:56:23.091447Z",
+        "title": "돌비공포라디오",
+        "description": "모든 무서운 이야기를 인터뷰 하다,시청자가 들려주는 무서운이야기\n\n통화로 당신이 겪은 무서운 이야기를 인터뷰 하고 \n그 이야기를 재 해석 해보는 리얼 공포 채널 돌비공포라디오 입니다\n\n이 세상에는 말로는 표현하지 못하고 과학적으로 증명이 되지 않는\n많은 일들이 있습니다 \n\n당신이 겪은 실화 제가 인터뷰 하겠습니다\n제보 카톡: dolb7777  당신의 소중한 제보를 기다립니다\n\n비즈니스 문의 이메일 kjwooaro@naver.com\n                           카톡ID dolb7777",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UC9aUIOFL_OeARVA6MtBTZAQ"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/jkszge7KVHyE9RBq0IjNoJ_egUN7uRYkIHQWsDkiv_AzBo-czDa4RLMvM0e5p-lW4sfPPu_rn94=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/jkszge7KVHyE9RBq0IjNoJ_egUN7uRYkIHQWsDkiv_AzBo-czDa4RLMvM0e5p-lW4sfPPu_rn94=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/jkszge7KVHyE9RBq0IjNoJ_egUN7uRYkIHQWsDkiv_AzBo-czDa4RLMvM0e5p-lW4sfPPu_rn94=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "PbSxeYxmt2f05h7gu6D8mtLpsP8",
+      "id": "xVs4T1wttPO9esGg7u3MZxOZ3Wx8hwrV416xqCUSaac",
+      "snippet": {
+        "publishedAt": "2024-04-14T18:00:23.3417Z",
+        "title": "세탁설 setaksul",
+        "description": "Youtube Laundry Specialist, Laundry SSul.\n\nI am a Korean laundry expert.\n\nIt is a channel that provides various laundry information, know-how, and life hacks.\n\nTo make your housework easier and more enjoyable.",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UC4lTOi1_KvQO4olu3403wIA"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/HQOlhllcmMWIoC3wHa2zCwYXgJJgHdl2yjSRtG0_SVOk9WPNt9jZfg10n3UgGqIrkryx-8XK=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/HQOlhllcmMWIoC3wHa2zCwYXgJJgHdl2yjSRtG0_SVOk9WPNt9jZfg10n3UgGqIrkryx-8XK=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/HQOlhllcmMWIoC3wHa2zCwYXgJJgHdl2yjSRtG0_SVOk9WPNt9jZfg10n3UgGqIrkryx-8XK=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "CRZ6r7aXuxAOOChOAtVQ5sH06ZU",
+      "id": "xVs4T1wttPN0FByq7y-x93dW3A_nsWGSyuxvUtv-Vvo",
+      "snippet": {
+        "publishedAt": "2023-01-11T18:51:19.438042Z",
+        "title": "지식인사이드",
+        "description": "세상의 모든 지식을 만나려면  '지식인사이드'\n항상 유익하고 알찬 영상으로 보답하겠습니다.\n\n출연, 광고 제휴 문의 : knowledgeinside7@gmail.com",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCA_hgsFzmynpv1zkvA5A7jA"
+        },
+        "channelId": "UC1e8gLkx18P8og8gaWXZzwA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_BznDjq0BA0LtB9skklGCL1WzssC97unc0W_xCb4L8sHRwzN7HJ-PZPxMeBYL1cZcUzGiwjPOg=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_BznDjq0BA0LtB9skklGCL1WzssC97unc0W_xCb4L8sHRwzN7HJ-PZPxMeBYL1cZcUzGiwjPOg=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_BznDjq0BA0LtB9skklGCL1WzssC97unc0W_xCb4L8sHRwzN7HJ-PZPxMeBYL1cZcUzGiwjPOg=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      }
+    }
+  ]
+}

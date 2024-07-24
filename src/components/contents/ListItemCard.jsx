@@ -2,8 +2,7 @@ import { Link, useNavigate } from 'react-router-dom';
 
 export default function ListItemCard({ video, playitem = '' }) {
   const navigate = useNavigate();
-  const { thumbnails, title, channelTitle, publishedAt, channelId } =
-    video.snippet;
+  const { thumbnails, title, channelId } = video.snippet;
   const handleClick = () => {
     navigate(`/video/${video.snippet.resourceId.videoId}`, {
       state: { video },

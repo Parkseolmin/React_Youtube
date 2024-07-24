@@ -16,6 +16,31 @@ code {
     monospace;
 }
 
+/* CSS 파일 또는 스타일 태그 */
+.img-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  overflow: hidden;
+}
+
+.img-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.goodBtn {
+  transition: all 0.1s ease;
+}
+
+.goodBtn:active {
+  transform: scale(0.9);
+}
+
 @media screen and (max-width: 768px) {
   .movieDetail {
     width: 100%;

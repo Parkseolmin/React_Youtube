@@ -1,18 +1,12 @@
 import { useNavigate } from 'react-router-dom';
 import { formatAgo } from 'util/date';
 
-export default function ShortsCard({ video, type, onClick }) {
+export default function ShortsCard({ video, type }) {
   const navigate = useNavigate();
-  const { title, thumbnails, channelTitle, publishedAt, playlistId } =
-    video.snippet;
-
+  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === 'list';
   const handleClick = () => {
-    if (playlistId) {
-      onClick();
-    } else {
-      navigate(`/video/${video.id}`, { state: { video } });
-    }
+    navigate(`/video/${video.id}`, { state: { video } });
   };
   return (
     <li

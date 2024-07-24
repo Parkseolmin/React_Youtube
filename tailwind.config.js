@@ -2,7 +2,14 @@
 module.exports = {
   content: ['./src/**/*.{html,js,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        customGreen: '#03bb77',
+      },
+      screens: {
+        'max-1500': { max: '1500px' },
+      },
+    },
   },
   plugins: [],
 };

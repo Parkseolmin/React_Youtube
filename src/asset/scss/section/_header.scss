@@ -57,6 +57,7 @@
       margin-bottom: 5px;
 
       a {
+        font-family: var(--mainfont-Robot);
         font-size: 1rem;
         display: block;
         padding: 0.9rem 2rem 0.9rem 3.125rem;
@@ -66,6 +67,16 @@
         line-height: 1;
         color: var(--white200);
         transition: all 0.3s;
+
+        img {
+          width: 1.7rem;
+          height: 1.7rem;
+          position: absolute;
+          left: 1.25rem;
+          top: 0.5rem;
+          padding: 3px;
+          border-radius: 100%;
+        }
 
         svg {
           width: 1.3rem;

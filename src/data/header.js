@@ -1,7 +1,6 @@
 import { MdLiveTv } from 'react-icons/md';
-import { FcMusic } from 'react-icons/fc';
+import { FcMusic, FcGoogle } from 'react-icons/fc';
 import { FaHotjar, FaUserAstronaut } from 'react-icons/fa';
-import { HiOutlineUserCircle } from 'react-icons/hi';
 import { RiLiveFill } from 'react-icons/ri';
 import { BiMoviePlay } from 'react-icons/bi';
 import {
@@ -47,7 +46,7 @@ export const menus = [
 export const login = [
   {
     title: 'Login',
-    icon: <HiOutlineUserCircle />,
+    icon: <FcGoogle />,
     src: '/',
   },
 ];

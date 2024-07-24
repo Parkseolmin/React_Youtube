@@ -106,6 +106,7 @@ export class Youtube {
           p: 'shorts',
           relevanceLanguage: 'ko',
           regionCode: 'KR',
+          order: 'date',
           pageToken,
         },
       });
@@ -328,6 +329,31 @@ export class Youtube {
     } catch (error) {
       console.error('Error in listitem:', error);
       throw error;
+    }
+  }
+
+  async fetchSubscriptions(accessToken, pageToken = '') {
+    try {
+      const response = await axios.get(
+        'https://youtube.googleapis.com/youtube/v3/subscriptions',
+        {
+          params: {
+            part: 'snippet',
+            mine: true,
+            maxResults: 10,
+            pageToken,
+          },
+          headers: {
+            Authorization: `Bearer ${accessToken}`,
+          },
+        }
+      );
+      return {
+        items: response.data.items,
+        nextPageToken: response.data.nextPageToken,
+      };
+    } catch (error) {
+      console.error('구독 정보 가져오기 실패:', error);
     }
   }
 }

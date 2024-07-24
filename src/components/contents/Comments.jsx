@@ -1,6 +1,3 @@
-import { useInfiniteQuery } from '@tanstack/react-query';
-import { useYoutubeApi } from 'context/YoutubeApiContext';
-import { CiUser } from 'react-icons/ci';
 import Loading from './Loading';
 import NotFound from './NotFound';
 import { formatAgo } from 'util/date';
