@@ -9,7 +9,7 @@ import {
   signOut,
 } from 'firebase/auth';
 
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: 'AIzaSyAO-NqFvU48nWzVGJJcdLYm5Qe77gYL4mk',
   authDomain: 'memowebapp-e0cfc.firebaseapp.com',
   projectId: 'memowebapp-e0cfc',
@@ -20,7 +20,7 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
+export const app = initializeApp(firebaseConfig);
 
 export const auth = getAuth(app);
 
@@ -51,12 +51,12 @@ export const handleAuthAction = async (currentUser, setAccessToken) => {
   }
 };
 
-export const googleLogout = async () => {
-  const ok = window.confirm('Are you sure you want to logout?');
-  if (ok) {
-    signOut(auth).catch(console.error);
-  }
-};
+// export const googleLogout = async () => {
+//   const ok = window.confirm('Are you sure you want to logout?');
+//   if (ok) {
+//     signOut(auth).catch(console.error);
+//   }
+// };
 
 export const checkAuthState = (callback) => {
   return onAuthStateChanged(auth, (user) => {

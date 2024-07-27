@@ -3,22 +3,15 @@ import { formatAgo } from 'util/date';
 
 export default function VideoCard({ video, type, onClick }) {
   const navigate = useNavigate();
-  const { title, thumbnails, channelTitle, publishedAt, playlistId } =
-    video.snippet;
-
+  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === 'list';
-  const handleClick = () => {
-    if (playlistId) {
-      onClick();
-    } else {
-      navigate(`/video/${video.id}`, { state: { video } });
-    }
-  };
-
+  console.log('video카드::', video);
   return (
     <li
       className={isList ? 'flex gap-1 mx-2 mb-2  relativeVideo' : ''}
-      onClick={handleClick}
+      onClick={() => {
+        navigate(`/video/${video.id}`, { state: { video } });
+      }}
     >
       <img
         className={
@@ -28,6 +21,7 @@ export default function VideoCard({ video, type, onClick }) {
         }
         src={thumbnails.medium.url}
         alt={title}
+        loading='lazy'
       />
       <div>
         <p className='text-sm VideoCard__title font-semibold my-2 line-clamp-2 text-slate-200'>

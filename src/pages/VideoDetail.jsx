@@ -3,29 +3,25 @@ import Comments from 'components/contents/Comments';
 import { useLocation, useParams } from 'react-router-dom';
 import RelatedVideos from './RelatedVideos';
 import { formatAgo } from './../util/date';
-import { useEffect, useState } from 'react';
-import lazyload from 'vanilla-lazyload';
+import { useEffect } from 'react';
 import { FaRegKissWinkHeart, FaKissWinkHeart } from 'react-icons/fa';
 import useAuthStore from 'store/useAuthStore';
 import useLikeStore from 'store/useLikeStore';
-import LazyLoad from 'vanilla-lazyload';
 
 export default function VideoDetail() {
   const { videoId } = useParams();
   const {
     state: { video },
   } = useLocation();
+
   const { user } = useAuthStore();
   const { likedVideos, checkLikeStatus, toggleLike } = useLikeStore();
-  console.log(JSON.stringify(likedVideos));
 
   const { title, channelId, channelTitle, description, publishedAt } =
     video.snippet;
 
+  console.log('비디오디테일 페이지::', videoId);
   useEffect(() => {
-    new LazyLoad({
-      elements_selector: '.lazy',
-    });
     if (user) {
       checkLikeStatus(user.uid, videoId);
     }
@@ -38,16 +34,14 @@ export default function VideoDetail() {
   };
   const isLiked = likedVideos[videoId];
 
-  console.log('받은 비디오 데이터값:', video);
   return (
     <section className='flex flex-col lg:flex-row'>
       <article className='basis-4/6'>
         <iframe
-          className='lazy rounded-lg'
-          data-src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1`}
+          className='rounded-lg'
           width='100%'
           height='640'
-          src='' // 비워둡니다.
+          src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1`}
           title={title}
           style={{ border: 'none' }}
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'

@@ -6,7 +6,18 @@ export default function HeaderLogo({ toggleMenu }) {
     <h1 className='header__logo' onClick={toggleMenu}>
       <Link to='/'>
         <em aria-hidden='true'></em>
-        <span>YOUTUBE</span>
+        <span>
+          파지직
+          <span
+            style={{
+              fontSize: '10px',
+              paddingLeft: '5px',
+              justifyContent: 'flex-start',
+            }}
+          >
+            TV
+          </span>
+        </span>
       </Link>
     </h1>
   );

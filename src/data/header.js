@@ -2,10 +2,9 @@ import { MdLiveTv } from 'react-icons/md';
 import { FcMusic, FcGoogle } from 'react-icons/fc';
 import { FaHotjar, FaUserAstronaut } from 'react-icons/fa';
 import { RiLiveFill } from 'react-icons/ri';
-import { BiMoviePlay } from 'react-icons/bi';
+import { BiMoviePlay, BiFace } from 'react-icons/bi';
 import {
   AiFillGithub,
-  AiOutlineCodepen,
   AiFillYoutube,
   AiOutlineInstagram,
 } from 'react-icons/ai';
@@ -81,7 +80,7 @@ export const keywords = [
     src: '/search/K-POP',
   },
   {
-    title: '치지직⚡',
+    title: '파지직⚡',
     src: '/search/CHEEZH',
   },
   {
@@ -93,22 +92,22 @@ export const keywords = [
 export const snsLink = [
   {
     title: 'github',
-    url: 'https://github.com/webstoryboy',
+    url: 'https://github.com/Parkseolmin',
     icon: <AiFillGithub />,
   },
   {
     title: 'youtube',
-    url: 'https://www.youtube.com/webstoryboy',
+    url: 'https://www.youtube.com/',
     icon: <AiFillYoutube />,
   },
   {
     title: 'codepen',
     url: 'https://codepen.io/webstoryboy',
-    icon: <AiOutlineCodepen />,
+    icon: <BiFace />,
   },
   {
     title: 'instagram',
-    url: 'https://www.instagram.com/webstoryboy',
+    url: '​https://www.instagram.com/seomini_p',
     icon: <AiOutlineInstagram />,
   },
 ];

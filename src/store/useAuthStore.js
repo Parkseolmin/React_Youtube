@@ -11,9 +11,31 @@ const useAuthStore = create((set, get) => ({
   user: null,
   accessToken: null,
   isAuthLoading: false,
+  logoutTimer: null,
+
+  startLogoutTimer: () => {
+    // 기존 타이머가 있다면 클리어
+    clearInterval(get().logoutTimer);
+
+    const timerId = setInterval(() => {
+      const loginTime = new Date(localStorage.getItem('loginTime'));
+      const currentTime = new Date();
+      const elapsedTime = (currentTime - loginTime) / 1000 / 60; // 분 단위로 계산
+      if (elapsedTime >= 50) {
+        get().handleAuthAction(); // 자동 로그아웃
+      }
+    }, 1000 * 60 * 5); // 5분마다 체크
+
+    set({ logoutTimer: timerId });
+  },
+
+  clearLogoutTimer: () => {
+    clearInterval(get().logoutTimer);
+    set({ logoutTimer: null });
+  },
 
   handleAuthAction: async () => {
-    const { user } = get();
+    const { user, startLogoutTimer, clearLogoutTimer } = get();
     set({ isAuthLoading: true });
     if (user) {
       // 로그아웃 로직
@@ -22,6 +44,9 @@ const useAuthStore = create((set, get) => ({
         try {
           await signOut(auth);
           set({ user: null, accessToken: null, isAuthLoading: false });
+          localStorage.removeItem('loginTime');
+          localStorage.removeItem('accessToken');
+          clearLogoutTimer();
         } catch (error) {
           console.error(error);
           set({ isAuthLoading: false });
@@ -34,6 +59,9 @@ const useAuthStore = create((set, get) => ({
         const credential = GoogleAuthProvider.credentialFromResult(result);
         const token = credential.accessToken;
         set({ user: result.user, accessToken: token, isAuthLoading: false });
+        localStorage.setItem('loginTime', new Date().toISOString());
+        localStorage.setItem('accessToken', token); // 엑세스 토큰 저장
+        startLogoutTimer();
       } catch (error) {
         console.error(error);
         set({ isAuthLoading: false });
@@ -41,33 +69,27 @@ const useAuthStore = create((set, get) => ({
     }
   },
 
-  updateToken: async () => {
-    const { user } = get();
-    if (user) {
-      try {
-        const token = await user.getIdToken(true);
-        set({ accessToken: token });
-      } catch (error) {
-        console.error('Error refreshing token', error);
-      }
-    }
-  },
-
   checkAuthState: () => {
+    const { startLogoutTimer, clearLogoutTimer } = get();
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       if (user) {
-        set({ user });
-        get().updateToken();
+        const token = localStorage.getItem('accessToken');
+        set({ user, accessToken: token });
+        localStorage.setItem('loginTime', new Date().toISOString());
+        startLogoutTimer();
       } else {
-        set({ user: null, accessToken: null, isLoading: false });
+        set({ user: null, accessToken: null, isAuthLoading: false });
+        localStorage.removeItem('loginTime');
+        localStorage.removeItem('accessToken');
+        clearLogoutTimer();
       }
     });
     return unsubscribe;
   },
 
   startTokenRefresh: () => {
-    const intervalId = setInterval(() => get().updateToken(), 50 * 60 * 1000);
-    return () => clearInterval(intervalId);
+    // 엑세스 토큰 갱신 부분 삭제
+    return () => {}; // 빈 함수 반환
   },
 }));
 

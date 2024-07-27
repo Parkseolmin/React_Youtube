@@ -1,15 +1,11 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import Loading from 'components/contents/Loading';
 import NotFound from 'components/contents/NotFound';
 import { useYoutubeInfiniteQuery } from 'hooks/useQuery';
 import VideoCard from 'components/contents/VideoCard';
-import lazyload from 'vanilla-lazyload';
 
 export default function MovieDetail() {
-  useEffect(() => {
-    new lazyload();
-  }, []);
   const { listId } = useParams();
   const {
     data: playlistItems,
@@ -37,8 +33,7 @@ export default function MovieDetail() {
         <section style={{ textAlign: 'center' }}>
           <h2>{currentVideo.snippet.title}</h2>
           <iframe
-            className='lazy movieDetail'
-            data-src={`https://www.youtube-nocookie.com/embed/${currentVideo.snippet.resourceId.videoId}?autoplay=1&mute=1`}
+            className='movieDetail'
             width='80%'
             height='540'
             src={`https://www.youtube-nocookie.com/embed/${currentVideo.snippet.resourceId.videoId}?autoplay=1&mute=1`}

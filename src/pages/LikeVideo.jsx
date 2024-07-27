@@ -12,9 +12,8 @@ export default function LikeVideo() {
     if (user) {
       fetchLikedVideos(user.uid).then(setVideos);
     }
-  }, [user]);
+  }, [fetchLikedVideos, user]);
 
-  console.log('likeVideo페이지의 videos정보::', videos);
   if (isLoading) return <div>Loading...</div>;
 
   return (

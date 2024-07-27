@@ -1,27 +1,15 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { MdKeyboardArrowDown } from 'react-icons/md';
 import { FcLike } from 'react-icons/fc';
 import { useInfiniteQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from 'context/YoutubeApiContext';
 import { login, menus } from 'data/header';
-import {
-  checkAuthState,
-  handleAuthAction,
-  refreshAccessToken,
-} from 'firebaseapi/firebase';
 import useAuthStore from 'store/useAuthStore';
 
 export default function GoogleBtn() {
-  const {
-    user,
-    accessToken,
-    isAuthLoading,
-    handleAuthAction,
-    checkAuthState,
-    startTokenRefresh,
-    updateToken,
-  } = useAuthStore();
+  const { user, accessToken, isAuthLoading, handleAuthAction, checkAuthState } =
+    useAuthStore();
   const { youtube } = useYoutubeApi();
 
   const {
@@ -35,8 +23,6 @@ export default function GoogleBtn() {
     queryKey: ['subscription', accessToken],
     queryFn: async ({ pageParam = '' }) => {
       console.log('로그인버튼 네트워크 통신');
-      if (!accessToken) return { items: [], nextPageToken: undefined };
-      await updateToken();
       return await youtube.fetchSubscriptions(accessToken, pageParam);
     },
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
@@ -46,13 +32,13 @@ export default function GoogleBtn() {
 
   useEffect(() => {
     const unsubscribe = checkAuthState();
-    const stopTokenRefresh = startTokenRefresh();
 
     return () => {
       unsubscribe();
-      stopTokenRefresh();
     };
-  }, []);
+  }, [checkAuthState]);
+
+  console.log('엑세스토큰', accessToken);
 
   return (
     <div>
@@ -80,30 +66,33 @@ export default function GoogleBtn() {
           </li>
         )}
       </ul>
-      {isLoading && (
-        <p style={{ textAlign: 'center', paddingTop: '10px' }}>
-          Loading subscriptions...
-        </p>
-      )}
+
       {error && <p>Error loading subscriptions: {error.message}</p>}
       <ul className='flex flex-col gap-2 p-3 ps-6'>
-        {subscriptionData && <span className='mb-2 ps-2 text-lg'>구독</span>}
-        {subscriptionData?.pages.map((page) =>
-          page.items.map((item) => (
-            <li key={item.id} className=''>
-              <Link
-                className='p-1 flex gap-2 items-center'
-                to={`/channel/${item.snippet.resourceId.channelId}`}
-              >
-                <img
-                  className='w-9 h-9 rounded-full'
-                  src={item.snippet.thumbnails.medium.url}
-                  alt={item.snippet.title}
-                />
-                <p className='line-clamp-1'>{item.snippet.title}</p>
-              </Link>
-            </li>
-          ))
+        {isLoading ? (
+          <p style={{ textAlign: 'center', paddingTop: '10px' }}>
+            Loading subscriptions...
+          </p>
+        ) : (
+          <>
+            {subscriptionData?.pages.map((page) =>
+              page.items.map((item) => (
+                <li key={item.id} className=''>
+                  <Link
+                    className='p-1 flex gap-2 items-center'
+                    to={`/channel/${item.snippet.resourceId.channelId}`}
+                  >
+                    <img
+                      className='w-9 h-9 rounded-full'
+                      src={item.snippet.thumbnails.medium.url}
+                      alt={item.snippet.title}
+                    />
+                    <p className='line-clamp-1'>{item.snippet.title}</p>
+                  </Link>
+                </li>
+              ))
+            )}
+          </>
         )}
       </ul>
       {hasNextPage && (
