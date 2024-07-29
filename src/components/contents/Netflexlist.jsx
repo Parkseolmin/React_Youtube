@@ -18,7 +18,6 @@ export default function Netflexlist() {
   if (isLoading) return <Loading />;
   if (error) return <NotFound />;
 
-  console.log('netflexlist', netflexlist);
   return (
     <section>
       <p className='text-xl sm:text-lg px-4'>⚡Playlists</p>

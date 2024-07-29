@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function Streamers() {
   return (
     <section className='p-10'>
-      <h2>⚡치지직 스트리머를 소개합니다</h2>
+      <h2>⚡파지직 스트리머를 소개합니다</h2>
       <div className='streamers__inner '>
         {streamers.map((streamer, index) => {
           return (

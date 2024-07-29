@@ -26,8 +26,6 @@ export default function MovieDetail() {
   // 첫 번째 playlistItem을 가져오기
   const firstItem = playlistItems?.pages[0]?.items[0];
   const currentVideo = selectedVideo || firstItem;
-  console.log('무비캬캬', playlistItems);
-  console.log('currentVideo', currentVideo);
   return (
     <section className='movieDetail__container'>
       {currentVideo && (

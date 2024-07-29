@@ -88,8 +88,7 @@ const useAuthStore = create((set, get) => ({
   },
 
   startTokenRefresh: () => {
-    // 엑세스 토큰 갱신 부분 삭제
-    return () => {}; // 빈 함수 반환
+    return () => {};
   },
 }));
 

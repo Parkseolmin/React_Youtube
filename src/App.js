@@ -1,5 +1,4 @@
 import { auth } from 'firebaseapi/firebase';
-import LikeVideo from 'pages/LikeVideo';
 import React, { Suspense, lazy, useEffect, useState } from 'react';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
@@ -16,6 +15,7 @@ const VideoDetail = lazy(() => import('pages/VideoDetail'));
 const Movies = lazy(() => import('pages/Movies'));
 const PlayList = lazy(() => import('pages/PlayList'));
 const MovieDetail = lazy(() => import('pages/MovieDetail'));
+const LikeVideo = lazy(() => import('pages/LikeVideo'));
 
 export default function App() {
   const router = createBrowserRouter([

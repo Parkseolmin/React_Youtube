@@ -23,7 +23,6 @@ export default function MovielistItem() {
   if (error || !playlist) {
     return <NotFound />;
   }
-  console.log('최신영화스와이프', playlist);
   return (
     <section id='playlist'>
       <p className='text-xl sm:text-lg text-white mb-3'>⚡Latest Movies</p>
