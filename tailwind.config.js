@@ -8,6 +8,7 @@ module.exports = {
       },
       screens: {
         'max-1500': { max: '1500px' },
+        'max-800': { max: '800px' },
       },
     },
   },

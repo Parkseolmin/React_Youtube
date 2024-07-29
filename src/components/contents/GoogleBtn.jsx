@@ -22,7 +22,6 @@ export default function GoogleBtn() {
   } = useInfiniteQuery({
     queryKey: ['subscription', accessToken],
     queryFn: async ({ pageParam = '' }) => {
-      console.log('로그인버튼 네트워크 통신');
       return await youtube.fetchSubscriptions(accessToken, pageParam);
     },
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
@@ -37,8 +36,6 @@ export default function GoogleBtn() {
       unsubscribe();
     };
   }, [checkAuthState]);
-
-  console.log('엑세스토큰', accessToken);
 
   return (
     <div>

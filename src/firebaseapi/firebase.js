@@ -28,28 +28,31 @@ export const db = getFirestore(app);
 
 export const provider = new GoogleAuthProvider();
 provider.addScope('https://www.googleapis.com/auth/youtube.readonly');
+provider.setCustomParameters({
+  prompt: 'select_account',
+});
 
-export const handleAuthAction = async (currentUser, setAccessToken) => {
-  if (currentUser) {
-    // 로그아웃 로직
-    const ok = window.confirm('Are you sure you want to logout?');
-    if (ok) {
-      await signOut(auth).catch(console.error);
-      setAccessToken(null);
-    }
-  } else {
-    // 로그인 로직
-    try {
-      const result = await signInWithPopup(auth, provider);
-      const credential = GoogleAuthProvider.credentialFromResult(result);
-      const token = credential.accessToken;
-      setAccessToken(token);
-    } catch (error) {
-      console.error(error);
-      setAccessToken(null);
-    }
-  }
-};
+// export const handleAuthAction = async (currentUser, setAccessToken) => {
+//   if (currentUser) {
+//     // 로그아웃 로직
+//     const ok = window.confirm('Are you sure you want to logout?');
+//     if (ok) {
+//       await signOut(auth).catch(console.error);
+//       setAccessToken(null);
+//     }
+//   } else {
+//     // 로그인 로직
+//     try {
+//       const result = await signInWithPopup(auth, provider);
+//       const credential = GoogleAuthProvider.credentialFromResult(result);
+//       const token = credential.accessToken;
+//       setAccessToken(token);
+//     } catch (error) {
+//       console.error(error);
+//       setAccessToken(null);
+//     }
+//   }
+// };
 
 // export const googleLogout = async () => {
 //   const ok = window.confirm('Are you sure you want to logout?');
@@ -58,27 +61,27 @@ export const handleAuthAction = async (currentUser, setAccessToken) => {
 //   }
 // };
 
-export const checkAuthState = (callback) => {
-  return onAuthStateChanged(auth, (user) => {
-    if (user) {
-      // 사용자가 로그인한 경우
-      callback(user);
-    } else {
-      // 사용자가 로그아웃한 경우
-      callback(null);
-    }
-  });
-};
+// export const checkAuthState = (callback) => {
+//   return onAuthStateChanged(auth, (user) => {
+//     if (user) {
+//       // 사용자가 로그인한 경우
+//       callback(user);
+//     } else {
+//       // 사용자가 로그아웃한 경우
+//       callback(null);
+//     }
+//   });
+// };
 
-export const refreshAccessToken = async (authUser = auth.currentUser) => {
-  if (authUser) {
-    try {
-      const token = await authUser.getIdToken(true);
-      return token;
-    } catch (error) {
-      console.error('Error refreshing token:', error);
-      return null;
-    }
-  }
-  return null;
-};
+// export const refreshAccessToken = async (authUser = auth.currentUser) => {
+//   if (authUser) {
+//     try {
+//       const token = await authUser.getIdToken(true);
+//       return token;
+//     } catch (error) {
+//       console.error('Error refreshing token:', error);
+//       return null;
+//     }
+//   }
+//   return null;
+// };

@@ -332,6 +332,12 @@ export class Youtube {
     }
   }
 
+  /**
+   * Retrieves real YouTube subscription channel information
+   * @param {string} accessToken
+   * @param {string} pageToken - The page token for pagination.
+   * @returns {Promise<object>} An object containing items and nextPageToken.
+   */
   async fetchSubscriptions(accessToken, pageToken = '') {
     try {
       const response = await axios.get(

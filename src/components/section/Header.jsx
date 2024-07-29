@@ -51,7 +51,7 @@ export default function Header() {
                 to={keyword.src}
                 onClick={() => setIsMenuActive(false)}
               >
-                {keyword.title}
+                <span>{keyword.title}</span>
               </Link>
             </li>
           ))}

@@ -13,41 +13,36 @@
     border-bottom: 0;
   }
 
-  a {
-    display: flex;
-    margin: 10px;
+  em {
+    width: 40px;
+    height: 40px;
+    display: block;
+    background-color: #03bb77;
+    border: 1px solid #218a5f;
+    margin: 9.5px;
+    animation: ani 5s 5s ease-in-out infinite;
+    position: relative;
 
-    em {
-      width: 40px;
-      height: 40px;
-      display: block;
-      background-color: #03bb77;
-      border: 1px solid #218a5f;
-      margin: 9.5px;
-      animation: ani 5s 5s ease-in-out infinite;
-      position: relative;
-
-      &::before {
-        position: absolute;
-        top: 3px;
-        left: 7.5px;
-        content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='35' viewBox='0 0 35 50'%3E%3Cpath d='M0,20 L15,20 L10,0 L25,30 L10,30 L15,50 Z' fill='yellow'/%3E%3C/svg%3E");
-      }
+    &::before {
+      position: absolute;
+      top: 3px;
+      left: 7.5px;
+      content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='35' viewBox='0 0 35 50'%3E%3Cpath d='M0,20 L15,20 L10,0 L25,30 L10,30 L15,50 Z' fill='yellow'/%3E%3C/svg%3E");
     }
+  }
 
-    span {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      font-size: 30px;
-      font-weight: 900;
-      padding-left: 15px;
-      font-family: 'Giants-Inline';
+  span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+    padding-left: 15px;
+    font-family: 'Giants-Inline';
 
-      @media (max-width: 800px) {
-        font-size: 24px;
-        padding-left: 3px;
-      }
+    @media (max-width: 800px) {
+      font-size: 24px;
+      padding-left: 3px;
     }
   }
 }

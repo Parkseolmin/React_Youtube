@@ -5,7 +5,6 @@ export default function VideoCard({ video, type, onClick }) {
   const navigate = useNavigate();
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === 'list';
-  console.log('video카드::', video);
   return (
     <li
       className={isList ? 'flex gap-1 mx-2 mb-2  relativeVideo' : ''}

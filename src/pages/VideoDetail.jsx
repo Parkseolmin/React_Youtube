@@ -20,7 +20,6 @@ export default function VideoDetail() {
   const { title, channelId, channelTitle, description, publishedAt } =
     video.snippet;
 
-  console.log('비디오디테일 페이지::', videoId);
   useEffect(() => {
     if (user) {
       checkLikeStatus(user.uid, videoId);
@@ -35,10 +34,10 @@ export default function VideoDetail() {
   const isLiked = likedVideos[videoId];
 
   return (
-    <section className='flex flex-col lg:flex-row'>
+    <section className='flex flex-col lg:flex-row max-800:mt-[70px]'>
       <article className='basis-4/6'>
         <iframe
-          className='rounded-lg'
+          className='rounded-lg max-800:h-[360px]'
           width='100%'
           height='640'
           src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1`}
