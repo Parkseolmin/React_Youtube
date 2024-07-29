@@ -26,7 +26,8 @@ export default function MovieDetail() {
   // 첫 번째 playlistItem을 가져오기
   const firstItem = playlistItems?.pages[0]?.items[0];
   const currentVideo = selectedVideo || firstItem;
-
+  console.log('무비캬캬', playlistItems);
+  console.log('currentVideo', currentVideo);
   return (
     <section className='movieDetail__container'>
       {currentVideo && (
@@ -36,7 +37,7 @@ export default function MovieDetail() {
             className='movieDetail'
             width='80%'
             height='540'
-            src={`https://www.youtube-nocookie.com/embed/${currentVideo.snippet.resourceId.videoId}?autoplay=1&mute=1`}
+            src={`https://www.youtube-nocookie.com/embed/${currentVideo.id}?autoplay=1&mute=1`}
             title={currentVideo.snippet.title}
             style={{ border: 'none', margin: '0 auto' }}
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'

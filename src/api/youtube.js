@@ -231,7 +231,10 @@ export class Youtube {
     try {
       const response = await axios.get('/videos/playlist.json');
       return {
-        items: response.data.items,
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.snippet.resourceId.videoId,
+        })),
         nextPageToken: response.data.nextPageToken,
       };
     } catch (error) {
@@ -248,7 +251,10 @@ export class Youtube {
     try {
       const response = await axios.get('/videos/latestmovie.json');
       return {
-        items: response.data.items,
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.snippet.resourceId.videoId,
+        })),
         nextPageToken: response.data.nextPageToken,
       };
     } catch (error) {
@@ -323,7 +329,10 @@ export class Youtube {
         },
       });
       return {
-        items: response.data.items,
+        items: response.data.items.map((item) => ({
+          ...item,
+          id: item.snippet.resourceId.videoId,
+        })),
         nextPageToken: response.data.nextPageToken,
       };
     } catch (error) {

@@ -53,7 +53,7 @@ export default function PlaylistItem() {
           }}
           breakpoints={{
             1200: {
-              slidesPerView: 4, // 화면 너비가 800px 이상일 때 slidesPerView를 2로 설정
+              slidesPerView: 3, // 화면 너비가 800px 이상일 때 slidesPerView를 2로 설정
             },
             600: {
               slidesPerView: 2, // 화면 너비가 800px 이상일 때 slidesPerView를 2로 설정

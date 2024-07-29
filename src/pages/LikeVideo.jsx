@@ -16,6 +16,7 @@ export default function LikeVideo() {
 
   if (isLoading) return <div>Loading...</div>;
 
+  console.log('좋아요비디오 페이지', videos);
   return (
     <>
       <section>

@@ -5,12 +5,18 @@ export default function VideoCard({ video, type, onClick }) {
   const navigate = useNavigate();
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === 'list';
+
+  const handleClick = () => {
+    if (onClick) {
+      onClick();
+    } else {
+      navigate(`/video/${video.id}`, { state: { video } });
+    }
+  };
   return (
     <li
       className={isList ? 'flex gap-1 mx-2 mb-2  relativeVideo' : ''}
-      onClick={() => {
-        navigate(`/video/${video.id}`, { state: { video } });
-      }}
+      onClick={handleClick}
     >
       <img
         className={
