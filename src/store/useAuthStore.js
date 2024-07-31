@@ -7,6 +7,13 @@ import {
 } from 'firebase/auth';
 import { auth, provider } from 'firebaseapi/firebase';
 
+const LOGOUT_TIME_LIMIT = 50; // 분
+const CHECK_INTERVAL = 5 * 60 * 1000; // 5분
+
+const setLocalStorage = (key, value) => localStorage.setItem(key, value);
+const removeLocalStorage = (key) => localStorage.removeItem(key);
+const getLocalStorage = (key) => localStorage.getItem(key);
+
 const useAuthStore = create((set, get) => ({
   user: null,
   accessToken: null,
@@ -14,18 +21,15 @@ const useAuthStore = create((set, get) => ({
   logoutTimer: null,
 
   startLogoutTimer: () => {
-    // 기존 타이머가 있다면 클리어
-    clearInterval(get().logoutTimer);
-
+    const { clearLogoutTimer, handleAuthAction } = get();
+    clearLogoutTimer();
     const timerId = setInterval(() => {
-      const loginTime = new Date(localStorage.getItem('loginTime'));
-      const currentTime = new Date();
-      const elapsedTime = (currentTime - loginTime) / 1000 / 60; // 분 단위로 계산
-      if (elapsedTime >= 50) {
-        get().handleAuthAction(); // 자동 로그아웃
+      const loginTime = new Date(getLocalStorage('loginTime'));
+      const elapsedTime = (new Date() - loginTime) / (1000 * 60);
+      if (elapsedTime >= LOGOUT_TIME_LIMIT) {
+        handleAuthAction();
       }
-    }, 1000 * 60 * 5); // 5분마다 체크
-
+    }, CHECK_INTERVAL);
     set({ logoutTimer: timerId });
   },
 
@@ -34,61 +38,66 @@ const useAuthStore = create((set, get) => ({
     set({ logoutTimer: null });
   },
 
+  login: async () => {
+    const { startLogoutTimer } = get();
+    try {
+      const result = await signInWithPopup(auth, provider);
+      const credential = GoogleAuthProvider.credentialFromResult(result);
+      const token = credential.accessToken;
+      set({ user: result.user, accessToken: token });
+      setLocalStorage('loginTime', new Date().toISOString());
+      setLocalStorage('accessToken', token);
+      startLogoutTimer();
+    } catch (error) {
+      console.error('Login error:', error);
+    }
+  },
+
+  logout: async () => {
+    const { clearLogoutTimer } = get();
+    try {
+      await signOut(auth);
+      set({ user: null, accessToken: null });
+      removeLocalStorage('loginTime');
+      removeLocalStorage('accessToken');
+      clearLogoutTimer();
+    } catch (error) {
+      console.error('Logout error:', error);
+    }
+  },
+
   handleAuthAction: async () => {
-    const { user, startLogoutTimer, clearLogoutTimer } = get();
-    set({ isAuthLoading: true });
-    if (user) {
-      // 로그아웃 로직
-      const ok = window.confirm('Are you sure you want to logout?');
-      if (ok) {
-        try {
-          await signOut(auth);
-          set({ user: null, accessToken: null, isAuthLoading: false });
-          localStorage.removeItem('loginTime');
-          localStorage.removeItem('accessToken');
-          clearLogoutTimer();
-        } catch (error) {
-          console.error(error);
-          set({ isAuthLoading: false });
-        }
+    const { user, login, logout } = get();
+    try {
+      set({ isAuthLoading: true });
+      if (user) {
+        const ok = window.confirm('Are you sure you want to logout?');
+        if (ok) await logout();
+      } else {
+        await login();
       }
-    } else {
-      // 로그인 로직
-      try {
-        const result = await signInWithPopup(auth, provider);
-        const credential = GoogleAuthProvider.credentialFromResult(result);
-        const token = credential.accessToken;
-        set({ user: result.user, accessToken: token, isAuthLoading: false });
-        localStorage.setItem('loginTime', new Date().toISOString());
-        localStorage.setItem('accessToken', token); // 엑세스 토큰 저장
-        startLogoutTimer();
-      } catch (error) {
-        console.error(error);
-        set({ isAuthLoading: false });
-      }
+    } catch (error) {
+      console.error('Authentication error:', error);
+    } finally {
+      set({ isAuthLoading: false });
     }
   },
 
   checkAuthState: () => {
     const { startLogoutTimer, clearLogoutTimer } = get();
-    const unsubscribe = onAuthStateChanged(auth, (user) => {
+    return onAuthStateChanged(auth, (user) => {
       if (user) {
-        const token = localStorage.getItem('accessToken');
+        const token = getLocalStorage('accessToken');
         set({ user, accessToken: token });
-        localStorage.setItem('loginTime', new Date().toISOString());
+        setLocalStorage('loginTime', new Date().toISOString());
         startLogoutTimer();
       } else {
-        set({ user: null, accessToken: null, isAuthLoading: false });
-        localStorage.removeItem('loginTime');
-        localStorage.removeItem('accessToken');
+        set({ user: null, accessToken: null });
+        removeLocalStorage('loginTime');
+        removeLocalStorage('accessToken');
         clearLogoutTimer();
       }
     });
-    return unsubscribe;
-  },
-
-  startTokenRefresh: () => {
-    return () => {};
   },
 }));
 

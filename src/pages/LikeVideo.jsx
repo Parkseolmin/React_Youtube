@@ -1,3 +1,4 @@
+import Loading from 'components/contents/Loading';
 import VideoCard from 'components/contents/VideoCard';
 import { useEffect, useState } from 'react';
 import useAuthStore from 'store/useAuthStore';
@@ -14,7 +15,7 @@ export default function LikeVideo() {
     }
   }, [fetchLikedVideos, user]);
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <Loading />;
 
   return (
     <>

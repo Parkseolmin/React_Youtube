@@ -22,6 +22,6 @@ export const db = getFirestore(app);
 
 export const provider = new GoogleAuthProvider();
 provider.addScope('https://www.googleapis.com/auth/youtube.readonly');
-provider.setCustomParameters({
-  prompt: 'select_account',
-});
+// provider.setCustomParameters({
+//   prompt: 'select_account',
+// });
