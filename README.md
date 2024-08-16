@@ -17,7 +17,7 @@ Momentum Clone은 사용자가 브라우저를 열 때마다 아름다운 배경
 
 ## 소개
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/3603089c-cf49-4d31-813b-47bb07506c05" alt="main 페이지" width="32.3%">
+    <img src="https://github.com/user-attachments/assets/3603089c-cf49-4d31-813b-47bb07506c05" alt="main 페이지" width="32.3%" height="400px">
     <img src="https://github.com/user-attachments/assets/8e917464-c6ee-437d-af7b-358ace33d469" alt="todo 페이지" width="32.3%">
     <img src="https://github.com/user-attachments/assets/403ce321-089b-47d1-89b1-17a29ab27f33" alt="pomodoro 페이지" width="32.3%">
 </div>
