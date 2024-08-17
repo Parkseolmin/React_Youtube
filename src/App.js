@@ -44,9 +44,13 @@ export default function App() {
     let isMounted = true;
 
     const init = async () => {
-      await auth.authStateReady();
-      if (isMounted) {
-        setIsLoading(false);
+      try {
+        await auth.authStateReady();
+        if (isMounted) {
+          setIsLoading(false);
+        }
+      } catch (error) {
+        console.warn('Authentication state check failed :', error);
       }
     };
     init();

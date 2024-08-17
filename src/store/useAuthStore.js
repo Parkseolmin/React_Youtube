@@ -44,6 +44,7 @@ const useAuthStore = create((set, get) => ({
       const result = await signInWithPopup(auth, provider);
       const credential = GoogleAuthProvider.credentialFromResult(result);
       const token = credential.accessToken;
+      console.log('token', token);
       set({ user: result.user, accessToken: token });
       setLocalStorage('loginTime', new Date().toISOString());
       setLocalStorage('accessToken', token);

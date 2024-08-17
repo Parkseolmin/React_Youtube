@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { MdKeyboardArrowDown } from 'react-icons/md';
 import { FcLike } from 'react-icons/fc';
@@ -6,11 +6,19 @@ import { useInfiniteQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from 'context/YoutubeApiContext';
 import { login, menus } from 'data/header';
 import useAuthStore from 'store/useAuthStore';
+import { gapi } from 'gapi-script';
+import { FcProcess } from 'react-icons/fc';
 
 export default function GoogleBtn() {
   const { user, accessToken, isAuthLoading, handleAuthAction, checkAuthState } =
     useAuthStore();
   const { youtube } = useYoutubeApi();
+  const [outhtoken, setOuthtoken] = useState(accessToken);
+
+  const fetchSubscriptions = async (token, pageParam) => {
+    console.log('fetchSubscriptions 실행!!!');
+    return await youtube.fetchSubscriptions(token, pageParam);
+  };
 
   const {
     data: subscriptionData,
@@ -20,22 +28,94 @@ export default function GoogleBtn() {
     isLoading,
     isFetchingNextPage,
   } = useInfiniteQuery({
-    queryKey: ['subscription', accessToken],
-    queryFn: async ({ pageParam = '' }) => {
-      return await youtube.fetchSubscriptions(accessToken, pageParam);
-    },
+    queryKey: ['subscription', outhtoken],
+    queryFn: ({ pageParam = '' }) => fetchSubscriptions(outhtoken, pageParam),
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
-    enabled: !!accessToken,
+    enabled: !!outhtoken,
     staleTime: 1000 * 60 * 5,
   });
 
+  const refreshToken = async () => {
+    try {
+      // 현재 Google 인증 인스턴스를 가져옴
+      const authInstance = gapi.auth2.getAuthInstance();
+      console.log('Auth instance:', authInstance);
+
+      // 사용자가 로그인되어 있는지 확인함
+      if (authInstance.isSignedIn.get()) {
+        // 현재 사용자의 인증 응답을 새로 고침하고, 이를 통해 새로운 액세스 토큰 얻음
+        const authResponse = await authInstance.currentUser
+          .get()
+          .reloadAuthResponse();
+        console.log('authResponse', authResponse);
+        const newToken = authResponse.access_token;
+        setOuthtoken(newToken);
+        console.log('New access token:', newToken);
+
+        // 새로운 토큰을 사용하여 YouTube API 호출
+        fetchSubscriptions(newToken);
+      } else {
+        console.log('User is not signed in');
+        // gapi.auth2를 통해 사용자를 다시 로그인 시도
+        await authInstance.signIn();
+        // 로그인 후, 현재 사용자의 인증 응답을 가져옴
+        const authResponse = await authInstance.currentUser
+          .get()
+          .getAuthResponse();
+        const newToken = authResponse.access_token;
+        setOuthtoken(newToken);
+        console.log('User re-signed in, new access token:', newToken);
+
+        // 새로운 토큰을 사용하여 YouTube API 호출
+        fetchSubscriptions(newToken);
+      }
+    } catch (error) {
+      console.error('Error refreshing access token:', error);
+    }
+  };
+
   useEffect(() => {
     const unsubscribe = checkAuthState();
+    setOuthtoken(accessToken);
+    function initClient() {
+      gapi.client
+        .init({
+          clientId:
+            '51089441850-uhcrgmjsbg6pnccjl1v0lja7c60a1j10.apps.googleusercontent.com', // 여기에 실제 클라이언트 ID를 입력하세요
+          scope: 'https://www.googleapis.com/auth/youtube.readonly',
+        })
+        .then(() => {
+          console.log('GAPI client initialized');
+        })
+        .catch((error) => {
+          console.error('Error initializing GAPI client:', error);
+        });
+    }
+
+    gapi.load('client:auth2', initClient);
 
     return () => {
       unsubscribe();
     };
-  }, [checkAuthState]);
+  }, [checkAuthState, accessToken]);
+
+  useEffect(() => {
+    function initClient() {
+      gapi.client
+        .init({
+          clientId: process.env.REACT_APP_CLIENTID,
+          scope: 'https://www.googleapis.com/auth/youtube.readonly',
+        })
+        .then(() => {
+          console.log('GAPI client initialized');
+        })
+        .catch((error) => {
+          console.error('Error initializing GAPI client:', error);
+        });
+    }
+
+    gapi.load('client:auth2', initClient);
+  }, []);
 
   return (
     <div>
@@ -55,12 +135,18 @@ export default function GoogleBtn() {
           </li>
         ))}
         {user && (
-          <li>
-            <Link to='/likeVideo'>
-              <FcLike />
-              Saved video
-            </Link>
-          </li>
+          <>
+            <li>
+              <Link to='/likeVideo'>
+                <FcLike />
+                Saved video
+              </Link>
+              <Link to={'/'}>
+                <FcProcess />
+                <span onClick={refreshToken}>Refresh</span>
+              </Link>
+            </li>
+          </>
         )}
       </ul>
 
