@@ -16,6 +16,11 @@ Momentum Clone은 사용자가 브라우저를 열 때마다 아름다운 배경
 4. [사용 방법](#사용-방법)
 
 ## 소개
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3603089c-cf49-4d31-813b-47bb07506c05" alt="main 페이지" width="32.3%" height=230px">
+    <img src="https://github.com/user-attachments/assets/8e917464-c6ee-437d-af7b-358ace33d469" alt="todo 페이지" width="32.3%" height=230px">
+    <img src="https://github.com/user-attachments/assets/403ce321-089b-47d1-89b1-17a29ab27f33" alt="pomodoro 페이지" width="32.3%" height=230px">
+</div>
 Momentum Clone은 사용자가 하루를 시작할 때마다 힘을 주는 도구입니다. 프로그램은 사용자가 브라우저를 열 때마다 아름다운 배경 이미지를 보여주고, 영감을 주는 인용문을 표시합니다. 또한 사용자는 할 일 목록을 관리하고, 현재 위치의 날씨 정보를 확인할 수 있습니다.
 
 ## 의존성
@@ -42,13 +47,6 @@ Momentum Clone은 사용자가 하루를 시작할 때마다 힘을 주는 도�
     ```
 
 ## 사용 방법
-
-<div align="center">
-    <img src="https://github.com/Parkseolmin/React_momentum/assets/76764414/8125b23a-eab4-4c87-bfc1-81c5b215341c" alt="main 페이지" width="24%">
-    <img src="https://github.com/Parkseolmin/React_momentum/assets/76764414/e2b1ecce-899b-4aab-8742-883423cc43a0" alt="todo 페이지" width="24%">
-    <img src="https://github.com/Parkseolmin/React_momentum/assets/76764414/4451f16c-ba22-48ec-9ed4-53ec29e06e19" alt="pomodoro 페이지" width="24%">
-    <img src="https://github.com/Parkseolmin/React_momentum/assets/76764414/48727c64-cee1-4bb7-9d66-0d21a40cce3c" alt="gpt 페이지" width="24%">
-</div>
 
 1. 프로젝트를 로컬 환경에서 실행합니다.
     ```bash
