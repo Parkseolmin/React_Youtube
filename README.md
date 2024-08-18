@@ -1,7 +1,7 @@
 # 파지직 TV⚡
 
 <p align="center"><img src="https://github.com/user-attachments/assets/46388765-acd7-4c60-94fe-806e41bb4077" alt="Momentum이미지" width="300"/></p>
-<p align="center">배포 URL : <a href="https://pazizic.vercel.app/" target="_blank"></a></p>
+<p align="center">배포 URL : <a href="https://pazizic.vercel.app/" target="_blank">https://pazizic.vercel.app/</a></p>
 
 
 ## 목차
@@ -69,5 +69,5 @@ Firebase를 활용한 로그인 및 데이터베이스 구현 경험은 백엔�
 
 <div align='center'>
     <img width="148" alt="profile" src="https://github.com/user-attachments/assets/57f94c27-64e5-462d-aee7-c65cd831053d">
-    <p align="center">관련 블로그  : <a href="https://snowman-seolmini.tistory.com/84" target="_blank"></a></p>
+    <p align="center"><a href="https://snowman-seolmini.tistory.com/84" target="_blank">블로그 글</a></p>
 </div>
