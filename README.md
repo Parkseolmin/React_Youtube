@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/46388765-acd7-4c60-94fe-806e41bb4077" alt="Momentum이미지" width="300"/></p>
 <p align="center">배포 URL : <a href="https://pazizic.vercel.app/" target="_blank">https://pazizic.vercel.app/</a></p>
+<p align="center">배포 URL : <a href="https://pazizic.vercel.app/" target="_blank">https://pazizic.vercel.app/</a></p>
 
 
 ## 목차
@@ -65,9 +66,9 @@ React Query의 다양한 기능을 활용하여 정교한 데이터 캐싱 전�
  
 Firebase를 활용한 로그인 및 데이터베이스 구현 경험은 백엔드 지식이 부족했던 나에게 특히 소중한 기회였습니다. 액세스 토큰 갱신 과정에서 겪은 어려움과 그를 극복하는 과정은 비록 시간이 많이 소요되었지만, 문제 해결 능력을 한층 높이는 계기가 되었습니다.
 
-## 회고록
-
-<div align='center'>
-    <img width="148" alt="profile" src="https://github.com/user-attachments/assets/57f94c27-64e5-462d-aee7-c65cd831053d">
-    <p align="center"><a href="https://snowman-seolmini.tistory.com/84" target="_blank">블로그 글</a></p>
+## 프로젝트 회고록 보러가기
+<div align="center" >
+<a href="https://snowman-seolmini.tistory.com/84" target="_blank">
+<img width="330" alt="profile" src="https://github.com/user-attachments/assets/40d8b6b5-2a4d-419e-b484-16f369f0e6f9"/>
+</a>
 </div>
