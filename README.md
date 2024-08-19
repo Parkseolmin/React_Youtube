@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/46388765-acd7-4c60-94fe-806e41bb4077" alt="Momentum이미지" width="300"/></p>
 <p align="center">배포 URL : <a href="https://pazizic.vercel.app/" target="_blank">https://pazizic.vercel.app/</a></p>
-<p align="center">배포 URL : <a href="https://pazizic.vercel.app/" target="_blank">https://pazizic.vercel.app/</a></p>
+
 
 
 ## 목차
