@@ -75,6 +75,7 @@ REACT_APP_CLIENTID=your_googlecloudid_key
   - 반응성, 접근성, SEO 최적화
   - 코드 품질 향상
   - 사용자 경험 개선
+    
 - v1.2.0: TypeScript로의 전환
   - 정적 타입 검사를 통한 코드 안정성 향상
   - 개발자 경험 개선 및 버그 감소
