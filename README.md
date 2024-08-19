@@ -48,21 +48,22 @@ React 기반의 대규모 애플리케이션 설계 및 개발 경험 축적
 
 ## 설치 방법
 1. GitHub 저장소를 클론합니다.
-    ```bash
-    git clone https://github.com/Parkseolmin/React_Youtube.git
-    cd React_Youtube
-    ```
+```bash
+git clone https://github.com/Parkseolmin/React_Youtube.git
+cd React_Youtube
+```
+
 2. `npm install` 명령어를 사용하여 의존성을 설치합니다.
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 3. 프로젝트 루트 디렉토리에 `.env` 파일을 생성하고, API 키를 설정합니다.
-    ```
-    REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key
-    REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_authdomain_api_key
-    REACT_APP_FIREBASE_PROJECTID=your_firebase_project_id_api_key
-    REACT_APP_CLIENTID=your_googlecloudid_key
-    ```
+```
+REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key
+REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_authdomain_api_key
+REACT_APP_FIREBASE_PROJECTID=your_firebase_project_id_api_key
+REACT_APP_CLIENTID=your_googlecloudid_key
+```
 
 ## 버전 정보
 
