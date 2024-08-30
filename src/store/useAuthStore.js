@@ -40,17 +40,19 @@ const useAuthStore = create((set, get) => ({
 
   login: async () => {
     const { startLogoutTimer } = get();
+    set({ isAuthLoading: true });
     try {
       const result = await signInWithPopup(auth, provider);
       const credential = GoogleAuthProvider.credentialFromResult(result);
       const token = credential.accessToken;
-      console.log('token', token);
       set({ user: result.user, accessToken: token });
       setLocalStorage('loginTime', new Date().toISOString());
       setLocalStorage('accessToken', token);
       startLogoutTimer();
     } catch (error) {
       console.error('Login error:', error);
+    } finally {
+      set({ isAuthLoading: false });
     }
   },
 
@@ -86,6 +88,7 @@ const useAuthStore = create((set, get) => ({
 
   checkAuthState: () => {
     const { startLogoutTimer, clearLogoutTimer } = get();
+    set({ isAuthLoading: true });
     return onAuthStateChanged(auth, (user) => {
       if (user) {
         const token = getLocalStorage('accessToken');
@@ -98,6 +101,7 @@ const useAuthStore = create((set, get) => ({
         removeLocalStorage('accessToken');
         clearLogoutTimer();
       }
+      set({ isAuthLoading: false });
     });
   },
 }));
