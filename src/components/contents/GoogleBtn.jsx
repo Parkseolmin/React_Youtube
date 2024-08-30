@@ -127,7 +127,16 @@ export default function GoogleBtn() {
               ) : (
                 <>
                   {!user ? l.icon : <img src={user.photoURL} alt='User' />}
-                  {user ? 'Logout' : 'Login'}
+                  {user ? (
+                    'Logout'
+                  ) : (
+                    <>
+                      <span>Login</span>
+                      <p className='text-sm text-slate-200 mt-1'>
+                        현재 등록된 유저만 가능
+                      </p>
+                    </>
+                  )}
                 </>
               )}
             </Link>

@@ -38,6 +38,10 @@ export default function Comments({ videoId }) {
     return <NotFound />;
   }
 
+  // HTML 태그 제거 함수
+  const stripHtmlTags = (str) => {
+    return str.replace(/<[^>]*>/g, '');
+  };
   return (
     <div className='sm:p-3 lg:p-5 '>
       <h2>댓글</h2>
@@ -68,7 +72,9 @@ export default function Comments({ videoId }) {
                     </p>
                   </span>
                   <span>
-                    {item.snippet.topLevelComment.snippet.textDisplay}
+                    {stripHtmlTags(
+                      item.snippet.topLevelComment.snippet.textDisplay
+                    )}
                   </span>
                 </div>
               </li>
