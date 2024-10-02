@@ -30,7 +30,7 @@ export default function GoogleBtn() {
   } = useInfiniteQuery({
     queryKey: ['subscription', outhtoken],
     queryFn: ({ pageParam = '' }) => fetchSubscriptions(outhtoken, pageParam),
-    getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
+    getNextPageParam: (lastPage) => lastPage.nextPageToken || null,
     enabled: !!outhtoken,
     staleTime: 1000 * 60 * 5,
   });
@@ -132,9 +132,6 @@ export default function GoogleBtn() {
                   ) : (
                     <>
                       <span>Login</span>
-                      <p className='text-sm text-slate-200 mt-1'>
-                        현재 등록된 유저만 가능
-                      </p>
                     </>
                   )}
                 </>
@@ -159,6 +156,7 @@ export default function GoogleBtn() {
       </ul>
 
       {error && <p>Error loading subscriptions: {error.message}</p>}
+      {console.log('subscriptionData', subscriptionData)}
       <ul className='flex flex-col gap-2 p-3 ps-6'>
         {isLoading ? (
           <p style={{ textAlign: 'center', paddingTop: '10px' }}>

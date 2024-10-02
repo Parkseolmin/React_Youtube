@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comments Component renders comments correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sm:p-3 lg:p-5 "
+  >
+    <h2>
+      댓글
+    </h2>
+    <ul>
+      <li
+        class="flex gap-2 line-clamp-2 mt-3"
+      >
+        <img
+          alt="profileimage"
+          class="w-6 h-6 rounded-full"
+          src="https://example.com/image.jpg"
+        />
+        <div
+          class="flex flex-col"
+        >
+          <span
+            class="flex gap-3 items-center"
+          >
+            <p
+              class="text-sm opacity-85 mb-2"
+            >
+              John Doe
+            </p>
+            <p
+              class="text-xs opacity-75"
+            >
+              8 months ago
+            </p>
+          </span>
+          <span>
+            Hello, world!
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div
+      class="video__more"
+    >
+      <button>
+        더보기
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Comments Component renders loading state 1`] = `
+<DocumentFragment>
+  <div
+    class="loading-container"
+  >
+    <div
+      class="loading-spinner"
+    />
+    <p
+      class="loading-text"
+    >
+      로딩 중...
+    </p>
+  </div>
+</DocumentFragment>
+`;

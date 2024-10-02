@@ -1,8 +1,10 @@
+import GeneralLogin from 'components/contents/GeneralLogin';
 import GoogleBtn from 'components/contents/GoogleBtn';
 import HeaderLogo from 'components/contents/HeaderLogo';
 import { keywords, login, menus, snsLink } from 'data/header';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import useAuthStore from 'store/useAuthStore';
 
 export default function Header() {
   const location = useLocation();
@@ -10,6 +12,8 @@ export default function Header() {
   const toggleMenu = () => {
     setIsMenuActive(!isMenuActive);
   };
+  const { loginMethod } = useAuthStore();
+
   return (
     <header id='header' role='banner' className={isMenuActive ? 'active' : ''}>
       <HeaderLogo toggleMenu={toggleMenu} />
@@ -35,8 +39,9 @@ export default function Header() {
           ))}
         </ul>
 
-        {/* 구글 로그인 */}
-        <GoogleBtn />
+        {/* 조건부 렌더링 */}
+        {loginMethod !== 'google' && <GeneralLogin />}
+        {loginMethod !== 'general' && <GoogleBtn />}
 
         <ul className='keyword' aria-label='Keywords' role='menubar'>
           {keywords.map((keyword, index) => (

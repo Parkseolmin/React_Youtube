@@ -1,9 +1,15 @@
 import { useNavigate } from 'react-router-dom';
 import { formatAgo } from 'util/date';
 
-export default function VideoCard({ video, type, onClick }) {
+export default function VideoCard({
+  video,
+  video: {
+    snippet: { title, thumbnails, channelTitle, publishedAt },
+  },
+  type,
+  onClick,
+}) {
   const navigate = useNavigate();
-  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === 'list';
 
   const handleClick = () => {
@@ -15,7 +21,7 @@ export default function VideoCard({ video, type, onClick }) {
   };
   return (
     <li
-      className={isList ? 'flex gap-1 mx-2 mb-2  relativeVideo' : ''}
+      className={isList ? 'flex gap-1 mx-2 mb-2 relativeVideo' : ''}
       onClick={handleClick}
     >
       <img
@@ -28,7 +34,7 @@ export default function VideoCard({ video, type, onClick }) {
         alt={title}
         loading='lazy'
       />
-      <div>
+      <div className='cursor-pointer'>
         <p className='text-sm VideoCard__title font-semibold my-2 line-clamp-2 text-slate-200'>
           {title}
         </p>

@@ -1,5 +1,5 @@
 import { MdLiveTv } from 'react-icons/md';
-import { FcMusic, FcGoogle } from 'react-icons/fc';
+import { FcMusic, FcGoogle, FcStart } from 'react-icons/fc';
 import { FaHotjar, FaUserAstronaut } from 'react-icons/fa';
 import { RiLiveFill } from 'react-icons/ri';
 import { BiMoviePlay, BiFace } from 'react-icons/bi';
@@ -46,6 +46,13 @@ export const login = [
   {
     title: 'Login',
     icon: <FcGoogle />,
+    src: '/',
+  },
+];
+export const generallogin = [
+  {
+    title: 'Login',
+    icon: <FcStart />,
     src: '/',
   },
 ];

@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import Search from './Search';
+import SearchInput from './SearchInput';
 import Footer from './Footer';
 import Header from './Header';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
@@ -15,7 +15,7 @@ export default function Main() {
       <YoutubeApiProvider>
         <Header />
         <main id='main' role='main'>
-          <Search />
+          <SearchInput />
           <Outlet />
         </main>
         <Footer />

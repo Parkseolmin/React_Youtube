@@ -1,25 +1,11 @@
 import Loading from './Loading';
 import NotFound from './NotFound';
 import { formatAgo } from 'util/date';
-import { useYoutubeInfiniteQuery } from 'hooks/useQuery';
+import { useYoutubeApi } from 'context/YoutubeApiContext';
+import { useInfiniteQuery } from '@tanstack/react-query';
 
 export default function Comments({ videoId }) {
-  // const { youtube } = useYoutubeApi();
-  // const {
-  //   data: comments,
-  //   fetchNextPage,
-  //   hasNextPage,
-  //   isFetchingNextPage,
-  //   isLoading,
-  //   error,
-  // } = useInfiniteQuery({
-  //   queryKey: ['comments', videoId],
-  //   queryFn: async ({ pageParam = '' }) => {
-  //     return youtube.commentsAPI(videoId, pageParam);
-  //   },
-  //   staleTime: 1000 * 60 * 5,
-  //   getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
-  // });
+  const { youtube } = useYoutubeApi();
   const {
     data: comments,
     fetchNextPage,
@@ -27,9 +13,24 @@ export default function Comments({ videoId }) {
     isFetchingNextPage,
     isLoading,
     error,
-  } = useYoutubeInfiniteQuery(['comments', videoId], (youtube, pageParam) =>
-    youtube.commentsAPI(videoId, pageParam)
-  );
+  } = useInfiniteQuery({
+    queryKey: ['comments', videoId],
+    queryFn: async ({ pageParam = '' }) => {
+      return youtube.commentsAPI(videoId, pageParam);
+    },
+    staleTime: 1000 * 60 * 5,
+    getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
+  });
+  // const {
+  //   data: comments,
+  //   fetchNextPage,
+  //   hasNextPage,
+  //   isFetchingNextPage,
+  //   isLoading,
+  //   error,
+  // } = useYoutubeInfiniteQuery(['comments', videoId], (youtube, pageParam) =>
+  //   youtube.commentsAPI(videoId, pageParam)
+  // );
   if (isLoading) {
     return <Loading />;
   }
@@ -42,6 +43,8 @@ export default function Comments({ videoId }) {
   const stripHtmlTags = (str) => {
     return str.replace(/<[^>]*>/g, '');
   };
+
+  console.log('comments', comments);
   return (
     <div className='sm:p-3 lg:p-5 '>
       <h2>댓글</h2>

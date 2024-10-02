@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodayCard Component Test Snapshot 테스트 matches snapshot when playitem is not provided 1`] = `
+<DocumentFragment>
+  <div
+    class="today__inner rounded-lg"
+    data-testid="handleClickFitst"
+  >
+    <div
+      class="today__thumb play__icon"
+    >
+      <img
+        alt="title"
+        src="https://www.youtube.com/"
+      />
+    </div>
+    <div
+      class="today__text"
+    >
+      <span
+        class="today"
+      >
+        today!
+      </span>
+      <div
+        class="info"
+      >
+        <span
+          class="author"
+        >
+          <a
+            href="/channel/1"
+          >
+            channel title
+          </a>
+        </span>
+        <span
+          class="date"
+        >
+          just now
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TodayCard Component Test Snapshot 테스트 matches snapshot when playitem is provided 1`] = `
+<DocumentFragment>
+  <div
+    class="today__inner rounded-lg"
+    data-testid="handleClickFitst"
+  >
+    <div
+      class="today__thumb play__icon"
+    >
+      <img
+        alt="title"
+        src="https://www.youtube.com/"
+      />
+    </div>
+    <div
+      class="playlist"
+      data-testid="handleClickSecond"
+    >
+      <div
+        class="playlist__item"
+      >
+        <span
+          class="author"
+        >
+          <a
+            class="line-clamp-1"
+            href="/channel/1"
+          >
+            title
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

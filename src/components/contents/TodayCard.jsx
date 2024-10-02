@@ -16,7 +16,11 @@ export default function TodayCard({ video, playitem = '' }) {
   };
   return (
     <>
-      <div className='today__inner rounded-lg' onClick={handleClick}>
+      <div
+        className='today__inner rounded-lg'
+        onClick={handleClick}
+        data-testid='handleClickFitst'
+      >
         <div className='today__thumb play__icon'>
           <img src={thumbnails?.maxres?.url} alt={title} />
         </div>
@@ -34,6 +38,7 @@ export default function TodayCard({ video, playitem = '' }) {
         ) : (
           <div
             className='playlist'
+            data-testid='handleClickSecond'
             onClick={() => {
               navigate(`/video/${video.snippet.resourceId.videoId}`, {
                 state: { video },

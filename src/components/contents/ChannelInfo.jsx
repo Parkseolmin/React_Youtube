@@ -1,27 +1,20 @@
 import Loading from './Loading';
 import NotFound from './NotFound';
 import { Link } from 'react-router-dom';
-import { useYoutubeQuery } from 'hooks/useQuery';
+import { useQuery } from '@tanstack/react-query';
+import { useYoutubeApi } from 'context/YoutubeApiContext';
 
 export default function ChannelInfo({ channelId, name }) {
-  // const { youtube } = useYoutubeApi();
-  // const {
-  //   data: channelInfo,
-  //   isLoading,
-  //   error,
-  // } = useQuery({
-  //   queryKey: ['channel', channelId],
-  //   queryFn: () => youtube.channelImageURL(channelId),
-  //   staleTime: 1000 * 60 * 5,
-  // });
-
+  const { youtube } = useYoutubeApi();
   const {
     data: channelInfo,
     isLoading,
     error,
-  } = useYoutubeQuery(['channel', channelId], (youtube) =>
-    youtube.channelImageURL(channelId)
-  );
+  } = useQuery({
+    queryKey: ['channel', channelId],
+    queryFn: () => youtube.channelImageURL(channelId),
+    staleTime: 1000 * 60 * 5,
+  });
 
   if (isLoading) {
     return <Loading />;
@@ -30,6 +23,8 @@ export default function ChannelInfo({ channelId, name }) {
   if (error || !channelInfo) {
     return <NotFound />;
   }
+
+  console.log('channelInfo', channelInfo);
   return (
     <div className='flex my-4 mb-8 items-center'>
       {channelInfo && (

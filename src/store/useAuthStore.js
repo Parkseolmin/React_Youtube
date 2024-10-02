@@ -19,6 +19,7 @@ const useAuthStore = create((set, get) => ({
   accessToken: null,
   isAuthLoading: false,
   logoutTimer: null,
+  loginMethod: getLocalStorage('loginMethod'),
 
   startLogoutTimer: () => {
     const { clearLogoutTimer, handleAuthAction } = get();
@@ -38,7 +39,7 @@ const useAuthStore = create((set, get) => ({
     set({ logoutTimer: null });
   },
 
-  login: async () => {
+  Tokenlogin: async () => {
     const { startLogoutTimer } = get();
     set({ isAuthLoading: true });
     try {
@@ -56,20 +57,65 @@ const useAuthStore = create((set, get) => ({
     }
   },
 
-  logout: async () => {
+  login: async () => {
+    set({ isAuthLoading: true });
+    try {
+      const provider = new GoogleAuthProvider();
+      const result = await signInWithPopup(auth, provider);
+      set({ user: result.user });
+      setLocalStorage('loginTime', new Date().toISOString());
+    } catch (error) {
+      console.error('Login error:', error);
+    } finally {
+      set({ isAuthLoading: false });
+    }
+  },
+
+  Tokenlogout: async () => {
     const { clearLogoutTimer } = get();
     try {
       await signOut(auth);
-      set({ user: null, accessToken: null });
+      set({ user: null, accessToken: null, loginMethod: null });
       removeLocalStorage('loginTime');
       removeLocalStorage('accessToken');
+      removeLocalStorage('loginMethod');
       clearLogoutTimer();
     } catch (error) {
       console.error('Logout error:', error);
     }
   },
 
+  logout: async () => {
+    try {
+      await signOut(auth);
+      set({ user: null, loginMethod: null });
+      removeLocalStorage('loginTime');
+      removeLocalStorage('loginMethod');
+    } catch (error) {
+      console.error('Logout error:', error);
+    }
+  },
+
   handleAuthAction: async () => {
+    const { user, Tokenlogin, Tokenlogout } = get();
+    try {
+      set({ isAuthLoading: true });
+      if (user) {
+        const ok = window.confirm('Are you sure you want to logout?');
+        if (ok) await Tokenlogout();
+      } else {
+        set({ loginMethod: 'google' });
+        setLocalStorage('loginMethod', 'google');
+        await Tokenlogin();
+      }
+    } catch (error) {
+      console.error('Authentication error:', error);
+    } finally {
+      set({ isAuthLoading: false });
+    }
+  },
+
+  generalAuthAction: async () => {
     const { user, login, logout } = get();
     try {
       set({ isAuthLoading: true });
@@ -77,6 +123,8 @@ const useAuthStore = create((set, get) => ({
         const ok = window.confirm('Are you sure you want to logout?');
         if (ok) await logout();
       } else {
+        set({ loginMethod: 'general' });
+        setLocalStorage('loginMethod', 'general');
         await login();
       }
     } catch (error) {
@@ -96,7 +144,7 @@ const useAuthStore = create((set, get) => ({
         setLocalStorage('loginTime', new Date().toISOString());
         startLogoutTimer();
       } else {
-        set({ user: null, accessToken: null });
+        set({ user: null, accessToken: null, loginMethod: null });
         removeLocalStorage('loginTime');
         removeLocalStorage('accessToken');
         clearLogoutTimer();

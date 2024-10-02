@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoCard Test Snapshot 테스트 renders grid type correctly 1`] = `
+<DocumentFragment>
+  <li
+    class=""
+  >
+    <img
+      alt="title"
+      class="w-full play__icon rounded-lg"
+      loading="lazy"
+      src="https://www.youtube.com/"
+    />
+    <div>
+      <p
+        class="text-sm VideoCard__title font-semibold my-2 line-clamp-2 text-slate-200"
+      >
+        title
+      </p>
+      <p
+        class="text-xs  my-0"
+      >
+        channel title
+      </p>
+      <p
+        class="text-xs my-0"
+      >
+        just now
+      </p>
+    </div>
+  </li>
+</DocumentFragment>
+`;
+
+exports[`VideoCard Test Snapshot 테스트 renders list type correctly 1`] = `
+<DocumentFragment>
+  <li
+    class="flex gap-1 mx-2 mb-2 relativeVideo"
+  >
+    <img
+      alt="title"
+      class="w-60 mr-2 play__icon rounded-md"
+      loading="lazy"
+      src="https://www.youtube.com/"
+    />
+    <div>
+      <p
+        class="text-sm VideoCard__title font-semibold my-2 line-clamp-2 text-slate-200"
+      >
+        title
+      </p>
+      <p
+        class="text-xs  my-0"
+      >
+        channel title
+      </p>
+      <p
+        class="text-xs my-0"
+      >
+        just now
+      </p>
+    </div>
+  </li>
+</DocumentFragment>
+`;

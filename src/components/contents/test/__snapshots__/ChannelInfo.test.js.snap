@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelInfo Test 스냅샷 테스트 1`] = `
+<DocumentFragment>
+  <div
+    class="flex my-4 mb-8 items-center"
+  >
+    <a
+      href="/channel/123"
+    >
+      <img
+        alt="Test Channel"
+        class="w-20 h-20 rounded-full"
+        src="https://example.com/channel-image.jpg"
+      />
+    </a>
+    <p
+      class="text-xl font-medium ml-2"
+    >
+      Test Channel
+    </p>
+  </div>
+</DocumentFragment>
+`;

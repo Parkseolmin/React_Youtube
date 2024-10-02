@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchInput Test renders SearchInput 1`] = `
+<DocumentFragment>
+  <div
+    id="search"
+  >
+    <div
+      class="search__inner"
+    >
+      <form>
+        <label
+          for="searchInput"
+        >
+          <span
+            class="ir"
+          >
+            검색
+          </span>
+        </label>
+        <input
+          class="search__input "
+          id="searchInput"
+          placeholder="Search..."
+          type="text"
+          value=""
+        />
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
