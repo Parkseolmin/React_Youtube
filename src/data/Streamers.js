@@ -240,7 +240,7 @@ export const streamers = [
     channelId: 'UCUbOogiD-4PKDqaJfSOTC0g',
   },
   {
-    img: 'https://yt3.googleusercontent.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/oyzhciCQlUmRUQKKH2SElAXPvM7RM7ysWJs9gBMCoXpoFM7NRatzZd0kyfh6tduzZCdwtweiEA=s160-c-k-c0x00ffffff-no-rj',
     name: 'tvN drama',
     channelAddress: 'https://www.youtube.com/@tvNdrama',
     channelId: 'UC9w-h_ciMmX64TcLRcb1xPg',
@@ -372,7 +372,7 @@ export const streamers = [
     channelId: 'UCUbOogiD-4PKDqaJfSOTC0g',
   },
   {
-    img: 'https://yt3.googleusercontent.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/oyzhciCQlUmRUQKKH2SElAXPvM7RM7ysWJs9gBMCoXpoFM7NRatzZd0kyfh6tduzZCdwtweiEA=s160-c-k-c0x00ffffff-no-rj',
     name: 'tvN drama',
     channelAddress: 'https://www.youtube.com/@tvNdrama',
     channelId: 'UC9w-h_ciMmX64TcLRcb1xPg',
