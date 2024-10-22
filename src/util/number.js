@@ -10,5 +10,5 @@ export function formatNumber(number) {
    // 소수점 둘째자리에서 반올림 (소수 첫째자리까지 유지)
    const roundedNumber = Math.round(dividedNumber * 10) / 10;
 
-   return roundedNumber;
+    return `${roundedNumber}만`;
 }
