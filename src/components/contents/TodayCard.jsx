@@ -22,7 +22,7 @@ export default function TodayCard({ video, playitem = '' }) {
         data-testid='handleClickFitst'
       >
         <div className='today__thumb play__icon'>
-          <img src={thumbnails?.maxres?.url} alt={title} />
+          <img src={thumbnails?.maxres?.url} alt={title} loading='eager' />
         </div>
 
         {!playitem ? (
