@@ -45,6 +45,7 @@ export default function VideoDetail() {
           style={{ border: 'none' }}
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
           allowFullScreen
+          loading='lazy'
         ></iframe>
         <div className='p-8'>
           <h2 className='text-xl font-bold flex justify-between flex-col items-start gap-3'>
