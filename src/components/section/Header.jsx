@@ -41,7 +41,7 @@ export default function Header() {
         {loginMethod !== 'google' && <GeneralLogin />}
         {loginMethod !== 'general' && <GoogleBtn />}
 
-        <ul className='keyword' aria-label='Keywords'>
+        <ul className='keyword' aria-label='Keywords' role='menubar'>
           {keywords.map((keyword, index) => (
             <li
               key={index}
@@ -60,9 +60,9 @@ export default function Header() {
       </nav>
 
       <nav className='header__sns' aria-label='Social media links'>
-        <ul>
+        <ul role='menubar'>
           {snsLink.map((sns, index) => (
-            <li key={index}>
+            <li key={index} role='menuitem'>
               <a
                 href={sns.url}
                 target='_blank'
