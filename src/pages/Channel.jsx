@@ -54,6 +54,7 @@ export default function Channel() {
   const { subscriberCount, videoCount, viewCount } =
     channelImage?.statistics || {};
   console.log('relatedVideos', relatedVideos);
+  console.log('url', url);
 
   return (
     <section id='channel'>
@@ -79,7 +80,7 @@ export default function Channel() {
                 구독자 : {formatNumber(subscriberCount ?? '')}
                 만명
               </span>
-              <span>영상 : {formatNumber(videoCount)}개</span>
+              <span>영상 : {formatNumber(videoCount)}만개</span>
               <span>시청횟수 : {formatNumber(viewCount)}만번</span>
             </div>
           </div>

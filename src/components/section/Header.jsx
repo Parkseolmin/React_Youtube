@@ -2,7 +2,7 @@ import GeneralLogin from 'components/contents/GeneralLogin';
 import GoogleBtn from 'components/contents/GoogleBtn';
 import HeaderLogo from 'components/contents/HeaderLogo';
 import { keywords, login, menus, snsLink } from 'data/header';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import useAuthStore from 'store/useAuthStore';
 
