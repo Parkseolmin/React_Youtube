@@ -24,7 +24,6 @@ export default function Header() {
             <li
               key={index}
               className={location.pathname === menu.src ? 'active' : ''}
-              tabIndex={index + 1}
             >
               <Link
                 role='menuitem'
@@ -42,12 +41,11 @@ export default function Header() {
         {loginMethod !== 'google' && <GeneralLogin />}
         {loginMethod !== 'general' && <GoogleBtn />}
 
-        <ul className='keyword' aria-label='Keywords' role='menubar'>
+        <ul className='keyword' aria-label='Keywords'>
           {keywords.map((keyword, index) => (
             <li
               key={index}
               className={location.pathname === keyword.src ? 'active' : ''}
-              tabIndex={menus.length + login.length + index + 1}
             >
               <Link
                 role='menuitem'
@@ -64,12 +62,7 @@ export default function Header() {
       <nav className='header__sns' aria-label='Social media links'>
         <ul>
           {snsLink.map((sns, index) => (
-            <li
-              key={index}
-              tabIndex={
-                menus.length + login.length + keywords.length + index + 1
-              }
-            >
+            <li key={index}>
               <a
                 href={sns.url}
                 target='_blank'
