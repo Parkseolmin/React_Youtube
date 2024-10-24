@@ -22,7 +22,6 @@ export default function Header() {
         <ul className='menu' role='menubar'>
           {menus.map((menu, index) => (
             <li
-              role='none'
               key={index}
               className={location.pathname === menu.src ? 'active' : ''}
               tabIndex={index + 1}
@@ -46,7 +45,6 @@ export default function Header() {
         <ul className='keyword' aria-label='Keywords' role='menubar'>
           {keywords.map((keyword, index) => (
             <li
-              role='none'
               key={index}
               className={location.pathname === keyword.src ? 'active' : ''}
               tabIndex={menus.length + login.length + index + 1}
