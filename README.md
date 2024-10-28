@@ -68,16 +68,16 @@ REACT_APP_CLIENTID=your_googlecloudid_key
 
 ## 버전 정보
 
-현재 버전: v1.0.0 (베타)
+현재 버전: v2.0.0 ()
 
 향후 업데이트 계획:
-- v1.0.1: 성능 최적화
+- v2.0.1: 성능 최적화
   - Google Chrome의 Lighthouse를 통해 최적화 진행
   - 반응성, 접근성, SEO 최적화
   - 코드 품질 향상
   - 사용자 경험 개선
     
-- v1.1.0: TypeScript로의 전환
+- v2.1.0: TypeScript로의 전환
   - 정적 타입 검사를 통한 코드 안정성 향상
   - 개발자 경험 개선 및 버그 감소
   - 더 나은 유지보수성과 확장성 확보
@@ -106,5 +106,5 @@ Firebase를 활용한 로그인 및 데이터베이스 구현 경험은 백엔�
 <br>
 
 ## 프로젝트 회고 및 진행 기록 보러가기
-- [ver1.0.0 Blog 글 보러가기](https://snowman-seolmini.tistory.com/84)
+- [ver2.0.0 Blog 글 보러가기](https://snowman-seolmini.tistory.com/84)
 
