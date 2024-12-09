@@ -24,7 +24,6 @@ export default function Search() {
         nextPageToken: result.nextPageToken,
       };
     },
-    staleTime: 1000 * 60 * 5,
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
   });
 

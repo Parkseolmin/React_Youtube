@@ -13,7 +13,6 @@ export default function ChannelInfo({ channelId, name }) {
   } = useQuery({
     queryKey: ['channel', channelId],
     queryFn: () => youtube.channelImageURL(channelId),
-    staleTime: 1000 * 60 * 5,
   });
 
   if (isLoading) {

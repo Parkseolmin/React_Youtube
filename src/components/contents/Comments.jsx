@@ -18,7 +18,6 @@ export default function Comments({ videoId }) {
     queryFn: async ({ pageParam = '' }) => {
       return youtube.commentsAPI(videoId, pageParam);
     },
-    staleTime: 1000 * 60 * 5,
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
   });
   // const {

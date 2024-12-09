@@ -8,6 +8,7 @@ export const useYoutubeQuery = (queryKey, queryFn, options = {}) => {
     queryKey,
     queryFn: () => queryFn(youtube),
     staleTime: 1000 * 60 * 5,
+    refetchOnWindowFocus: false,
     ...options,
   });
 };
@@ -20,6 +21,7 @@ export const useYoutubeInfiniteQuery = (queryKey, queryFn, options = {}) => {
     queryFn: ({ pageParam = '' }) => queryFn(youtube, pageParam),
     getNextPageParam: (lastPage) => lastPage?.nextPageToken ?? undefined,
     staleTime: 1000 * 60 * 5,
+    refetchOnWindowFocus: false,
     ...options,
   });
 };

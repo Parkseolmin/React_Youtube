@@ -79,8 +79,8 @@ export const keywords = [
     src: '/search/html',
   },
   {
-    title: 'HOT MOVIE',
-    src: '/search/HOTMOVIE',
+    title: 'HOT MUSIC',
+    src: '/search/HOT MUSIC',
   },
   {
     title: 'K-POP',

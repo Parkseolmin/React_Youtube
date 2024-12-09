@@ -32,6 +32,7 @@ export default function MovieDetail() {
         <section style={{ textAlign: 'center' }}>
           <h2>{currentVideo.snippet.title}</h2>
           <iframe
+            sandbox='allow-scripts allow-modals allow-popups'
             className='movieDetail'
             width='80%'
             height='540'

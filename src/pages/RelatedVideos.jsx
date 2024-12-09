@@ -19,7 +19,6 @@ export default function RelatedVideos({ id }) {
       };
     },
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
-    staleTime: 1000 * 60 * 5,
   });
   return (
     <>

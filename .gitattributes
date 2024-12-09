@@ -1,0 +1,20 @@
+# 모든 텍스트 파일에서 줄바꿈을 자동으로 처리
+* text=auto
+
+# LF로 고정할 파일 확장자
+*.sh text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+
+# 바이너리 파일은 변환하지 않음
+*.png binary
+*.jpg binary
+*.gif binary
+*.svg binary
+
+# Windows 전용 실행 파일
+*.exe text eol=crlf
+*.bat text eol=crlf

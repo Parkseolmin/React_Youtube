@@ -16,7 +16,6 @@ export default function GoogleBtn() {
   const [outhtoken, setOuthtoken] = useState(accessToken);
 
   const fetchSubscriptions = async (token, pageParam) => {
-    console.log('fetchSubscriptions 실행!!!');
     return await youtube.fetchSubscriptions(token, pageParam);
   };
 
@@ -32,14 +31,13 @@ export default function GoogleBtn() {
     queryFn: ({ pageParam = '' }) => fetchSubscriptions(outhtoken, pageParam),
     getNextPageParam: (lastPage) => lastPage.nextPageToken || null,
     enabled: !!outhtoken,
-    staleTime: 1000 * 60 * 5,
   });
 
   const refreshToken = async () => {
     try {
       // 현재 Google 인증 인스턴스를 가져옴
       const authInstance = gapi.auth2.getAuthInstance();
-      console.log('Auth instance:', authInstance);
+      // console.log('Auth instance:', authInstance);
 
       // 사용자가 로그인되어 있는지 확인함
       if (authInstance.isSignedIn.get()) {
@@ -47,15 +45,15 @@ export default function GoogleBtn() {
         const authResponse = await authInstance.currentUser
           .get()
           .reloadAuthResponse();
-        console.log('authResponse', authResponse);
+        // console.log('authResponse', authResponse);
         const newToken = authResponse.access_token;
         setOuthtoken(newToken);
-        console.log('New access token:', newToken);
+        // console.log('New access token:', newToken);
 
         // 새로운 토큰을 사용하여 YouTube API 호출
         fetchSubscriptions(newToken);
       } else {
-        console.log('User is not signed in');
+        // console.log('User is not signed in');
         // gapi.auth2를 통해 사용자를 다시 로그인 시도
         await authInstance.signIn();
         // 로그인 후, 현재 사용자의 인증 응답을 가져옴
@@ -64,7 +62,7 @@ export default function GoogleBtn() {
           .getAuthResponse();
         const newToken = authResponse.access_token;
         setOuthtoken(newToken);
-        console.log('User re-signed in, new access token:', newToken);
+        // console.log('User re-signed in, new access token:', newToken);
 
         // 새로운 토큰을 사용하여 YouTube API 호출
         fetchSubscriptions(newToken);
@@ -85,7 +83,7 @@ export default function GoogleBtn() {
           scope: 'https://www.googleapis.com/auth/youtube.readonly',
         })
         .then(() => {
-          console.log('GAPI client initialized');
+          // console.log('GAPI client initialized');
         })
         .catch((error) => {
           console.error('Error initializing GAPI client:', error);
@@ -107,7 +105,7 @@ export default function GoogleBtn() {
           scope: 'https://www.googleapis.com/auth/youtube.readonly',
         })
         .then(() => {
-          console.log('GAPI client initialized');
+          // console.log('GAPI client initialized');
         })
         .catch((error) => {
           console.error('Error initializing GAPI client:', error);
@@ -156,7 +154,7 @@ export default function GoogleBtn() {
       </ul>
 
       {error && <p>Error loading subscriptions: {error.message}</p>}
-      {console.log('subscriptionData', subscriptionData)}
+      {/* {console.log('subscriptionData', subscriptionData)} */}
       <ul className='flex flex-col gap-2 p-3 ps-6'>
         {isLoading ? (
           <p style={{ textAlign: 'center', paddingTop: '10px' }}>

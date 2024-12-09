@@ -23,7 +23,6 @@ export default function ShortsVideo() {
       };
     },
     getNextPageParam: (lastPage) => lastPage.nextPageToken || undefined,
-    staleTime: 1000 * 60 * 5,
   });
   return (
     <section className='mt-3'>
