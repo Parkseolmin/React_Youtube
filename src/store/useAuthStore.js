@@ -6,6 +6,7 @@ import {
   signOut,
 } from 'firebase/auth';
 import { auth, provider } from 'firebaseapi/firebase';
+import { queryClient } from 'index';
 
 const LOGOUT_TIME_LIMIT = 50; // 분
 const CHECK_INTERVAL = 5 * 60 * 1000; // 5분
@@ -80,6 +81,10 @@ const useAuthStore = create((set, get) => ({
       removeLocalStorage('accessToken');
       removeLocalStorage('loginMethod');
       clearLogoutTimer();
+
+      queryClient.resetQueries({
+        queryKey: ['subscription'],
+      });
     } catch (error) {
       console.error('Logout error:', error);
     }

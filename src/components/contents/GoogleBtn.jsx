@@ -114,6 +114,7 @@ export default function GoogleBtn() {
 
     gapi.load('client:auth2', initClient);
   }, []);
+
   return (
     <div>
       <ul className='menu login' role='menubar'>
