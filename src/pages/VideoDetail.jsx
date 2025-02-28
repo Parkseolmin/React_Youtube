@@ -33,6 +33,7 @@ export default function VideoDetail() {
   };
   const isLiked = likedVideos[videoId];
 
+  console.log('비디오 아이디 잘 받아옴?', videoId);
   return (
     <section className='flex flex-col lg:flex-row max-800:mt-[70px]'>
       <article className='basis-4/6'>
