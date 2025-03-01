@@ -38,7 +38,6 @@ export default function VideoDetail() {
     <section className='flex flex-col lg:flex-row max-800:mt-[70px]'>
       <article className='basis-4/6'>
         <iframe
-          sandbox='allow-scripts allow-modals allow-popups'
           className='rounded-lg max-800:h-[360px]'
           width='100%'
           height='640'
